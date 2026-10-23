@@ -1,0 +1,344 @@
+{
+ "generated_at": "2026-10-23T10:35:39Z",
+ "demo": true,
+ "items": [
+  {
+   "id": "6670a03a6f28f04c",
+   "title": "Sample: New infostealer campaign spreads through fake browser updates",
+   "link": "https://example.com/sample-infostealer",
+   "source": "Demo feed (sample data)",
+   "type": "news",
+   "summary": "Demo item. A malware loader delivers an infostealer through a fake update page.",
+   "published": "2026-10-23T09:35:39Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "e09524e18deef289",
+   "title": "Sample: Ransomware group claims attack on a regional hospital network",
+   "link": "https://example.com/sample-ransomware",
+   "source": "Demo feed (sample data)",
+   "type": "news",
+   "summary": "Demo item. Extortion site lists a new victim and gives a payment deadline.",
+   "published": "2026-10-23T06:35:39Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "76869c921332e045",
+   "title": "Sample: Hunting for rare OAuth consent grants with KQL and SPL",
+   "link": "https://example.com/sample-hunting",
+   "source": "Demo feed (sample data)",
+   "type": "news",
+   "summary": "Demo item. A threat hunting walkthrough with detection rule ideas mapped to ATT&CK.",
+   "published": "2026-10-23T03:35:39Z",
+   "tags": [
+    "threat-hunting",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "1ca67b3987c003c7",
+   "title": "Sample: Zero-day in a VPN appliance (CVE-2026-0001) exploited in the wild",
+   "link": "https://example.com/sample-zero-day",
+   "source": "Demo feed (sample data)",
+   "type": "news",
+   "summary": "Demo item. Vendors urge customers to apply the emergency patch.",
+   "published": "2026-10-23T00:35:39Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "eb138f5bb0b00e43",
+   "title": "Sample: Token theft against Entra ID tenants bypasses MFA",
+   "link": "https://example.com/sample-identity",
+   "source": "Demo feed (sample data)",
+   "type": "news",
+   "summary": "Demo item. Attackers replay stolen session tokens against cloud identity services.",
+   "published": "2026-10-22T21:35:39Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "3d80356204163dec",
+   "title": "Sample: Incident response notes on memory forensics for a compromised server",
+   "link": "https://example.com/sample-dfir",
+   "source": "Demo feed (sample data)",
+   "type": "news",
+   "summary": "Demo item. A DFIR case study using Volatility and timeline analysis.",
+   "published": "2026-10-22T18:35:39Z",
+   "tags": [
+    "dfir"
+   ]
+  },
+  {
+   "id": "a5771ae24b6c989f",
+   "title": "Sample: State-sponsored APT group targets telecom providers",
+   "link": "https://example.com/sample-apt",
+   "source": "Demo feed (sample data)",
+   "type": "news",
+   "summary": "Demo item. Nation-state threat actor activity tracked by researchers.",
+   "published": "2026-10-22T15:35:39Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "48bb8623a44ad604",
+   "title": "Sample: Phishing kit abuses QR codes to harvest credentials",
+   "link": "https://example.com/sample-phishing",
+   "source": "Demo feed (sample data)",
+   "type": "news",
+   "summary": "Demo item. Credential harvesting through spearphishing emails with embedded QR codes.",
+   "published": "2026-10-22T12:35:39Z",
+   "tags": [
+    "phishing"
+   ]
+  }
+ ],
+ "kev": [
+  {
+   "cve": "CVE-2026-0001",
+   "vendor": "Example",
+   "product": "VPN appliance",
+   "name": "Sample entry (demo data)",
+   "added": "2026-10-23",
+   "due": "2026-11-13",
+   "ransomware": false
+  }
+ ],
+ "iocs": [
+  {
+   "indicator": "hxxps://malware-example[.]test/payload.exe",
+   "threat": "malware_download",
+   "tags": [
+    "demo"
+   ],
+   "added": "2026-10-23T10:35:39Z",
+   "source": "Demo"
+  }
+ ],
+ "sources": [
+  {
+   "name": "BleepingComputer",
+   "type": "news",
+   "home": "https://www.bleepingcomputer.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "The Hacker News",
+   "type": "news",
+   "home": "https://feeds.feedburner.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Krebs on Security",
+   "type": "news",
+   "home": "https://krebsonsecurity.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "SecurityWeek",
+   "type": "news",
+   "home": "https://feeds.feedburner.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Dark Reading",
+   "type": "news",
+   "home": "https://www.darkreading.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "The Record",
+   "type": "news",
+   "home": "https://therecord.media",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Schneier on Security",
+   "type": "news",
+   "home": "https://www.schneier.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "home": "https://www.microsoft.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Microsoft Security Response Center",
+   "type": "vendor-research",
+   "home": "https://msrc.microsoft.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Google Threat Intelligence (Mandiant)",
+   "type": "vendor-research",
+   "home": "https://cloud.google.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Google Project Zero",
+   "type": "vendor-research",
+   "home": "https://googleprojectzero.blogspot.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "home": "https://www.crowdstrike.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "home": "https://unit42.paloaltonetworks.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Cisco Talos",
+   "type": "vendor-research",
+   "home": "https://blog.talosintelligence.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "SentinelOne Labs",
+   "type": "vendor-research",
+   "home": "https://www.sentinelone.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "home": "https://securelist.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "home": "https://www.welivesecurity.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Check Point Research",
+   "type": "vendor-research",
+   "home": "https://research.checkpoint.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Elastic Security Labs",
+   "type": "vendor-research",
+   "home": "https://www.elastic.co",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Sophos News",
+   "type": "vendor-research",
+   "home": "https://news.sophos.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "home": "https://www.malwarebytes.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Red Canary",
+   "type": "vendor-research",
+   "home": "https://redcanary.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "The DFIR Report",
+   "type": "vendor-research",
+   "home": "https://thedfirreport.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "home": "https://www.cisa.gov",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "NCSC UK",
+   "type": "government",
+   "home": "https://www.ncsc.gov.uk",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "SANS Internet Storm Center",
+   "type": "community",
+   "home": "https://isc.sans.edu",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Reddit r/netsec",
+   "type": "community",
+   "home": "https://www.reddit.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "Reddit r/blueteamsec",
+   "type": "community",
+   "home": "https://www.reddit.com",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "CISA Known Exploited Vulnerabilities",
+   "type": "intel-feed",
+   "home": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "abuse.ch URLhaus",
+   "type": "intel-feed",
+   "home": "https://urlhaus.abuse.ch",
+   "status": "pending",
+   "count": 0
+  },
+  {
+   "name": "AlienVault OTX",
+   "type": "intel-feed",
+   "home": "https://otx.alienvault.com",
+   "status": "pending",
+   "count": 0
+  }
+ ]
+}

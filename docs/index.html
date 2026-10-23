@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>CyberPulse: cybersecurity news in one place</title>
+<meta name="description" content="Latest cybersecurity news, research blogs and threat intelligence from many sources, filterable by topic.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#latest">Skip to articles</a>
+
+<header class="hero">
+  <canvas id="net" aria-hidden="true"></canvas>
+  <nav class="wrap nav" aria-label="Primary">
+    <a class="logo" href="#top">
+      <span class="logo-mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h4l2.5-6 4 12 2.5-6H21"/></svg>
+      </span>
+      <span>CyberPulse</span>
+    </a>
+    <div class="nav-links">
+      <a href="#latest">Latest</a>
+      <a href="#panels">Threat panels</a>
+      <a href="#sources">Sources</a>
+    </div>
+    <span id="live" class="live"><span class="dot" aria-hidden="true"></span><span id="live-text">Loading</span></span>
+  </nav>
+
+  <div id="top" class="wrap hero-body">
+    <p class="eyebrow">Threat intelligence bulletin</p>
+    <h1>Every cybersecurity update.<br><span class="grad">One feed.</span></h1>
+    <p class="lede">Research blogs, news, government advisories and OSINT feeds, collected automatically and sorted by the topics you care about.</p>
+    <dl class="stats">
+      <div class="stat"><dt>New in 24 hours</dt><dd id="st-new">0</dd></div>
+      <div class="stat"><dt>Articles tracked</dt><dd id="st-total">0</dd></div>
+      <div class="stat"><dt>Sources online</dt><dd id="st-src">0</dd></div>
+      <div class="stat"><dt>Exploited CVEs tracked</dt><dd id="st-kev">0</dd></div>
+    </dl>
+  </div>
+</header>
+
+<div id="latest" class="filterbar">
+  <div class="wrap fb-inner">
+    <div class="fb-row">
+      <div class="search">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input id="q" type="search" aria-label="Search articles" placeholder="Search titles, summaries, sources" autocomplete="off">
+      </div>
+      <select id="source" aria-label="Filter by source"></select>
+      <select id="range" aria-label="Filter by time range"></select>
+      <button id="clear" type="button" class="ghost">Clear filters</button>
+    </div>
+    <div id="chips" class="chips" role="group" aria-label="Filter by topic"></div>
+  </div>
+</div>
+
+<main class="wrap layout">
+  <section class="feed" aria-labelledby="feed-title">
+    <div class="feed-head">
+      <h2 id="feed-title">Latest articles</h2>
+      <p id="count" class="count" aria-live="polite"></p>
+    </div>
+    <div id="list" class="list" aria-busy="true">
+      <div class="skel"></div><div class="skel"></div><div class="skel"></div><div class="skel"></div>
+    </div>
+    <button id="more" type="button" class="more" hidden>Show more articles</button>
+  </section>
+
+  <aside id="panels" class="side" aria-label="Threat intelligence panels">
+    <section id="pulse-panel" class="panel">
+      <h2>Topic pulse</h2>
+      <p class="note">Articles per topic in the selected time range. Select a row to filter.</p>
+      <div id="pulse" class="pulse"></div>
+    </section>
+    <section id="kev-panel" class="panel" hidden>
+      <h2>Actively exploited (CISA KEV)</h2>
+      <ul id="kev" class="plain"></ul>
+    </section>
+    <section id="ioc-panel" class="panel" hidden>
+      <h2>Fresh malicious URLs</h2>
+      <p class="note">Defanged so they cannot be clicked by accident.</p>
+      <ul id="iocs" class="plain"></ul>
+    </section>
+  </aside>
+</main>
+
+<section id="sources" class="wrap sources" aria-labelledby="sources-title">
+  <h2 id="sources-title">Sources we pull from</h2>
+  <p class="note">Every item links to the original publisher. We show only headlines and short snippets.</p>
+  <div id="source-groups"></div>
+</section>
+
+<footer class="foot">
+  <div class="wrap foot-inner">
+    <span>CyberPulse is an aggregator. Content belongs to the publishers listed above.</span>
+    <a href="#top">Back to top</a>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

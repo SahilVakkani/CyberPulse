@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Demo feed (sample data)</title>
+    <link>https://example.com/</link>
+    <description>Sample items used by --demo mode. Not real news.</description>
+    <item>
+      <title>Sample: New infostealer campaign spreads through fake browser updates</title>
+      <link>https://example.com/sample-infostealer</link>
+      <description>&lt;p&gt;Demo item. A malware loader delivers an infostealer through a fake update page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample: Ransomware group claims attack on a regional hospital network</title>
+      <link>https://example.com/sample-ransomware</link>
+      <description>Demo item. Extortion site lists a new victim and gives a payment deadline.</description>
+    </item>
+    <item>
+      <title>Sample: Hunting for rare OAuth consent grants with KQL and SPL</title>
+      <link>https://example.com/sample-hunting</link>
+      <description>Demo item. A threat hunting walkthrough with detection rule ideas mapped to ATT&amp;CK.</description>
+    </item>
+    <item>
+      <title>Sample: Zero-day in a VPN appliance (CVE-2026-0001) exploited in the wild</title>
+      <link>https://example.com/sample-zero-day</link>
+      <description>Demo item. Vendors urge customers to apply the emergency patch.</description>
+    </item>
+    <item>
+      <title>Sample: Token theft against Entra ID tenants bypasses MFA</title>
+      <link>https://example.com/sample-identity</link>
+      <description>Demo item. Attackers replay stolen session tokens against cloud identity services.</description>
+    </item>
+    <item>
+      <title>Sample: Incident response notes on memory forensics for a compromised server</title>
+      <link>https://example.com/sample-dfir</link>
+      <description>Demo item. A DFIR case study using Volatility and timeline analysis.</description>
+    </item>
+    <item>
+      <title>Sample: State-sponsored APT group targets telecom providers</title>
+      <link>https://example.com/sample-apt</link>
+      <description>Demo item. Nation-state threat actor activity tracked by researchers.</description>
+    </item>
+    <item>
+      <title>Sample: Phishing kit abuses QR codes to harvest credentials</title>
+      <link>https://example.com/sample-phishing</link>
+      <description>Demo item. Credential harvesting through spearphishing emails with embedded QR codes.</description>
+    </item>
+  </channel>
+</rss>

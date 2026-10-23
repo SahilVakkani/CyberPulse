@@ -1,0 +1,111 @@
+# CyberPulse sources. Add or remove entries freely.
+# type: news | vendor-research | government | community
+# tags: optional default topics for every item from that feed
+#   (topics: malware, ransomware, threat-hunting, vulnerabilities,
+#    cloud-identity, dfir, threat-actors, phishing)
+# Feed URLs change over time. The collector logs failures per feed and keeps going.
+
+feeds:
+  # --- News ---
+  - name: BleepingComputer
+    url: https://www.bleepingcomputer.com/feed/
+    type: news
+  - name: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews
+    type: news
+  - name: Krebs on Security
+    url: https://krebsonsecurity.com/feed/
+    type: news
+  - name: SecurityWeek
+    url: https://feeds.feedburner.com/securityweek
+    type: news
+  - name: Dark Reading
+    url: https://www.darkreading.com/rss.xml
+    type: news
+  - name: The Record
+    url: https://therecord.media/feed
+    type: news
+  - name: Schneier on Security
+    url: https://www.schneier.com/feed/atom/
+    type: news
+
+  # --- Vendor and research blogs ---
+  - name: Microsoft Security Blog
+    url: https://www.microsoft.com/en-us/security/blog/feed/
+    type: vendor-research
+  - name: Microsoft Security Response Center
+    url: https://msrc.microsoft.com/blog/feed
+    type: vendor-research
+    tags: [vulnerabilities]
+  - name: Google Threat Intelligence (Mandiant)
+    url: https://cloud.google.com/blog/topics/threat-intelligence/rss/
+    type: vendor-research
+    tags: [threat-actors]
+  - name: Google Project Zero
+    url: https://googleprojectzero.blogspot.com/feeds/posts/default
+    type: vendor-research
+    tags: [vulnerabilities]
+  - name: CrowdStrike Blog
+    url: https://www.crowdstrike.com/en-us/blog/feed
+    type: vendor-research
+  - name: Unit 42 (Palo Alto Networks)
+    url: https://unit42.paloaltonetworks.com/feed/
+    type: vendor-research
+    tags: [threat-actors]
+  - name: Cisco Talos
+    url: https://blog.talosintelligence.com/rss/
+    type: vendor-research
+  - name: SentinelOne Labs
+    url: https://www.sentinelone.com/labs/feed/
+    type: vendor-research
+    tags: [malware]
+  - name: Securelist (Kaspersky)
+    url: https://securelist.com/feed/
+    type: vendor-research
+    tags: [malware]
+  - name: ESET WeLiveSecurity
+    url: https://www.welivesecurity.com/en/rss/feed/
+    type: vendor-research
+  - name: Check Point Research
+    url: https://research.checkpoint.com/feed/
+    type: vendor-research
+  - name: Elastic Security Labs
+    url: https://www.elastic.co/security-labs/rss/feed.xml
+    type: vendor-research
+    tags: [threat-hunting]
+  - name: Sophos News
+    url: https://news.sophos.com/en-us/feed/
+    type: vendor-research
+  - name: Malwarebytes Labs
+    url: https://www.malwarebytes.com/blog/feed/index.xml
+    type: vendor-research
+    tags: [malware]
+  - name: Red Canary
+    url: https://redcanary.com/blog/feed/
+    type: vendor-research
+    tags: [threat-hunting]
+  - name: The DFIR Report
+    url: https://thedfirreport.com/feed/
+    type: vendor-research
+    tags: [dfir]
+
+  # --- Government and CERT ---
+  - name: CISA Cybersecurity Advisories
+    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+    type: government
+    tags: [vulnerabilities]
+  - name: NCSC UK
+    url: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
+    type: government
+
+  # --- Community and OSINT ---
+  - name: SANS Internet Storm Center
+    url: https://isc.sans.edu/rssfeed.xml
+    type: community
+  - name: Reddit r/netsec
+    url: https://www.reddit.com/r/netsec/.rss
+    type: community
+  - name: Reddit r/blueteamsec
+    url: https://www.reddit.com/r/blueteamsec/.rss
+    type: community
+    tags: [threat-hunting]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T10:59:55Z",
+ "generated_at": "2026-10-23T15:39:43Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,267 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T10:59:43Z",
+   "published": "2026-10-23T15:39:35Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5d4b1321ac5e829f",
+   "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+   "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+   "published": "2026-10-23T15:38:05Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "cc9d2af1906526d5",
+   "title": "Imperia CMS SiteActive TEMPLATE Unauthenticated SSTI Remote Code Execution (CVE-2026-110355)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xdfues/imperia_cms_siteactive_template_unauthenticated/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/MrTuxracer [link] [comments]",
+   "published": "2026-10-23T14:37:35Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "52d3232953e2ec34",
+   "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+   "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared…",
+   "published": "2026-10-23T14:23:37Z",
+   "tags": [
+    "ransomware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "4eed9c7e043606c8",
+   "title": "You gave your AI agent access, but who is giving it orders?",
+   "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure…",
+   "published": "2026-10-23T14:00:10Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "bd43f4cf3245ccee",
+   "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
+   "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
+   "published": "2026-10-23T14:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f059789b24373367",
+   "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+   "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign…",
+   "published": "2026-10-23T13:50:56Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b804b86001a7cc59",
+   "title": "Introducing pathrunner: An AWS privilege escalation framework",
+   "link": "https://www.reddit.com/r/netsec/comments/1xdegk4/introducing_pathrunner_an_aws_privilege/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/sethsec [link] [comments]",
+   "published": "2026-10-23T13:44:52Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "cf981b7260213c66",
+   "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
+   "link": "https://isc.sans.edu/diary/rss/33450",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as…",
+   "published": "2026-10-23T13:43:20Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ff1522ac28cbf7ce",
+   "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
+   "link": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself.",
+   "published": "2026-10-23T13:30:00Z",
+   "tags": [
+    "cloud-identity",
+    "phishing"
+   ]
+  },
+  {
+   "id": "b49db17578fd765a",
+   "title": "UK proposes 14-year prison terms for undersea cable sabotage",
+   "link": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
+   "source": "The Record",
+   "type": "news",
+   "summary": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
+   "published": "2026-10-23T13:26:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1f5a5b9d7a466df5",
+   "title": "EMFI adventures part 2: target characterization on STM32H5",
+   "link": "https://www.reddit.com/r/netsec/comments/1xddn1d/emfi_adventures_part_2_target_characterization_on/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/gquere [link] [comments]",
+   "published": "2026-10-23T13:11:19Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d7455f6df54dbdd2",
+   "title": "Incident Response and Threat Landscape Report: Critical Infrastructure Vulnerabilities and Extortion Tactics",
+   "link": "https://www.reddit.com/r/netsec/comments/1xddkk1/incident_response_and_threat_landscape_report/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Much-Television-9449 [link] [comments]",
+   "published": "2026-10-23T13:08:19Z",
+   "tags": [
+    "ransomware",
+    "vulnerabilities",
+    "dfir"
+   ]
+  },
+  {
+   "id": "dec172d83b7de308",
+   "title": "Resident Evil maker Capcom warns of phishing after 11.7 million records exposed",
+   "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/resident-evil-maker-capcom-warns-of-phishing-after-11-7-million-records-exposed",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Exposed email addresses could put CAPCOM ID users at risk of phishing. Passwords were also changed without permission on 196 accounts.",
+   "published": "2026-10-23T13:07:52Z",
+   "tags": [
+    "malware",
+    "phishing"
+   ]
+  },
+  {
+   "id": "7349fc6afb73f184",
+   "title": "Infostealer riding the AI Train",
+   "link": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
+   "source": "Check Point Research",
+   "type": "vendor-research",
+   "summary": "Key Points Introduction Infostealers commonly target browser passwords, session cookies, and cryptocurrency wallets. This malware combines those established capabilities with dedicated collection routines for AI applications and development tools. Its targets include Claude,…",
+   "published": "2026-10-23T13:00:09Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "8bb708370d7a3fb9",
+   "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
+   "link": "https://therecord.media/quest-diagnostics-network-intrusion",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.",
+   "published": "2026-10-23T12:52:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "eb477469ff02e82d",
+   "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+   "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+   "published": "2026-10-23T12:48:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ceaaccb7c7382a0b",
+   "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+   "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge appeared first on SecurityWeek .",
+   "published": "2026-10-23T12:45:52Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ba1a1addd0c23c78",
+   "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
+   "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+   "published": "2026-10-23T11:38:28Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "3bc9a46d29046dd2",
+   "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+   "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an…",
+   "published": "2026-10-23T11:25:43Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "80697809b26e3096",
+   "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+   "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the…",
+   "published": "2026-10-23T11:11:23Z",
+   "tags": [
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "2ce43354cd03a403",
+   "title": "Compromised TLS Certificates",
+   "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve…",
+   "published": "2026-10-23T11:04:22Z",
    "tags": [
     "general"
    ]
@@ -160,15 +420,14 @@
   },
   {
    "id": "94808457651058f4",
-   "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+   "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
    "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
    "source": "SecurityWeek",
    "type": "news",
-   "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months appeared first on SecurityWeek .",
+   "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek .",
    "published": "2026-10-23T09:58:34Z",
    "tags": [
-    "vulnerabilities",
-    "cloud-identity"
+    "vulnerabilities"
    ]
   },
   {
@@ -233,11 +492,11 @@
   },
   {
    "id": "0515431e7464769e",
-   "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+   "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
    "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
    "source": "SecurityWeek",
    "type": "news",
-   "summary": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’ appeared first on SecurityWeek .",
+   "summary": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’ appeared first on SecurityWeek .",
    "published": "2026-10-23T08:25:06Z",
    "tags": [
     "general"
@@ -468,6 +727,19 @@
    "published": "2026-10-23T03:30:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "6eef90347dd9985f",
+   "title": "How CVE-2026-73570 turns a Zimbra log file into remote code execution",
+   "link": "https://www.elastic.co/security-labs/threat-command/command-injection-zimbra-cve-2026-73570",
+   "source": "Elastic Security Labs",
+   "type": "vendor-research",
+   "summary": "We reproduced the Zimbra command injection vulnerability and found that several public PoCs write a payload Swatchdog never matches, so a failed test looks like a patched server.",
+   "published": "2026-10-23T00:00:00Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
    ]
   },
   {
@@ -715,6 +987,18 @@
    ]
   },
   {
+   "id": "50fc4d5f2d8617bc",
+   "title": "CVE-2026-94300: Concurrent GSS-TSIG messages corrupt memory",
+   "link": "https://www.reddit.com/r/netsec/comments/1xcnwyi/cve202694300_concurrent_gsstsig_messages_corrupt/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/LordAlfredo [link] [comments]",
+   "published": "2026-10-22T16:49:44Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "2a5b06ac50903a69",
    "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
    "link": "https://therecord.media/china-cyber-connectwise-ai",
@@ -722,6 +1006,18 @@
    "type": "news",
    "summary": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organizations around the globe, Microsoft said.",
    "published": "2026-10-22T16:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a1a20818da6a1eed",
+   "title": "Markdown Is the New Executable: Attackers Are Dropping Agent Instructions Into Your Downloads Folder From the Web",
+   "link": "https://www.reddit.com/r/netsec/comments/1xcnb6o/markdown_is_the_new_executable_attackers_are/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Content-Winter5328 [link] [comments]",
+   "published": "2026-10-22T16:27:22Z",
    "tags": [
     "general"
    ]
@@ -758,6 +1054,18 @@
    "type": "news",
    "summary": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek .",
    "published": "2026-10-22T14:31:34Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "3c321f073d2095b2",
+   "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
+   "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+   "published": "2026-10-22T14:21:22Z",
    "tags": [
     "general"
    ]
@@ -1185,6 +1493,18 @@
    ]
   },
   {
+   "id": "261c64f3ab3c3f64",
+   "title": "Custom Extensions for SmartScreen Evasion",
+   "link": "https://www.reddit.com/r/netsec/comments/1xcf5yh/custom_extensions_for_smartscreen_evasion/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/netbiosX [link] [comments]",
+   "published": "2026-10-22T10:44:10Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "1d3516a0d0a60e24",
    "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
    "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
@@ -1192,6 +1512,18 @@
    "type": "news",
    "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the…",
    "published": "2026-10-22T10:44:05Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6eda155ba478a13e",
+   "title": "The PHP Foundation: Today's PHP Security Release, and How We're Strengthening PHP Security",
+   "link": "https://www.reddit.com/r/netsec/comments/1xcegee/the_php_foundation_todays_php_security_release/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/si9int [link] [comments]",
+   "published": "2026-10-22T10:03:39Z",
    "tags": [
     "general"
    ]
@@ -1337,7 +1669,7 @@
   },
   {
    "id": "a734856ab1edb465",
-   "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+   "title": "UAE Transitions 50% of Government Services to Agentic AI",
    "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
    "source": "Dark Reading",
    "type": "news",
@@ -1385,6 +1717,18 @@
    ]
   },
   {
+   "id": "94c3096b953abee9",
+   "title": "Gallery of PHP maintenance pages from today",
+   "link": "https://www.reddit.com/r/netsec/comments/1xc3p6r/gallery_of_php_maintenance_pages_from_today/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/R74nCom [link] [comments]",
+   "published": "2026-10-22T00:07:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "832124389031586a",
    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
@@ -1410,12 +1754,25 @@
    ]
   },
   {
+   "id": "bf6bc6a1f19ded83",
+   "title": "PHP2Shell (CVE-2026-109618/109619): first exploit requests arrived 5.5 hours before PHP shipped the fix, and the \"scanners\" carry Mirai-style loaders",
+   "link": "https://www.reddit.com/r/netsec/comments/1xbzwrn/php2shell_cve2026109618109619_first_exploit/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/HexLayer3 [link] [comments]",
+   "published": "2026-10-21T21:24:08Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "7bcbd743c3f71fbe",
    "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
    "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
    "source": "Dark Reading",
    "type": "news",
-   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
    "published": "2026-10-21T21:15:39Z",
    "tags": [
     "cloud-identity"
@@ -1674,6 +2031,18 @@
    "type": "vendor-research",
    "summary": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.",
    "published": "2026-10-21T15:10:53Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f3b00a7f6ccd008a",
+   "title": "PHP patches for critical PHP2Shell vulnerabilities",
+   "link": "https://www.reddit.com/r/netsec/comments/1xbp0px/php_patches_for_critical_php2shell_vulnerabilities/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/CyberMasterV [link] [comments]",
+   "published": "2026-10-21T14:41:22Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -1984,6 +2353,18 @@
    ]
   },
   {
+   "id": "514cd3be21d35e3d",
+   "title": "PHP rce CVE-2026-109618",
+   "link": "https://www.reddit.com/r/netsec/comments/1xb5g1c/php_rce_cve2026109618/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Wploplin [link] [comments]",
+   "published": "2026-10-20T21:56:59Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "532771c4fc27cc06",
    "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
    "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
@@ -1991,6 +2372,18 @@
    "type": "news",
    "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
    "published": "2026-10-20T21:45:47Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "474cfe86e59dd516",
+   "title": "France had more Internet-exposed Danfoss refrigeration dashboards than the rest of the world combined before the supermarket attacks (weekly IPv4 scan data)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xb45ee/france_had_more_internetexposed_danfoss/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "I work at IPinfo, which runs a weekly scan of the IPv4 Internet. Short version of what we found: October 6–7 scan, five days before the attack: 2,528 addresses serving a Danfoss StoreView dashboard in 73 countries and territories. France had 1,331 (53%). 85% of the French ones…",
+   "published": "2026-10-20T21:04:03Z",
    "tags": [
     "general"
    ]
@@ -2006,6 +2399,18 @@
    "tags": [
     "threat-actors",
     "ransomware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "de89d62a44bb3c78",
+   "title": "CVE-2026-46633: Proving exploitability of Twig sandbox bypass",
+   "link": "https://www.reddit.com/r/netsec/comments/1xb2qvz/cve202646633_proving_exploitability_of_twig/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "I continued researching sandbox bypasses discovered in Twig by project Glasswing. This time, I focused on CVE-2026-46633, which still had no public exploits. This writeup documents my development of payloads for the CVE-2026-46633 and the corresponding SSTImap modules.…",
+   "published": "2026-10-20T20:08:42Z",
+   "tags": [
     "vulnerabilities"
    ]
   },
@@ -2029,6 +2434,18 @@
    "type": "news",
    "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could…",
    "published": "2026-10-20T17:09:53Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f966515d9e7f6138",
+   "title": "The OffiDocs Browser Extension Campaign",
+   "link": "https://www.reddit.com/r/netsec/comments/1xaw75e/the_offidocs_browser_extension_campaign/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/acorn222 [link] [comments]",
+   "published": "2026-10-20T16:06:02Z",
    "tags": [
     "general"
    ]
@@ -2108,6 +2525,18 @@
    ]
   },
   {
+   "id": "38d611cb8c17b3b3",
+   "title": "Reversing a DPRK-linked toolkit that backdoors VS Code, Cursor, Discord and npm, with an Ethereum dead-drop C2 and a DEV#POPPER variant",
+   "link": "https://www.reddit.com/r/netsec/comments/1xatbqq/reversing_a_dprklinked_toolkit_that_backdoors_vs/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/WobbaMan777 [link] [comments]",
+   "published": "2026-10-20T14:16:15Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
    "id": "0dfa738d1635fedf",
    "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
    "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
@@ -2115,6 +2544,18 @@
    "type": "news",
    "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and…",
    "published": "2026-10-20T14:07:17Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "aba4c37d4b882668",
+   "title": "How I got over 300 Tor exit nodes removed",
+   "link": "https://www.reddit.com/r/netsec/comments/1xasa1k/how_i_got_over_300_tor_exit_nodes_removed/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Author here :) TLDR: on Oct 2, 333 exits (~10% of Tor exits) started redirecting port 22 to 12 interception servers running a paramiko-based MITM that stole passwords and tried to drop Ebury on the target. submitted by /u/kabakaba0 [link] [comments]",
+   "published": "2026-10-20T13:33:05Z",
    "tags": [
     "general"
    ]
@@ -2132,6 +2573,18 @@
    ]
   },
   {
+   "id": "3e39ea9085f5abd8",
+   "title": "CVE-2026-106173 Deep-Dive: Fortinet FortiSIEM gRPC Path Traversal File Write to RCE",
+   "link": "https://www.reddit.com/r/netsec/comments/1xardr3/cve2026106173_deepdive_fortinet_fortisiem_grpc/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/scopedsecurity [link] [comments]",
+   "published": "2026-10-20T12:55:10Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "5d5cdaebb385ca26",
    "title": "Google may add your number to all your accounts: How to stop it",
    "link": "https://www.malwarebytes.com/blog/mobile/2026/10/google-may-add-your-number-to-all-your-accounts-how-to-stop-it",
@@ -2141,6 +2594,18 @@
    "published": "2026-10-20T12:45:23Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "aafd93e9c4249e9c",
+   "title": "Prompt injection, XSS and SIEM-exfil payloads living in reverse DNS, plus 28 fake Googlebots that passed FCrDNS",
+   "link": "https://www.reddit.com/r/netsec/comments/1xaqo61/prompt_injection_xss_and_siemexfil_payloads/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "- Google's own nameserver vouched for Russian IPs as Googlebot. - One PTR addresses AI agents directly, and it passes forward confirmation. - The exfil payload dodges filters for spaces, parentheses and quotes, and phones home to an IP written as one decimal number. submitted…",
+   "published": "2026-10-20T12:21:14Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -2265,6 +2730,18 @@
    ]
   },
   {
+   "id": "c4457d21fd88f570",
+   "title": "How practical is 100k requests per second? Introducing h3fuzz",
+   "link": "https://www.reddit.com/r/netsec/comments/1xap9nb/how_practical_is_100k_requests_per_second/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Mempodipper [link] [comments]",
+   "published": "2026-10-20T11:09:48Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "41525c1156aec1d3",
    "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
    "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
@@ -2349,6 +2826,18 @@
    "tags": [
     "malware",
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "48895b1629c62b92",
+   "title": "Unauthenticated SQL injection in GLPI (≤ 11.0.8)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xaljvx/unauthenticated_sql_injection_in_glpi_1108/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/MobetaSec [link] [comments]",
+   "published": "2026-10-20T07:19:55Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -2517,7 +3006,7 @@
    "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
    "source": "Dark Reading",
    "type": "news",
-   "summary": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
+   "summary": "An industry-wide, laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
    "published": "2026-10-19T14:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -2585,6 +3074,18 @@
    ]
   },
   {
+   "id": "9387d63b9a12063a",
+   "title": "CVE-2026-108097 Deep Dive: Turning a Drupal Field UI Callback Into RCE",
+   "link": "https://www.reddit.com/r/netsec/comments/1x9q96y/cve2026108097_deep_dive_turning_a_drupal_field_ui/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/adrian_rt [link] [comments]",
+   "published": "2026-10-19T07:21:07Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "12616d6031ea617b",
    "title": "A week in security (October 12 – October 18)",
    "link": "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-12-october-18",
@@ -2606,6 +3107,18 @@
    "published": "2026-10-18T12:59:30Z",
    "tags": [
     "threat-hunting"
+   ]
+  },
+  {
+   "id": "a8501e7141d21417",
+   "title": "PhantomBuffer: Effective EDR Evasion Through Stealth Injection",
+   "link": "https://www.reddit.com/r/netsec/comments/1x8rwjz/phantombuffer_effective_edr_evasion_through/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "PhantomBuffer EDR evasion uses stealth injection via SendMessage with WM_SETTEXT to effective bypass EDR (Endpoint Detection and Response). Unlike traditional edr bypass techniques, it does not use the VirtualAllocEx and WriteProcessMemory APIs . submitted by /u/Cold-Dinosaur…",
+   "published": "2026-10-18T02:30:45Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -3690,14 +4203,14 @@
    "type": "vendor-research",
    "home": "https://research.checkpoint.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "Elastic Security Labs",
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 2
+   "count": 3
   },
   {
    "name": "Sophos News",
@@ -3753,16 +4266,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 23
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

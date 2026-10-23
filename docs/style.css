@@ -86,7 +86,7 @@ a:hover { text-decoration: none; }
 .search { position: relative; flex: 1 1 260px; }
 .search svg { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
 input, select {
-  height: 44px; border-radius: 10px; border: 1px solid var(--line-2); background: var(--panel); color: var(--text); font: inherit; padding: 0 12px;
+  height: 44px; border-radius: 10px; border: 1px solid var(--line-2); background: var(--panel); color: var(--text); font: inherit; font-size: 16px; padding: 0 12px;
 }
 input { width: 100%; padding-left: 42px; }
 input::placeholder { color: #7f90a1; }
@@ -161,7 +161,7 @@ input:hover, select:hover { border-color: #3b5069; }
 .plain li { font-size: 13px; padding-top: 12px; border-top: 1px solid var(--line); }
 .plain li:first-child { padding-top: 0; border-top: 0; }
 .mono { font-family: var(--mono); font-size: 12px; word-break: break-all; }
-.cve { font-family: var(--mono); font-weight: 500; }
+.cve { display: inline-block; padding: 6px 0; font-family: var(--mono); font-weight: 500; }
 .sub { color: var(--muted); }
 .flag { display: inline-block; margin-top: 4px; padding: 1px 8px; border-radius: 999px; background: rgba(248, 113, 113, 0.14); color: var(--bad); font-size: 12px; font-weight: 600; }
 
@@ -182,6 +182,43 @@ input:hover, select:hover { border-color: #3b5069; }
 
 .foot { border-top: 1px solid var(--line); background: var(--bg-2); }
 .foot-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; padding-top: 22px; padding-bottom: 28px; color: var(--muted); font-size: 13px; }
+
+.totop { position: fixed; right: max(16px, env(safe-area-inset-right)); bottom: max(16px, env(safe-area-inset-bottom)); width: 46px; height: 46px; border-radius: 50%; border: 1px solid var(--line-2); background: rgba(16, 24, 33, 0.92); color: var(--text); display: grid; place-items: center; cursor: pointer; z-index: 30; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.totop:hover { background: var(--panel-2); }
+
+/* ---------- phones and small tablets ---------- */
+@media (max-width: 719px) {
+  .wrap { padding-left: max(16px, env(safe-area-inset-left)); padding-right: max(16px, env(safe-area-inset-right)); }
+  .nav { flex-wrap: wrap; row-gap: 10px; padding-top: 14px; padding-bottom: 10px; }
+  .nav-links { display: flex; order: 3; width: 100%; gap: 8px; overflow-x: auto; scrollbar-width: none; }
+  .nav-links::-webkit-scrollbar { display: none; }
+  .nav-links a { flex: none; padding: 9px 16px; border: 1px solid var(--line-2); border-radius: 999px; background: rgba(16, 24, 33, 0.6); font-size: 14px; }
+  .live { font-size: 12px; padding: 5px 10px; }
+  .hero-body { padding-top: 20px; padding-bottom: 26px; }
+  .lede { margin-top: 14px; font-size: 16px; }
+  .stats { gap: 10px; margin-top: 22px; }
+  .stat { padding: 12px 14px; border-radius: 12px; }
+  .stat dd { font-size: 24px; }
+  .fb-inner { padding-top: 12px; padding-bottom: 12px; gap: 10px; }
+  .fb-row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px; }
+  .search { grid-column: 1 / -1; }
+  select { width: 100%; min-width: 0; }
+  #clear { grid-column: 1 / -1; height: 40px; }
+  .chips { margin-right: -16px; padding-right: 28px; -webkit-mask-image: linear-gradient(to right, #000 88%, transparent); mask-image: linear-gradient(to right, #000 88%, transparent); }
+  .chip { min-height: 44px; }
+  .layout { gap: 22px; padding-top: 20px; padding-bottom: 28px; }
+  .feed-head h2 { font-size: 18px; }
+  .card { grid-template-columns: minmax(0, 1fr); gap: 0; padding: 14px 14px 14px 16px; }
+  .avatar { display: none; }
+  .card h3 { font-size: 16px; }
+  .card p { -webkit-line-clamp: 2; font-size: 14px; }
+  .tags { margin-top: 10px; }
+  #pulse-panel { display: none; }
+  #kev li:nth-child(n+6) { display: none; }
+  .sources h2 { font-size: 20px; }
+  .src-grid { grid-template-columns: minmax(0, 1fr); }
+  .foot-inner { flex-direction: column; gap: 8px; }
+}
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }

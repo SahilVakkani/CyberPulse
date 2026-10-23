@@ -290,10 +290,15 @@
     $("q").value = state.q;
   }
 
+  function hasFilters() {
+    return state.topics.length > 0 || state.source !== "" || state.q !== "" || state.range !== "7";
+  }
+
   function render() {
     renderChips();
     renderPulse();
     renderList();
+    $("clear").hidden = !hasFilters();
   }
 
   function bind() {
@@ -309,6 +314,10 @@
       savePrefs(); renderControls(); render();
     });
     $("more").addEventListener("click", function () { state.shown += PAGE; renderList(); });
+
+    var top = $("totop");
+    window.addEventListener("scroll", function () { top.hidden = window.scrollY < 700; }, { passive: true });
+    top.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: REDUCE ? "auto" : "smooth" }); });
   }
 
   // Slow-drifting network of nodes behind the hero. Pauses off-screen and for reduced motion.

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T19:50:22Z",
+ "generated_at": "2026-10-23T22:56:34Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,68 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T19:50:14Z",
+   "published": "2026-10-23T22:56:28Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9d407c505c1e9fd1",
+   "title": "Friday Squid Blogging: Increasing Squid Populations",
+   "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+   "published": "2026-10-23T21:00:09Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "78e6b44f5a3d5bff",
+   "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+   "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+   "published": "2026-10-23T20:57:56Z",
+   "tags": [
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "201a6bfc4c9c82a0",
+   "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+   "published": "2026-10-23T20:55:05Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "99cc8517906e9daa",
+   "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
+   "link": "https://isc.sans.edu/diary/rss/33452",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
+   "published": "2026-10-23T20:04:47Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f1cc9ef1de56563f",
+   "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+   "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+   "published": "2026-10-23T19:41:23Z",
    "tags": [
     "general"
    ]
@@ -4056,18 +4117,6 @@
    "published": "2026-10-10T00:17:42Z",
    "tags": [
     "ransomware"
-   ]
-  },
-  {
-   "id": "edcc711b1e7a119f",
-   "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
-   "published": "2026-10-09T20:58:32Z",
-   "tags": [
-    "general"
    ]
   }
  ],

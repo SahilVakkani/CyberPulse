@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T22:56:34Z",
+ "generated_at": "2026-10-24T01:26:29Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T22:56:28Z",
+   "published": "2026-10-24T01:26:17Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T22:56:28Z",
+   "published": "2026-10-24T01:26:17Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T22:56:28Z",
+   "published": "2026-10-24T01:26:17Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T22:56:28Z",
+   "published": "2026-10-24T01:26:17Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T22:56:28Z",
+   "published": "2026-10-24T01:26:17Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T22:56:28Z",
+   "published": "2026-10-24T01:26:17Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T22:56:28Z",
+   "published": "2026-10-24T01:26:17Z",
    "tags": [
     "general"
    ]
@@ -93,27 +93,39 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-23T22:56:28Z",
+   "published": "2026-10-24T01:26:17Z",
    "tags": [
     "threat-actors"
-   ]
-  },
-  {
-   "id": "a92210a17b813fcb",
-   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-23T22:56:28Z",
-   "tags": [
-    "general"
    ]
   },
   {
    "id": "5962d84443393627",
    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-24T01:26:17Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d96bed8f956667e3",
+   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-24T01:26:17Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "a92210a17b813fcb",
+   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
@@ -2344,10 +2356,11 @@
    "link": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
    "source": "CISA Cybersecurity Advisories",
    "type": "government",
-   "summary": "CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619 . These vulnerabilities, known as “php2shell,” allow for unauthenticated remote code execution in PHP and affect all PHP…",
+   "summary": "Update October 23, 2026 : CISA has updated this Alert to: (1) provide a SIGMA detection rule to help identify potentially suspicious activity; (2) incorporate partner resources; and (3) reinforce existing mitigation guidance. Purpose CISA strongly urges organizations to…",
    "published": "2026-10-21T12:00:00Z",
    "tags": [
-    "vulnerabilities"
+    "vulnerabilities",
+    "threat-hunting"
    ]
   },
   {
@@ -4106,18 +4119,6 @@
     "threat-hunting",
     "malware"
    ]
-  },
-  {
-   "id": "7f5dd566b2dd8d8c",
-   "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-   "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-   "source": "Krebs on Security",
-   "type": "news",
-   "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple…",
-   "published": "2026-10-10T00:17:42Z",
-   "tags": [
-    "ransomware"
-   ]
   }
  ],
  "kev": [
@@ -4278,7 +4279,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "SecurityWeek",

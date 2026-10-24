@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T11:26:14Z",
+ "generated_at": "2026-10-24T14:46:21Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,45 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T11:26:03Z",
+   "published": "2026-10-24T14:46:12Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "a6ce31709924c3c2",
+   "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+   "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+   "published": "2026-10-24T14:17:32Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "a0a9e49aec28c38a",
+   "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+   "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed…",
+   "published": "2026-10-24T11:09:29Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3a1a036ef73ae68c",
+   "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+   "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed…",
+   "published": "2026-10-24T11:03:33Z",
+   "tags": [
+    "threat-actors"
    ]
   },
   {
@@ -135,6 +171,18 @@
    ]
   },
   {
+   "id": "afec56c7243a9162",
+   "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+   "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow…",
+   "published": "2026-10-24T10:36:33Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "94d51fe2d20419a9",
    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
    "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
@@ -144,18 +192,6 @@
    "published": "2026-10-24T09:04:24Z",
    "tags": [
     "malware"
-   ]
-  },
-  {
-   "id": "a0a9e49aec28c38a",
-   "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-   "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed…",
-   "published": "2026-10-24T08:45:56Z",
-   "tags": [
-    "vulnerabilities"
    ]
   },
   {
@@ -4375,7 +4411,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 5
+   "count": 0
   },
   {
    "name": "Microsoft Security Response Center",

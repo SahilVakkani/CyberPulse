@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T14:46:21Z",
+ "generated_at": "2026-10-24T17:55:38Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,21 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T14:46:12Z",
+   "published": "2026-10-24T17:55:27Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "687fdcc9c0ff776b",
+   "title": "How LLM-Based Penetration Testing Harnesses Work",
+   "link": "https://www.reddit.com/r/netsec/comments/1xee9z1/how_llmbased_penetration_testing_harnesses_work/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/utku1337 [link] [comments]",
+   "published": "2026-10-24T17:17:43Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -4411,7 +4423,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 0
+   "count": 5
   },
   {
    "name": "Microsoft Security Response Center",

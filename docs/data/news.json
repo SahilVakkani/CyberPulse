@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T20:26:09Z",
+ "generated_at": "2026-10-24T22:40:41Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
     "general"
    ]
@@ -117,8 +117,47 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T20:26:02Z",
+   "published": "2026-10-24T22:40:33Z",
    "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "b0768a3a0cf5a283",
+   "title": "I spun up a free, read-only script to check WordPress sites for signs of PHP2Shell compromise. Looking for feedback",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xeirws/i_spun_up_a_free_readonly_script_to_check/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Patching PHP fixes PHP2Shell (CVE-2026-109618 / 109619), but it does nothing about a backdoor someone planted before the patch. Amazon's honeypots caught an exploitation attempt on Oct 17, four days before disclosure, and Amazon's advice is to investigate from at least that…",
+   "published": "2026-10-24T20:19:15Z",
+   "tags": [
+    "threat-hunting",
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "12b7675e33d4c5ce",
+   "title": "CTO at NCSC Summary: week ending October 25th",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xeinrq/cto_at_ncsc_summary_week_ending_october_25th/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-24T20:14:22Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "d762b1df09ff5414",
+   "title": "PHP2Shell: Obstacles to Weaponizing Likely Constrain Immediate Exploitation",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xef2l2/php2shell_obstacles_to_weaponizing_likely/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-24T17:50:14Z",
+   "tags": [
+    "threat-hunting",
     "vulnerabilities"
    ]
   },
@@ -132,6 +171,18 @@
    "published": "2026-10-24T17:17:43Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "59ddb7e1ef5309ae",
+   "title": "Field Notes: Reconstructing an Attacker’s Workflow",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xedyke/field_notes_reconstructing_an_attackers_workflow/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-24T17:05:02Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -232,6 +283,56 @@
    ]
   },
   {
+   "id": "d87970bfcd179b8d",
+   "title": "PHP2Shell: observed exploitation attempts, 22–24 October 2026",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdzomw/php2shell_observed_exploitation_attempts_2224/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-24T04:54:31Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "6ef86e19661b85ff",
+   "title": "Defeating enforced SMB signing: a note",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdznl6/defeating_enforced_smb_signing_a_note/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-24T04:52:53Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "12176364c4db9ee2",
+   "title": "Signet: Mythic Code Signing Wrapper",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdzn6m/signet_mythic_code_signing_wrapper/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-24T04:52:15Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "05c0da0ca1d055ed",
+   "title": "brotli-checker: Claude Code and Codex skill for finding potentially vulnerable Brotli copies and guiding updates for CVE-2026-111497.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdzmqm/brotlichecker_claude_code_and_codex_skill_for/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-24T04:51:31Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "a92210a17b813fcb",
    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
@@ -278,6 +379,18 @@
    "published": "2026-10-23T20:55:05Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "abf0242ee67519aa",
+   "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdokhh/redteaming_openais_internal_agent_monitoring/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-10-23T20:06:05Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -339,6 +452,18 @@
    "published": "2026-10-23T18:50:13Z",
    "tags": [
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "cfe88fe148cda430",
+   "title": "Inside a Global AI-Assisted Hacking Campaign",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdm31t/inside_a_global_aiassisted_hacking_campaign/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-10-23T18:31:46Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -424,6 +549,19 @@
    "published": "2026-10-23T16:40:07Z",
    "tags": [
     "threat-actors"
+   ]
+  },
+  {
+   "id": "f85cac35a3ff7f36",
+   "title": "Regexp compilation fixes related to GitLab's CVE-2026-89078, CVE-2026-93577, CVE-2026-97229 and CVE-2026-110264 | Ruby",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdimxu/regexp_compilation_fixes_related_to_gitlabs/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-23T16:22:02Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
    ]
   },
   {
@@ -793,6 +931,19 @@
    "published": "2026-10-23T08:40:43Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "70936a7a24c9be3a",
+   "title": "win-def-clickfix | a scanner that determines whether windows defender will flag a clickfix command",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd8jne/windefclickfix_a_scanner_that_determines_whether/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "github.com/backdoorskid/win-def-clickfix win-def-clickfix is a run-1 detection replica for ClickFix / Win+R command lines, rebuilt by reverse-engineering Microsoft Defender's mpengine.dll. It runs a command line through the recovered normalizer/deobfuscator (FUN_1800a2500) and…",
+   "published": "2026-10-23T08:39:51Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
    ]
   },
   {
@@ -4558,16 +4709,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 23
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T06:19:06Z",
+ "generated_at": "2026-10-24T11:26:14Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,70 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-24T06:18:54Z",
+   "published": "2026-10-24T11:26:03Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "290daeb32e7f6d1a",
+   "title": "Full source release: autonomous root chain for TCL 50C721 Android TV via CVE-2022-22706 (Mali GPU page-cache write)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xe5oy7/full_source_release_autonomous_root_chain_for_tcl/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/amnioticboy [link] [comments]",
+   "published": "2026-10-24T10:57:59Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "94d51fe2d20419a9",
+   "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+   "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to…",
+   "published": "2026-10-24T09:04:24Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "a0a9e49aec28c38a",
+   "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+   "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed…",
+   "published": "2026-10-24T08:45:56Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "888df6970a6736a6",
+   "title": "We used RCE on 3 million PCs to prevent a botnet",
+   "link": "https://www.reddit.com/r/netsec/comments/1xe25f5/we_used_rce_on_3_million_pcs_to_prevent_a_botnet/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/vaizor [link] [comments]",
+   "published": "2026-10-24T07:18:36Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "838b4b1ce2538127",
+   "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+   "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in…",
+   "published": "2026-10-24T06:25:57Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
    ]
   },
   {

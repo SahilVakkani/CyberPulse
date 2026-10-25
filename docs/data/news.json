@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T18:13:39Z",
+ "generated_at": "2026-10-25T21:06:22Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,120 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T18:13:27Z",
+   "published": "2026-10-25T21:06:15Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8a1ff85d598dea94",
+   "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33454",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes.",
+   "published": "2026-10-25T19:57:53Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "b1709abde9ef0378",
+   "title": "CVE-2026-111497, node2shell Detection Opportunities",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfalfa/cve2026111497_node2shell_detection_opportunities/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T18:57:35Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "00e3f8ae5f14e510",
+   "title": "Someone is already building a target list of Brotli-capable hosts for node2shell / HTTP2Shell / Broccoli2Shell (CVE-2026-111497)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfa5rc/someone_is_already_building_a_target_list_of/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "One bug, with three names (because of course it does) - Node2Shell, HTTP2Shell, and Broccoli2Shell... Anyway, A public checker ( node2shell-check/1.0 , out of AS44620 / Turkey) is already hitting sensors cataloguing which hosts decompress Brotli at all. Unlike PHP2Shell earlier…",
+   "published": "2026-10-25T18:40:20Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "4a8154151413dd37",
+   "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+   "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker…",
+   "published": "2026-10-25T17:44:09Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "3eda0d6ae7e39322",
+   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in…",
+   "published": "2026-10-25T17:19:46Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "c19fa487d0e11b67",
+   "title": "WHFB-PinCapture: This project captures the PIN by placing a CPU hardware breakpoint on the function that packages the typed PIN inside LogonUI.exe",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf7hux/whfbpincapture_this_project_captures_the_pin_by/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T16:55:18Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "c4ac6e87165e5497",
+   "title": "From Boot Key to Plaintext: How Windows LSA Secrets Are Deciphered from the Registry",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf7dlz/from_boot_key_to_plaintext_how_windows_lsa/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T16:50:38Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "e8c7b1bd9ab7d0af",
+   "title": "Local Shellcode Execution via SetupIterateCabinetW",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf7b86/local_shellcode_execution_via_setupiteratecabinetw/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T16:48:00Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "d7fde62f19f430e1",
+   "title": "Parameterized .NET memory shell generator | Red team / security testing | JMG equivalent for .NET",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf6xdx/parameterized_net_memory_shell_generator_red_team/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T16:33:05Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -135,6 +246,106 @@
    ]
   },
   {
+   "id": "30db1787442ec72e",
+   "title": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC‑0099-Sandworm collaboration",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf5qjv/mythicratatoskr_an_yggdrasilenabled_backdoor/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T15:47:07Z",
+   "tags": [
+    "threat-hunting",
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "500c061f03f630e1",
+   "title": "How Context Bombs derail offensive AI",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf4n6k/how_context_bombs_derail_offensive_ai/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T15:02:52Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "4d04cb2d5bc9d035",
+   "title": "WPSplinter - Broadcom’s legacy WPS Monitor implementation does not correctly constrain reassembled EAP-WPS fragments to the size of its destination buffer. A nearby attacker can reach the parser…",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2uhr/wpsplinter_broadcoms_legacy_wps_monitor/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T13:48:53Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "bd4ee371dac09dd9",
+   "title": "Analytics Story: PHP2Shell",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2ti8/analytics_story_php2shell/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T13:47:39Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "a3b265df5f9247d2",
+   "title": "php2shell-scanner: High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2qlz/php2shellscanner_high_fidelity_scanner_for/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T13:44:01Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "51482f28372a0db9",
+   "title": "High Fidelity Detection Mechanism for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2ptr/high_fidelity_detection_mechanism_for_php2shell/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T13:43:01Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3c8dcd3405f4920a",
+   "title": "Seizing IP addresses without compromising registry neutrality",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2m1u/seizing_ip_addresses_without_compromising/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T13:38:22Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "e81e07da599d0b23",
+   "title": "Tailworm - \"The design choices of the open source tailscale and headscale software have created an environment ripe for risk\"",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2f04/tailworm_the_design_choices_of_the_open_source/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T13:29:36Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "e85723a0f6770849",
    "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
    "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
@@ -144,6 +355,31 @@
    "published": "2026-10-25T11:00:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "a2bc8398cb705caa",
+   "title": "Add `--emudhra` option to mitmproxy",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xexs3f/add_emudhra_option_to_mitmproxy/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T09:19:39Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "896dec8261627f6a",
+   "title": "PHP2Shell exploitation observed: packet-to-process RCE evidence",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xew3kh/php2shell_exploitation_observed_packettoprocess/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T07:36:11Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
    ]
   },
   {
@@ -168,6 +404,18 @@
    "published": "2026-10-25T06:54:29Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "9443a77b66c76762",
+   "title": "low-int-cert-monitor: Monitor Certificate Transparency logs for certificates with trivially small EC private keys (the eMudhra weak-key class). P-256/384/521.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xetn1p/lowintcertmonitor_monitor_certificate/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T05:09:34Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -1140,20 +1388,6 @@
    "published": "2026-10-23T05:01:49Z",
    "tags": [
     "threat-hunting",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "f422cd7171d20701",
-   "title": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC‑0099-Sandworm collaboration",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd4w38/mythicratatoskr_an_yggdrasilenabled_backdoor/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T05:00:53Z",
-   "tags": [
-    "threat-hunting",
-    "malware",
     "threat-actors"
    ]
   },
@@ -4757,16 +4991,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 23
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

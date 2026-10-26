@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:55:26Z",
+ "generated_at": "2026-10-26T20:20:42Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,166 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T14:55:18Z",
+   "published": "2026-10-26T20:20:30Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d84dc99ca60fd7bb",
+   "title": "DreamHost forces password resets in ongoing \"incident\"",
+   "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+   "published": "2026-10-26T19:26:20Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "daf7786d4e87d944",
+   "title": "How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xg6cpe/how_to_intercept_http3_traffic_quic_and_qpack/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Ano_F [link] [comments]",
+   "published": "2026-10-26T19:18:19Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ba420a622cfcdc51",
+   "title": "Connection Reuse leading to desync",
+   "link": "https://www.reddit.com/r/netsec/comments/1xg6ap2/connection_reuse_leading_to_desync/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Xclow3n_ [link] [comments]",
+   "published": "2026-10-26T19:16:21Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "961277245249fbe9",
+   "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+   "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages…",
+   "published": "2026-10-26T18:12:22Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "e6cb24183d2e8564",
+   "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
+   "published": "2026-10-26T18:01:40Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "fd2c8a91369aca8e",
+   "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+   "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the…",
+   "published": "2026-10-26T17:45:57Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f722b9fc379b14e0",
+   "title": "Serbian autocrat loses election following widespread reports of digital repression",
+   "link": "https://therecord.media/serbia-election-spyware-vucic",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Serbian strongman leader Aleksandar Vučić on Sunday admitted defeat in his race for prime minister, a loss that follows a series of incidents of digital repression that galvanized the opposition.",
+   "published": "2026-10-26T17:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5d6b2a0bb6b07bae",
+   "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
+   "link": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.",
+   "published": "2026-10-26T16:40:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "3e53d355cefd8b95",
+   "title": "Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds",
+   "link": "https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams",
+   "source": "The Record",
+   "type": "news",
+   "summary": "44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses.",
+   "published": "2026-10-26T16:37:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5e34561ea984cef3",
+   "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+   "published": "2026-10-26T16:27:57Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "1832014a561177a4",
+   "title": "26th October – Threat Intelligence Report",
+   "link": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/",
+   "source": "Check Point Research",
+   "type": "vendor-research",
+   "summary": "For the latest discoveries in cyber research for the week of 26th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japanese cloud hosting provider Onamae Desktop Cloud has confirmed a cyberattack in which intruders compromised its…",
+   "published": "2026-10-26T16:12:38Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "03f54c74f6feb398",
+   "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+   "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent…",
+   "published": "2026-10-26T15:52:40Z",
+   "tags": [
+    "malware",
+    "ransomware",
+    "threat-actors",
+    "phishing"
+   ]
+  },
+  {
+   "id": "cf08225efb6bf99e",
+   "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
+   "published": "2026-10-26T15:38:24Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -504,6 +663,18 @@
    "published": "2026-10-26T03:30:12Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "c1cd946841703855",
+   "title": "Kernel eviction notice: What wesp.sys reveals about the Windows Endpoint Security Platform",
+   "link": "https://www.elastic.co/security-labs/blog/windows-endpoint-security-platform-wesp",
+   "source": "Elastic Security Labs",
+   "type": "vendor-research",
+   "summary": "Microsoft wants EDR out of the Windows kernel, and the preview binaries show wesp.sys telling a user-mode client that a process is starting, with nothing in its imports to let that client block it.",
+   "published": "2026-10-26T00:00:00Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -4971,30 +5142,6 @@
    "tags": [
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "4dcee3405abaea42",
-   "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-   "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
-   "published": "2026-10-12T20:00:53Z",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "id": "61395f90aa8ad1f7",
-   "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-   "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-   "published": "2026-10-12T18:27:25Z",
-   "tags": [
-    "cloud-identity"
-   ]
   }
  ],
  "kev": [
@@ -5262,14 +5409,14 @@
    "type": "vendor-research",
    "home": "https://research.checkpoint.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "Elastic Security Labs",
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 2
+   "count": 3
   },
   {
    "name": "Sophos News",

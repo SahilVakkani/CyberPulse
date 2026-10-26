@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T07:31:00Z",
+ "generated_at": "2026-10-26T14:55:26Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,357 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T07:30:48Z",
+   "published": "2026-10-26T14:55:18Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d7e589c62a2dd12b",
+   "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+   "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities. The post Industrial Vendors Check Products for PHP2Shell Vulnerabilities appeared first on SecurityWeek .",
+   "published": "2026-10-26T14:52:14Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0894723045c0f538",
+   "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+   "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appeared first on SecurityWeek .",
+   "published": "2026-10-26T14:40:48Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "38ba7bc24d68243a",
+   "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+   "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI. The post Stolen AI Reasoning Could Help China Build Cheaper Rivals appeared first on SecurityWeek .",
+   "published": "2026-10-26T14:30:09Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d72684f804b8ac42",
+   "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
+   "link": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
+   "source": "The Record",
+   "type": "news",
+   "summary": "CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.",
+   "published": "2026-10-26T14:21:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3576934612fc89d7",
+   "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+   "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent…",
+   "published": "2026-10-26T14:06:13Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "3c0f1fb39eeafb73",
+   "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+   "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+   "published": "2026-10-26T14:00:10Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "0d99ee2b282857bf",
+   "title": "10 Software Security Practices Built for the Next 250 Years",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
+   "published": "2026-10-26T14:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9cb042202f4ddf08",
+   "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+   "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
+   "published": "2026-10-26T13:56:44Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "25fad5ac09662d8e",
+   "title": "Popcorn Time’s forgotten updater left millions of devices exposed to hijacking",
+   "link": "https://www.malwarebytes.com/blog/news/2026/10/popcorn-times-forgotten-updater-left-millions-of-devices-exposed-to-hijacking",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "The update process for an abandoned streaming app could let attackers take over PCs. If you ever used Popcorn Time, check your devices.",
+   "published": "2026-10-26T13:48:08Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "104d630292349d7f",
+   "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+   "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek .",
+   "published": "2026-10-26T13:30:10Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5ff538e32a277165",
+   "title": "AI Halloween videos: Who’s getting your photos?",
+   "link": "https://www.malwarebytes.com/blog/ai/2026/10/ai-halloween-videos-whos-getting-your-photos",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Before you turn yourself into a zombie, check who’s getting your photos. Some Halloween AI sites offer little information about who's behind them.",
+   "published": "2026-10-26T12:51:28Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "23a9892afebff9ca",
+   "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+   "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek .",
+   "published": "2026-10-26T12:46:44Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "93c739e69829b21b",
+   "title": "The AI RCEssion: Why AI-driven security is calling in decades of software tech debt",
+   "link": "https://www.reddit.com/r/netsec/comments/1xfvrxl/the_ai_rcession_why_aidriven_security_is_calling/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/tedivm [link] [comments]",
+   "published": "2026-10-26T12:44:15Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "680a1bdeb1056a7b",
+   "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
+   "link": "https://therecord.media/litellm-hackers-ai-malware",
+   "source": "The Record",
+   "type": "news",
+   "summary": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.",
+   "published": "2026-10-26T12:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a5411bb33d7fefff",
+   "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+   "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to…",
+   "published": "2026-10-26T11:52:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f5fa96b288187c0b",
+   "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+   "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek .",
+   "published": "2026-10-26T11:47:52Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "42a6cfcbabbfd26d",
+   "title": "Patient records exposed in Quest breach: What you need to know",
+   "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/patient-records-exposed-in-quest-breach-what-you-need-to-know",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Quest Diagnostics says a breach affected personal information and patient records. Here’s what patients need to know and what to do now.",
+   "published": "2026-10-26T11:34:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "49aedb62ce7d37a0",
+   "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+   "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems…",
+   "published": "2026-10-26T11:23:56Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "217d727d090a0aa9",
+   "title": "Bias in Qwen3-Coder Model",
+   "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s…",
+   "published": "2026-10-26T11:03:31Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "4dd6d369bedf0b52",
+   "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+   "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+   "published": "2026-10-26T10:26:52Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "2a948c7de7f5e651",
+   "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+   "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek .",
+   "published": "2026-10-26T10:21:57Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8474e0cfd37a9b48",
+   "title": "Deploying AI agents securely: how Kaspersky products mitigate AI threats",
+   "link": "https://securelist.com/tr/how-to-secure-ai-agents/121444/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "We look at best practices for deploying AI tools securely in corporate environments, with Kaspersky Security Center and Kaspersky Endpoint Security as examples. We also cover ways that EDR and TIP can detect AI agents.",
+   "published": "2026-10-26T10:00:18Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "275e6f3b55aff713",
+   "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+   "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who…",
+   "published": "2026-10-26T09:54:02Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "2a670f82d34df7a7",
+   "title": "Context Bombs: Making attacking agents pay",
+   "link": "https://www.reddit.com/r/netsec/comments/1xfs8xr/context_bombs_making_attacking_agents_pay/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/tracebit [link] [comments]",
+   "published": "2026-10-26T09:39:08Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "47b059e57c0979f9",
+   "title": "Looking for a Language [Guest Diary], (Wed, Oct 21st)",
+   "link": "https://isc.sans.edu/diary/rss/33442",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]",
+   "published": "2026-10-26T09:38:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "fbd9cb2b4455b922",
+   "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+   "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+   "published": "2026-10-26T09:19:57Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "4c6c7b2ea9daef94",
+   "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+   "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .",
+   "published": "2026-10-26T09:10:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "35a2887f86531272",
+   "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+   "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed…",
+   "published": "2026-10-26T08:35:51Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8e95a20d61e45dbc",
+   "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+   "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise…",
+   "published": "2026-10-26T07:49:46Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -130,6 +478,18 @@
    "type": "vendor-research",
    "summary": "A list of topics we covered in the week of October 19 to October 25 of 2026",
    "published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "8239096a100ab76b",
+   "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+   "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and…",
+   "published": "2026-10-26T06:03:48Z",
    "tags": [
     "malware"
    ]
@@ -535,7 +895,7 @@
    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
    "source": "The Hacker News",
    "type": "news",
-   "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed…",
+   "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows…",
    "published": "2026-10-24T11:09:29Z",
    "tags": [
     "vulnerabilities"
@@ -690,7 +1050,7 @@
   },
   {
    "id": "78e6b44f5a3d5bff",
-   "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+   "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
    "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
    "source": "Dark Reading",
    "type": "news",
@@ -4635,55 +4995,6 @@
    "tags": [
     "cloud-identity"
    ]
-  },
-  {
-   "id": "566c3bc04d9dc2e8",
-   "title": "12th October – Threat Intelligence Report",
-   "link": "https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/",
-   "source": "Check Point Research",
-   "type": "vendor-research",
-   "summary": "For the latest discoveries in cyber research for the week of 12th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Denmark’s government has disclosed a breach involving its Central Register of Persons after unauthorized individuals exploited…",
-   "published": "2026-10-12T14:51:31Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "f09be95f6cf35236",
-   "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-   "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Fahmida Y. Rashid will keep the momentum going as she leads Dark Reading.",
-   "published": "2026-10-12T12:30:58Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "79534a8d77e1646a",
-   "title": "Help the NCSC understand how organisations approach external attack surface risk",
-   "link": "https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk",
-   "source": "NCSC UK",
-   "type": "government",
-   "summary": "We're looking to hear from people involved in evaluating, selecting or adopting EASM.",
-   "published": "2026-10-12T12:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "57d7ee05b83fd99b",
-   "title": "What to do when a data breach notice doesn't say much",
-   "link": "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/",
-   "source": "ESET WeLiveSecurity",
-   "type": "vendor-research",
-   "summary": "Data breach notifications are telling victims less than ever. What the company leaves out can still shape what you do next.",
-   "published": "2026-10-12T09:00:00Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -4937,21 +5248,21 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "ESET WeLiveSecurity",
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "Check Point Research",
    "type": "vendor-research",
    "home": "https://research.checkpoint.com",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "Elastic Security Labs",
@@ -5001,7 +5312,7 @@
    "type": "government",
    "home": "https://www.ncsc.gov.uk",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "SANS Internet Storm Center",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T01:34:03Z",
+ "generated_at": "2026-10-26T07:31:00Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,33 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T01:33:54Z",
+   "published": "2026-10-26T07:30:48Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "15553f8c132ee3f5",
+   "title": "A week in security (October 19 – October 25)",
+   "link": "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-19-october-25",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "A list of topics we covered in the week of October 19 to October 25 of 2026",
+   "published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "a9d5557b92f4ed3f",
+   "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
+   "link": "https://isc.sans.edu/diary/rss/33456",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-10-26T03:30:12Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -187,15 +211,14 @@
   },
   {
    "id": "3eda0d6ae7e39322",
-   "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
    "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
    "source": "The Hacker News",
    "type": "news",
-   "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in…",
+   "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government…",
    "published": "2026-10-25T17:19:46Z",
    "tags": [
-    "vulnerabilities",
-    "threat-actors"
+    "vulnerabilities"
    ]
   },
   {
@@ -4991,16 +5014,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 23
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

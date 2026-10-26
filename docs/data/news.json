@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T23:28:11Z",
+ "generated_at": "2026-10-26T01:34:03Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
     "general"
    ]
@@ -117,8 +117,21 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-25T23:27:59Z",
+   "published": "2026-10-26T01:33:54Z",
    "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0d143df9f9ea9cac",
+   "title": "wake-and-break: Wake and Break: a PSP exploit for AMD navi31 (RX 7900) that makes the card accept unsigned IP firmware. Not persistent: a cold power cycle restores stock.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfe91g/wakeandbreak_wake_and_break_a_psp_exploit_for_amd/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-25T21:23:23Z",
+   "tags": [
+    "threat-hunting",
     "vulnerabilities"
    ]
   },
@@ -4648,19 +4661,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "1925f576abc9c9d5",
-   "title": "Auditing the auditor: Unmasking Apex Accelerator",
-   "link": "https://www.elastic.co/security-labs/threat-command/apex-accelerator-malicious-npm-packages",
-   "source": "Elastic Security Labs",
-   "type": "vendor-research",
-   "summary": "REF8801 exposes how Apex Accelerator combines convincing Web3 services with malicious npm packages, attacker-controlled AI infrastructure, and cross-platform malware delivery.",
-   "published": "2026-10-12T00:00:00Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
   }
  ],
  "kev": [
@@ -4935,7 +4935,7 @@
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 3
+   "count": 2
   },
   {
    "name": "Sophos News",
@@ -4991,16 +4991,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 23
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

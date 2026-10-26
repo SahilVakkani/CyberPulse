@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T20:20:42Z",
+ "generated_at": "2026-10-26T23:59:58Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,105 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T20:20:30Z",
+   "published": "2026-10-26T23:59:52Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "39fb6abcb30e3011",
+   "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
+   "link": "https://isc.sans.edu/diary/rss/33458",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
+   "published": "2026-10-26T23:34:37Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "627cc70bbf65badd",
+   "title": "University of Copenhagen data breach exposes data of 525,000 people",
+   "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+   "published": "2026-10-26T22:20:36Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5d6c647af36336af",
+   "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+   "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
+   "published": "2026-10-26T21:44:33Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9b6153963ef54ed6",
+   "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+   "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+   "published": "2026-10-26T21:08:28Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "327318fb5def16c2",
+   "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+   "link": "https://therecord.media/texas-sues-openai-deceiving-customers",
+   "source": "The Record",
+   "type": "news",
+   "summary": "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.",
+   "published": "2026-10-26T21:03:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c25a5812afa3a3ff",
+   "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+   "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+   "published": "2026-10-26T20:59:26Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "154f68998af19908",
+   "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+   "published": "2026-10-26T20:46:49Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "89547e1892b34553",
+   "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+   "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks. The post Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI appeared…",
+   "published": "2026-10-26T20:20:56Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -447,6 +543,18 @@
    "published": "2026-10-26T12:00:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "a7bcfa86d46f0ae1",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching : CVE-2026-109618 – PHP Memory Corruption Vulnerability CVE-2026-109619 – PHP Stale Internal…",
+   "published": "2026-10-26T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -3465,11 +3573,10 @@
    "link": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
    "source": "CISA Cybersecurity Advisories",
    "type": "government",
-   "summary": "Update October 23, 2026 : CISA has updated this Alert to: (1) provide a SIGMA detection rule to help identify potentially suspicious activity; (2) incorporate partner resources; and (3) reinforce existing mitigation guidance. Purpose CISA strongly urges organizations to…",
+   "summary": "Update October 26, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-109618 and CVE-2026-109619 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 26, 2026. Update October 23, 2026 : CISA has updated this Alert to: (1) provide a SIGMA detection…",
    "published": "2026-10-21T12:00:00Z",
    "tags": [
-    "vulnerabilities",
-    "threat-hunting"
+    "vulnerabilities"
    ]
   },
   {
@@ -5130,21 +5237,27 @@
    "tags": [
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "6512ad6a9c13d351",
-   "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
-   "published": "2026-10-12T21:42:42Z",
-   "tags": [
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-109618",
+   "vendor": "PHP Group",
+   "product": "PHP",
+   "name": "PHP Memory Corruption Vulnerability",
+   "added": "2026-10-26",
+   "due": "2026-10-29",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-109619",
+   "vendor": "PHP Group",
+   "product": "PHP",
+   "name": "PHP Stale Internal Request-State Vulnerability",
+   "added": "2026-10-26",
+   "due": "2026-10-29",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2026-114625",
    "vendor": "Arista",
@@ -5258,24 +5371,6 @@
    "vendor": "Cisco",
    "product": "Secure Email Gateway",
    "name": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
-   "added": "2026-10-14",
-   "due": "2026-10-17",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-105133",
-   "vendor": "Ahsay",
-   "product": "AhsayCBS",
-   "name": "Ahsay AhsayCBS Improper Authentication Vulnerability",
-   "added": "2026-10-14",
-   "due": "2026-10-17",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-0322",
-   "vendor": "Palo Alto Networks",
-   "product": "PAN-OS",
-   "name": "Palo Alto Networks PAN-OS Code Injection Vulnerability",
    "added": "2026-10-14",
    "due": "2026-10-17",
    "ransomware": false

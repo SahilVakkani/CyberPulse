@@ -1,7 +1,19 @@
 {
- "generated_at": "2026-10-27T04:51:04Z",
+ "generated_at": "2026-10-27T10:15:08Z",
  "demo": false,
  "items": [
+  {
+   "id": "dc39db0185706a70",
+   "title": "From industry concern to practical action: the value of working with regulators",
+   "link": "https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators",
+   "source": "NCSC UK",
+   "type": "government",
+   "summary": "How industry, the NCSC and the FCA worked together to help organisations share information while protecting market integrity",
+   "published": "2026-10-27T12:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
   {
    "id": "acaa113a0748b20f",
    "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
@@ -9,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "general"
    ]
@@ -21,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "general"
    ]
@@ -33,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "general"
    ]
@@ -45,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "general"
    ]
@@ -57,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "general"
    ]
@@ -81,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "general"
    ]
@@ -93,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +117,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
    "tags": [
     "general"
    ]
@@ -117,7 +129,175 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T04:50:57Z",
+   "published": "2026-10-27T10:15:01Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "177d2de823fdddf4",
+   "title": "This is Fine: What NetScaler Zero-Days Tell Us about the New Normal",
+   "link": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us about the New Normal appeared first on SecurityWeek .",
+   "published": "2026-10-27T10:02:24Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "aa36d77dd524cea8",
+   "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
+   "link": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "What does it mean to be \"blue collar\" for the blue team? Ryan Fetterman discusses the realities of detection engineering, and shares his philosophy on building a career in security without burning out.",
+   "published": "2026-10-27T10:00:21Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "b7087025de0e153d",
+   "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
+   "link": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover appeared first on SecurityWeek .",
+   "published": "2026-10-27T09:44:50Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1da67faa3c4aabfe",
+   "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+   "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and…",
+   "published": "2026-10-27T09:33:06Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "4b38edd6123c947d",
+   "title": "Energy giant ENGIE discloses data breach affecting customers",
+   "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+   "published": "2026-10-27T09:25:50Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9a837322eb6fa1d2",
+   "title": "Cybercrime ring busted over AI-powered data theft targeting hospitals, businesses",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgna4q/cybercrime_ring_busted_over_aipowered_data_theft/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-27T08:51:29Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "232430175eeaf3f1",
+   "title": "unthemidator: An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgn8so/unthemidator_an_automated_themida_code/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-27T08:48:57Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "e66ec9132bdd66bc",
+   "title": "Generic.Detection.Yara.PHP2Shell for Velociraptor",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgn8bu/genericdetectionyaraphp2shell_for_velociraptor/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-27T08:47:58Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "ea5496feaca5e846",
+   "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+   "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service…",
+   "published": "2026-10-27T08:22:43Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4537c20242cb8c53",
+   "title": "Kernel eviction notice: What wesp.sys reveals about the Windows Endpoint Security Platform",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgmuey/kernel_eviction_notice_what_wespsys_reveals_about/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-27T08:22:20Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "77d8f32442c0c1ee",
+   "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+   "published": "2026-10-27T08:20:54Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "46ee8b886dbe8aca",
+   "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
+   "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek .",
+   "published": "2026-10-27T07:14:27Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ad878331961700a5",
+   "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+   "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration…",
+   "published": "2026-10-27T06:34:47Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "968629f0ead301ae",
+   "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+   "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring…",
+   "published": "2026-10-27T04:37:59Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -554,6 +734,18 @@
    "type": "news",
    "summary": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek .",
    "published": "2026-10-26T13:30:10Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "1d721fa902295cc1",
+   "title": "PHP2Shell: What to know about two critical PHP flaws",
+   "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "Here's the lowdown on CVE-2026-109618 and CVE-2026-109619, as well as what website owners and IT teams should do to stay safe – all in a little more than two minutes",
+   "published": "2026-10-26T13:25:00Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -5624,7 +5816,7 @@
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 8
+   "count": 9
   },
   {
    "name": "SentinelOne Labs",
@@ -5645,7 +5837,7 @@
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "Check Point Research",
@@ -5702,7 +5894,7 @@
    "type": "government",
    "home": "https://www.ncsc.gov.uk",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "SANS Internet Storm Center",

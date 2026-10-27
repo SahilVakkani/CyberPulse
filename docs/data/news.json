@@ -1,7 +1,359 @@
 {
- "generated_at": "2026-10-27T10:15:08Z",
+ "generated_at": "2026-10-27T15:58:06Z",
  "demo": false,
  "items": [
+  {
+   "id": "acaa113a0748b20f",
+   "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ccc5d3547a5c4dac",
+   "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a57f0ebaa66a1a97",
+   "title": "CrowdStrike Achieves NCSC CIR Enhanced Level Assurance",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "15f1ad45be3bfe10",
+   "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+   "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b79fbc206a1a3030",
+   "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "77f7a9558cbdc62d",
+   "title": "CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "458ea513ebf40308",
+   "title": "Solving the Continuous Authorization Conundrum",
+   "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ef3a25c289a42d12",
+   "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
+   "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "5962d84443393627",
+   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d96bed8f956667e3",
+   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-27T15:57:55Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "7e650c9c9ec09226",
+   "title": "Five election scams to watch out for",
+   "link": "https://www.malwarebytes.com/blog/scams/2026/10/five-election-scams-to-watch-out-for",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Election messages can ask you to register, donate, take a survey, or buy merchandise. Here’s how to check before you click or pay.",
+   "published": "2026-10-27T15:36:09Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "820476dc1929c69b",
+   "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+   "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on SecurityWeek .",
+   "published": "2026-10-27T15:26:12Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "89bdf1b8825d0954",
+   "title": "I've proven that you don't need quotes or parentheses in JavaScript",
+   "link": "https://www.reddit.com/r/netsec/comments/1xgvi3m/ive_proven_that_you_dont_need_quotes_or/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "You can overwrite the prepareStackTrace property of the Error object by String prototype's functions and invoke them without parentheses. Then by overwriting the Error and Array prototype it is possible to control the arguments. Combining this behavior, together with some…",
+   "published": "2026-10-27T15:24:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "37ead5afc46237ea",
+   "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
+   "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
+   "source": "The Record",
+   "type": "news",
+   "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
+   "published": "2026-10-27T15:07:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "319765385a557953",
+   "title": "University of New Mexico hospital diverts ambulances after cyberattack",
+   "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
+   "source": "The Record",
+   "type": "news",
+   "summary": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.",
+   "published": "2026-10-27T14:57:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "eeae20ed2a5aa36f",
+   "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+   "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+   "published": "2026-10-27T14:09:46Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "bd3182faba74d4e1",
+   "title": "Reviving GLPI Agent Abuse with ESC17",
+   "link": "https://www.reddit.com/r/netsec/comments/1xgtexh/reviving_glpi_agent_abuse_with_esc17/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/SzLam__ [link] [comments]",
+   "published": "2026-10-27T14:03:34Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b611ff4c270c9f39",
+   "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+   "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve…",
+   "published": "2026-10-27T14:01:11Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "37d79b8322984cf8",
+   "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
+   "link": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.",
+   "published": "2026-10-27T13:36:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "41ce8592d3fbb761",
+   "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+   "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek .",
+   "published": "2026-10-27T13:30:28Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "933843ff30ab2404",
+   "title": "Moscow faces internet disruptions as foreign leaders gather for summits",
+   "link": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday.",
+   "published": "2026-10-27T13:20:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4e5f0d814761ca5b",
+   "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
+   "link": "https://therecord.media/php-vulnerabilities-cisa-kev",
+   "source": "The Record",
+   "type": "news",
+   "summary": "CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing.",
+   "published": "2026-10-27T13:16:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "243406f675bd1aee",
+   "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
+   "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek .",
+   "published": "2026-10-27T13:13:58Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d461c86958127bc5",
+   "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+   "link": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
+   "source": "Check Point Research",
+   "type": "vendor-research",
+   "summary": "Key Points Introduction Over the past two months, we have been tracking a campaign that abuses the popularity of AI tools such as ChatGPT and Claude to spread a custom malware chain we call Yoba. The attackers use fake GitHub projects that pretend to be AI desktop applications…",
+   "published": "2026-10-27T13:03:27Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "24854d54e19e760d",
+   "title": "Artificial Intimacy: Love and lies in the age of AI",
+   "link": "https://www.malwarebytes.com/blog/ai/2026/10/artificial-intimacy-love-and-lies-in-the-age-of-ai",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Our latest report reveals how AI is reshaping our relationships, blurring what feels authentic, and creating new ways for intimacy to be exploited.",
+   "published": "2026-10-27T12:40:00Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "777d6b947110dd7f",
+   "title": "The web’s having a rough week. Here’s how to browse safely",
+   "link": "https://www.malwarebytes.com/blog/news/2026/10/the-webs-having-a-rough-week-heres-how-to-browse-safely",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "PHP and Node.js flaws, hacked sites, fake updates, and rogue certificates can put you at risk even on trusted websites. Here’s how to stay safe.",
+   "published": "2026-10-27T12:22:37Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "a6006728be28909d",
+   "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+   "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in…",
+   "published": "2026-10-27T12:09:50Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "928eba252ebe8ce3",
+   "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
+   "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The company says it reacted to an issue affecting some of its systems, including DreamHost webmail. The post Unexplained DreamHost Incident Prompts Email, FTP Password Resets appeared first on SecurityWeek .",
+   "published": "2026-10-27T12:02:06Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "fde042953d304e71",
+   "title": "An insecure neighbor: how a vulnerability chain led to an isolation bypass in cloud infrastructure",
+   "link": "https://securelist.com/cloud-infrastructure-isolation-bypass/121609/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "A Kaspersky expert presents a cloud isolation bypass case honored at Russian Pentest Award 2026. Learn how vulnerabilities in Kubernetes, Konnectivity, and the overlay network lead to RCE and compromise of other tenants' services.",
+   "published": "2026-10-27T12:00:19Z",
+   "tags": [
+    "malware",
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
   {
    "id": "dc39db0185706a70",
    "title": "From industry concern to practical action: the value of working with regulators",
@@ -15,132 +367,145 @@
    ]
   },
   {
-   "id": "acaa113a0748b20f",
-   "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ccc5d3547a5c4dac",
-   "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a57f0ebaa66a1a97",
-   "title": "CrowdStrike Achieves NCSC CIR Enhanced Level Assurance",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "15f1ad45be3bfe10",
-   "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
-   "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b79fbc206a1a3030",
-   "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
+   "id": "9cfdf1956af8dc08",
+   "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information…",
+   "published": "2026-10-27T12:00:00Z",
    "tags": [
     "vulnerabilities"
    ]
   },
   {
-   "id": "77f7a9558cbdc62d",
-   "title": "CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
+   "id": "531d14aa47c04aa3",
+   "title": "EPICS Base",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS…",
+   "published": "2026-10-27T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "c99aa3fd55df8bb9",
+   "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
+   "link": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones. The post iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18 appeared first on SecurityWeek .",
+   "published": "2026-10-27T11:49:57Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3fba9192c9254a71",
+   "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+   "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a…",
+   "published": "2026-10-27T11:46:00Z",
    "tags": [
     "general"
    ]
   },
   {
-   "id": "458ea513ebf40308",
-   "title": "Solving the Continuous Authorization Conundrum",
-   "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
+   "id": "1ce9ccf10a03fa0a",
+   "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+   "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond…",
+   "published": "2026-10-27T11:32:46Z",
    "tags": [
-    "general"
+    "phishing"
    ]
   },
   {
-   "id": "ef3a25c289a42d12",
-   "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
-   "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
+   "id": "cf5c346fcefd62e8",
+   "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+   "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to…",
+   "published": "2026-10-27T11:32:31Z",
    "tags": [
+    "malware",
     "threat-actors"
    ]
   },
   {
-   "id": "5962d84443393627",
-   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
+   "id": "e4968dee36081988",
+   "title": "From Arbitrary File Read to Shell: Yet Another RCE in Telerik",
+   "link": "https://www.reddit.com/r/netsec/comments/1xgpz1q/from_arbitrary_file_read_to_shell_yet_another_rce/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Gallus [link] [comments]",
+   "published": "2026-10-27T11:28:12Z",
    "tags": [
     "general"
    ]
   },
   {
-   "id": "d96bed8f956667e3",
-   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-   "source": "CrowdStrike Blog",
+   "id": "6c05e107bb76f251",
+   "title": "Hiding Capabilities in AI Models",
+   "link": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this…",
+   "published": "2026-10-27T11:01:26Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "71d1cf22ea0ac401",
+   "title": "Samsung TVs without mics may listen through soundbars, researcher says",
+   "link": "https://www.malwarebytes.com/blog/privacy/2026/10/samsung-tvs-without-mics-may-listen-through-soundbars-researcher-says",
+   "source": "Malwarebytes Labs",
    "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-27T10:15:01Z",
+   "summary": "The most startling claim is that a Samsung TV without a built-in microphone may use a connected soundbar or Bluetooth microphone to listen to the room.",
+   "published": "2026-10-27T10:44:40Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "60e8b957385d011f",
+   "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
+   "link": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses. The post Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI appeared first on SecurityWeek .",
+   "published": "2026-10-27T10:44:20Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "18137863896126e0",
+   "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+   "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+   "published": "2026-10-27T10:36:12Z",
    "tags": [
     "vulnerabilities"
    ]
   },
   {
    "id": "177d2de823fdddf4",
-   "title": "This is Fine: What NetScaler Zero-Days Tell Us about the New Normal",
+   "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
    "link": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
    "source": "SecurityWeek",
    "type": "news",
-   "summary": "Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us about the New Normal appeared first on SecurityWeek .",
+   "summary": "Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us About the New Normal appeared first on SecurityWeek .",
    "published": "2026-10-27T10:02:24Z",
    "tags": [
     "vulnerabilities"
@@ -231,6 +596,18 @@
    ]
   },
   {
+   "id": "863a21fb55d45c4e",
+   "title": "A community translation can run attacker-chosen code in an exported Godot game",
+   "link": "https://www.reddit.com/r/netsec/comments/1xgn2l1/a_community_translation_can_run_attackerchosen/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/bitbutter [link] [comments]",
+   "published": "2026-10-27T08:37:28Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "ea5496feaca5e846",
    "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
    "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
@@ -286,6 +663,18 @@
    "type": "news",
    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration…",
    "published": "2026-10-27T06:34:47Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "fcf73e5bf1ff649d",
+   "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
+   "link": "https://www.reddit.com/r/netsec/comments/1xgjs4s/choose_your_backend_three_tls_bugs_in_goahead/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/LordAlfredo [link] [comments]",
+   "published": "2026-10-27T05:07:28Z",
    "tags": [
     "general"
    ]
@@ -356,7 +745,7 @@
    "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
    "source": "Dark Reading",
    "type": "news",
-   "summary": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
+   "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
    "published": "2026-10-27T00:26:50Z",
    "tags": [
     "general"
@@ -5565,18 +5954,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "10fd6f7205bc32d0",
-   "title": "When LLM Gateways Go Wrong: Findings from LiteLLM",
-   "link": "https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/",
-   "source": "Check Point Research",
-   "type": "vendor-research",
-   "summary": "TL;DR; Our security assessment of LiteLLM (v1.77.7), a widely used open-source LLM gateway, uncovered multiple high-impact vulnerabilities (tracked as CVE-2026-35029, CVE-2026-59823) which have been resolved as of LiteLLM version 1.83.9. The most significant issues stemmed from…",
-   "published": "2026-10-13T14:30:26Z",
-   "tags": [
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
@@ -5830,7 +6207,7 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 5
+   "count": 6
   },
   {
    "name": "ESET WeLiveSecurity",
@@ -5907,16 +6284,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 23
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

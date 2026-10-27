@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T23:59:58Z",
+ "generated_at": "2026-10-27T04:51:04Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,33 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-26T23:59:52Z",
+   "published": "2026-10-27T04:50:57Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "38b3d1ce78375de6",
+   "title": "CVE Intel: open-source CVE triage tool.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgiexp/cve_intel_opensource_cve_triage_tool/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "I posted about this application a few weeks ago and I got really good advice from this reddit cybersecurity community. Thank you! Since then, I have made some progress. Those who don't know CVE Intel is an open-source tool that pulls CVE data from NVD, CISA KEV, EPSS, OSV and…",
+   "published": "2026-10-27T03:52:48Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "34ec0f91485adfd7",
+   "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
+   "link": "https://isc.sans.edu/diary/rss/33462",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-10-27T02:55:13Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -129,7 +153,31 @@
    "source": "SANS Internet Storm Center",
    "type": "community",
    "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
-   "published": "2026-10-26T23:34:37Z",
+   "published": "2026-10-27T02:09:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7f986c2781175381",
+   "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+   "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics appeared first on…",
+   "published": "2026-10-27T01:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "837fe1cef585dc8b",
+   "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+   "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
+   "published": "2026-10-27T00:26:50Z",
    "tags": [
     "general"
    ]
@@ -264,6 +312,19 @@
    "published": "2026-10-26T18:12:22Z",
    "tags": [
     "threat-actors"
+   ]
+  },
+  {
+   "id": "a08a0ea4f886981e",
+   "title": "PHP2Shell: Critical PHP Vulnerabilities Enable Unauthenticated Remote Code Execution",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xg4brx/php2shell_critical_php_vulnerabilities_enable/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-10-26T18:03:49Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
    ]
   },
   {
@@ -534,6 +595,18 @@
    ]
   },
   {
+   "id": "e1ba27a55dfc1e25",
+   "title": "Social Security truths",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfuxf0/social_security_truths/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jamrob4861 [link] [comments]",
+   "published": "2026-10-26T12:04:56Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "680a1bdeb1056a7b",
    "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
    "link": "https://therecord.media/litellm-hackers-ai-malware",
@@ -642,6 +715,18 @@
    ]
   },
   {
+   "id": "94eacc790be34625",
+   "title": "Context Bombs: Making attacking agents pay",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfsnm8/context_bombs_making_attacking_agents_pay/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/tracebit [link] [comments]",
+   "published": "2026-10-26T10:03:31Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "8474e0cfd37a9b48",
    "title": "Deploying AI agents securely: how Kaspersky products mitigate AI threats",
    "link": "https://securelist.com/tr/how-to-secure-ai-agents/121444/",
@@ -714,6 +799,19 @@
    ]
   },
   {
+   "id": "8f5ec81fe424c1dc",
+   "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) - \"We are unable to confirm that initial access is associated with the specific PHP2Shell CVEs.…",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfr8wa/threat_brief_critical_vulnerabilities_in_php/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-26T08:37:04Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "35a2887f86531272",
    "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
    "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
@@ -723,6 +821,42 @@
    "published": "2026-10-26T08:35:51Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "89524f7c95941300",
+   "title": "CYFIRMA Threat Advisory: Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfqnjn/cyfirma_threat_advisory_suspected_dprk_campaign/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-26T07:59:33Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "cdd34aa013f6f8be",
+   "title": "UAC-0246 Hackers Masquerade as Tax Authorities and Banks to Compromise Devices",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfqn66/uac0246_hackers_masquerade_as_tax_authorities_and/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-26T07:58:53Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "421545174ee02f8a",
+   "title": "ABC wipes staff devices exposed to new, sophisticated cyber attack",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfqkou/abc_wipes_staff_devices_exposed_to_new/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-26T07:54:11Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -759,6 +893,20 @@
    "published": "2026-10-26T06:03:48Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "30017c584fa8a9d0",
+   "title": "CVE-2026-114625: VeloCloud Orchestrator privilege escalation exploited in the wild. Read-only portal accounts can reach local superuser.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfobo2/cve2026114625_velocloud_orchestrator_privilege/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Heads up for anyone running on-prem VeloCloud Orchestrator. CVE-2026-114625 (CVSS 9.9) lets an authenticated user with only Enterprise Read Only portal access escalate to local superuser on the VCO host. Arista reports active exploitation. What’s known so far: → Only on-prem…",
+   "published": "2026-10-26T05:30:57Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities",
+    "cloud-identity"
    ]
   },
   {
@@ -5567,16 +5715,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 23
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

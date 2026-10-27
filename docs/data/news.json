@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:58:06Z",
+ "generated_at": "2026-10-27T20:35:03Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,105 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T15:57:55Z",
+   "published": "2026-10-27T20:34:52Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "c75ce4708bf6d307",
+   "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
+   "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+   "source": "The Record",
+   "type": "news",
+   "summary": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
+   "published": "2026-10-27T19:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d09366a97fc83094",
+   "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+   "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments…",
+   "published": "2026-10-27T18:26:46Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9df47a48bc7e9c43",
+   "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+   "published": "2026-10-27T18:20:28Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c94760ddc346999d",
+   "title": "GhostAction Crosses Paths With PolinRider",
+   "link": "https://www.reddit.com/r/netsec/comments/1xh04rd/ghostaction_crosses_paths_with_polinrider/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/mabote [link] [comments]",
+   "published": "2026-10-27T18:12:53Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a8008ad652a3fd55",
+   "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
+   "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
+   "published": "2026-10-27T17:43:07Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c64d4188c21b1cf3",
+   "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants",
+   "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
+   "published": "2026-10-27T16:47:20Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "2464d5193a02f1c7",
+   "title": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
+   "link": "https://www.reddit.com/r/netsec/comments/1xgxdk8/the_gentlemen_a_closer_look_at_a_notsogentle/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Our Threat Research Unit published a breakdown of “The Gentlemen” - a Russian-speaking ransomware-as-a-service group that emerged in mid-2025, reportedly after affiliates split off from established groups like LockBit and Qilin. A few things that stood out from the research:…",
+   "published": "2026-10-27T16:33:17Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "db852607b1360578",
+   "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+   "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+   "published": "2026-10-27T16:15:39Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -216,6 +312,30 @@
    "published": "2026-10-27T14:01:11Z",
    "tags": [
     "threat-hunting"
+   ]
+  },
+  {
+   "id": "ae042a0b53b23466",
+   "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+   "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with…",
+   "published": "2026-10-27T13:59:48Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "0afa3606f14eb661",
+   "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+   "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary…",
+   "published": "2026-10-27T13:59:09Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -385,6 +505,18 @@
    "source": "CISA Cybersecurity Advisories",
    "type": "government",
    "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS…",
+   "published": "2026-10-27T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9de4c840c98b45f4",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-111497 Google Brotli…",
    "published": "2026-10-27T12:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -651,6 +783,18 @@
    "type": "news",
    "summary": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek .",
    "published": "2026-10-27T07:14:27Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "843f0669e299ae9e",
+   "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+   "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+   "source": "Google Project Zero",
+   "type": "vendor-research",
+   "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep…",
+   "published": "2026-10-27T07:00:00Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -1197,18 +1341,6 @@
    "published": "2026-10-26T12:00:00Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "a7bcfa86d46f0ae1",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching : CVE-2026-109618 – PHP Memory Corruption Vulnerability CVE-2026-109619 – PHP Stale Internal…",
-   "published": "2026-10-26T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
    ]
   },
   {
@@ -5958,6 +6090,24 @@
  ],
  "kev": [
   {
+   "cve": "CVE-2026-48356",
+   "vendor": "Adobe",
+   "product": "Commerce and Magento",
+   "name": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
+   "added": "2026-10-27",
+   "due": "2026-11-10",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-111497",
+   "vendor": "Google",
+   "product": "Brotli",
+   "name": "Google Brotli Unchecked Return Value Vulnerability",
+   "added": "2026-10-27",
+   "due": "2026-11-10",
+   "ransomware": false
+  },
+  {
    "cve": "CVE-2026-109618",
    "vendor": "PHP Group",
    "product": "PHP",
@@ -6073,24 +6223,6 @@
    "added": "2026-10-15",
    "due": "2026-10-18",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-105134",
-   "vendor": "Ahsay",
-   "product": "AhsayCBS",
-   "name": "Ahsay AhsayCBS Command Injection Vulnerability",
-   "added": "2026-10-14",
-   "due": "2026-10-17",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-76519",
-   "vendor": "Cisco",
-   "product": "Secure Email Gateway",
-   "name": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
-   "added": "2026-10-14",
-   "due": "2026-10-17",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -6172,7 +6304,7 @@
    "type": "vendor-research",
    "home": "https://googleprojectzero.blogspot.com",
    "status": "ok",
-   "count": 0
+   "count": 1
   },
   {
    "name": "CrowdStrike Blog",

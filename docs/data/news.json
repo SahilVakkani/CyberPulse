@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T00:17:34Z",
+ "generated_at": "2026-10-28T06:03:57Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,33 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T00:17:22Z",
+   "published": "2026-10-28T06:03:45Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "271b83601f0c5aec",
+   "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
+   "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+   "published": "2026-10-28T06:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8e015ae66abc3975",
+   "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33464",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-10-28T02:30:11Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -6113,18 +6137,6 @@
    "published": "2026-10-14T09:00:00Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "144f472a1e641422",
-   "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
-   "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
-   "published": "2026-10-14T05:00:00Z",
-   "tags": [
-    "ransomware"
    ]
   }
  ],

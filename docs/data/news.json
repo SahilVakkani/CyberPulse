@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:59:38Z",
+ "generated_at": "2026-10-28T23:06:58Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,94 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T18:59:27Z",
+   "published": "2026-10-28T23:06:46Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "a4a98e0e7ba86643",
+   "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
+   "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorized access to affected systems to deploy KeyDrift.",
+   "published": "2026-10-28T21:32:02Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "66d728b46d6b27f3",
+   "title": "Turning the Valve - Exploiting RCE and LPE in the Steam Platform",
+   "link": "https://www.reddit.com/r/netsec/comments/1xi11fq/turning_the_valve_exploiting_rce_and_lpe_in_the/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/FILLABUSTA [link] [comments]",
+   "published": "2026-10-28T21:24:39Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "bf65784fd277bccf",
+   "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
+   "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
+   "source": "The Record",
+   "type": "news",
+   "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
+   "published": "2026-10-28T20:50:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6369b7f8877cd3df",
+   "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+   "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+   "published": "2026-10-28T20:47:22Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6297f1390dfad249",
+   "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
+   "link": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
+   "published": "2026-10-28T20:33:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "89379326868d8969",
+   "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+   "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+   "published": "2026-10-28T19:39:00Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "c1e23c8d3f17f215",
+   "title": "An attacker can crash a Godot game server using DTLS with an unauthenticated UDP datagram",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhxfh0/an_attacker_can_crash_a_godot_game_server_using/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/bitbutter [link] [comments]",
+   "published": "2026-10-28T19:09:42Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -558,6 +643,18 @@
    "published": "2026-10-28T12:00:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "f28c390e8f2d693a",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable…",
+   "published": "2026-10-28T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -1506,18 +1603,6 @@
    "source": "CISA Cybersecurity Advisories",
    "type": "government",
    "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS…",
-   "published": "2026-10-27T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "9de4c840c98b45f4",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-111497 Google Brotli…",
    "published": "2026-10-27T12:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -6854,61 +6939,27 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "f92c56fe800f3f5c",
-   "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
-   "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware. The post Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant appeared first on Unit 42 .",
-   "published": "2026-10-14T22:00:44Z",
-   "tags": [
-    "threat-actors",
-    "malware",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "e1c5b3e9fc3c2f66",
-   "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
-   "published": "2026-10-14T21:20:13Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "b0a791a97e86668c",
-   "title": "Yam Store: The Phishing Network Behind a Billion Messages",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
-   "published": "2026-10-14T20:57:16Z",
-   "tags": [
-    "cloud-identity",
-    "phishing"
-   ]
-  },
-  {
-   "id": "7f55a7a9001ea114",
-   "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
-   "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
-   "published": "2026-10-14T20:09:42Z",
-   "tags": [
-    "cloud-identity"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-41709",
+   "vendor": "Broadcom",
+   "product": "VMware ESX",
+   "name": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
+   "added": "2026-10-28",
+   "due": "2026-11-11",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-46300",
+   "vendor": "Linux",
+   "product": "Kernel",
+   "name": "Linux Kernel Missing Initialization of a Variable Vulnerability",
+   "added": "2026-10-28",
+   "due": "2026-10-31",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2026-48356",
    "vendor": "Adobe",
@@ -7025,24 +7076,6 @@
    "added": "2026-10-16",
    "due": "2026-10-19",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2025-61624",
-   "vendor": "Fortinet",
-   "product": "Multiple Products",
-   "name": "Fortinet Multiple Products Path Traversal Vulnerability",
-   "added": "2026-10-16",
-   "due": "2026-10-19",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-21589",
-   "vendor": "Atlassian",
-   "product": "Multiple Products",
-   "name": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
-   "added": "2026-10-15",
-   "due": "2026-10-18",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -7138,14 +7171,14 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 9
+   "count": 8
   },
   {
    "name": "Cisco Talos",
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "SentinelOne Labs",

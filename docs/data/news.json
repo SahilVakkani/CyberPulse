@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T06:03:57Z",
+ "generated_at": "2026-10-28T13:22:30Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T06:03:45Z",
+   "published": "2026-10-28T13:22:18Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T06:03:45Z",
+   "published": "2026-10-28T13:22:18Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T06:03:45Z",
+   "published": "2026-10-28T13:22:18Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T06:03:45Z",
+   "published": "2026-10-28T13:22:18Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T06:03:45Z",
+   "published": "2026-10-28T13:22:18Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T06:03:45Z",
+   "published": "2026-10-28T13:22:18Z",
    "tags": [
     "general"
    ]
@@ -81,9 +81,410 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T06:03:45Z",
+   "published": "2026-10-28T13:22:18Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "5962d84443393627",
+   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-28T13:22:18Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d96bed8f956667e3",
+   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-28T13:22:18Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f87ec6e8be1b0324",
+   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-28T13:22:18Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "84fd850178932512",
+   "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+   "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .",
+   "published": "2026-10-28T13:10:34Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "e82fd164bb3c8d79",
+   "title": "LABScon26 Replay | Keynote: A Sober Analysis of AI Impact",
+   "link": "https://www.sentinelone.com/labs/labscon26-replay-keynote-a-sober-analysis-of-ai-impact/",
+   "source": "SentinelOne Labs",
+   "type": "vendor-research",
+   "summary": "Harvard Professor James Mickens weighs the promises of AI against its potential harms, arguing for hardware-based mechanisms to isolate frontier models.",
+   "published": "2026-10-28T13:00:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "7c22489c81a536a6",
+   "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+   "published": "2026-10-28T12:19:57Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0d8d39d2f11bfaaf",
+   "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+   "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .",
+   "published": "2026-10-28T12:00:59Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "12185b0bd2c83e91",
+   "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
+   "link": "https://therecord.media/fbi-seizure-csam-virtualine",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
+   "published": "2026-10-28T12:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "65b458ab74f58f11",
+   "title": "APT Activity Report - Q2 Q3 2026",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhldpk/apt_activity_report_q2_q3_2026/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-10-28T11:23:11Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "42a9e60af11b1055",
+   "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+   "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows -…",
+   "published": "2026-10-28T11:15:51Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "06c9c38fdf39551f",
+   "title": "Chrome and Firefox updates fix serious security flaws. Install them now",
+   "link": "https://www.malwarebytes.com/blog/ai/2026/10/chrome-and-firefox-updates-fix-serious-security-flaws-install-them-now",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Google and Mozilla released security updates for Chrome and Firefox on October 27. Update your browser as soon as you can.",
+   "published": "2026-10-28T11:13:06Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5ad5314f8c50f866",
+   "title": "Studying Fraudulent North Korean IT Workers",
+   "link": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "Researchers set up a fake start-up company to study fraudulent North Korean IT workers.",
+   "published": "2026-10-28T11:05:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9ebc7f16e54c35c4",
+   "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+   "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek .",
+   "published": "2026-10-28T10:48:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "aa5619127529a887",
+   "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+   "published": "2026-10-28T10:46:23Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "169a3a02ba4a388f",
+   "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+   "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer…",
+   "published": "2026-10-28T10:30:00Z",
+   "tags": [
+    "cloud-identity",
+    "phishing"
+   ]
+  },
+  {
+   "id": "085573e20d778f07",
+   "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
+   "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionnaire. We Rely on It Anyway. appeared first on SecurityWeek .",
+   "published": "2026-10-28T10:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c05a0e78d955d0ca",
+   "title": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices",
+   "link": "https://securelist.com/intelbras-camera-vulnerability/121131/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer.",
+   "published": "2026-10-28T10:00:18Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "fe462dc644daa102",
+   "title": "Stealing OpenAI Reasoning Traces via Compaction Smuggling",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhjurc/stealing_openai_reasoning_traces_via_compaction/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-28T09:58:27Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "c8f2d56fcff4fd15",
+   "title": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhjte8/gheist_attempted_scaled_abuse_of_stolen_github/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-28T09:56:05Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "2a301d65b7a95939",
+   "title": "CISA 2030",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhjsxf/cisa_2030/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-28T09:55:16Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "56f1c438e2949bf1",
+   "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
+   "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek .",
+   "published": "2026-10-28T09:48:24Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "965a65e0d8497477",
+   "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+   "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+   "published": "2026-10-28T09:43:15Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "b73fe8b365fbf849",
+   "title": "Notorious Brazilian Magecart group hijacks Convertr checkouts via Plausible analytics",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhjedo/notorious_brazilian_magecart_group_hijacks/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-28T09:29:34Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "3f9c6dce420c2b7a",
+   "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+   "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .",
+   "published": "2026-10-28T09:14:23Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "21dec5f03b5818ad",
+   "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+   "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek .",
+   "published": "2026-10-28T08:37:24Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d75560f4cad5dfa1",
+   "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+   "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any…",
+   "published": "2026-10-28T08:15:07Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "6fcf621f852d0783",
+   "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+   "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the…",
+   "published": "2026-10-28T07:37:50Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f092096f0f6395a7",
+   "title": "IR 8547, Transition to Post-Quantum Cryptography Standards",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhhhko/ir_8547_transition_to_postquantum_cryptography/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-28T07:25:36Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "8dc7a61989acefab",
+   "title": "NSM hever det nasjonale cyberrisikonivået til HØYT - NSM raises the national cyber risk level to HIGH",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhhe7r/nsm_hever_det_nasjonale_cyberrisikonivået_til/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-28T07:19:19Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "697aeb2243e0ec4e",
+   "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+   "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an…",
+   "published": "2026-10-28T07:13:21Z",
+   "tags": [
+    "ransomware",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "3dba8edef86126f3",
+   "title": "The 2025-26 Annual Cyber Threat Report highlights key threats, responses and security advice for Australians.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhhayg/the_202526_annual_cyber_threat_report_highlights/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-28T07:13:13Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "345dc53c49102d11",
+   "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+   "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the…",
+   "published": "2026-10-28T06:20:37Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f01e6eed4371d339",
+   "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+   "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side…",
+   "published": "2026-10-28T06:04:58Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -99,30 +500,6 @@
    ]
   },
   {
-   "id": "5962d84443393627",
-   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-28T06:03:45Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d96bed8f956667e3",
-   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-28T06:03:45Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
    "id": "271b83601f0c5aec",
    "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
    "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
@@ -132,6 +509,31 @@
    "published": "2026-10-28T06:00:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "dc166c047f571359",
+   "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+   "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The…",
+   "published": "2026-10-28T05:42:26Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "a3bdc8af973e74a8",
+   "title": "php2shell in Practice: Exploitable, Conditional, and Hard to Mass-Exploit",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhddfw/php2shell_in_practice_exploitable_conditional_and/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/radkawar [link] [comments]",
+   "published": "2026-10-28T03:23:29Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
    ]
   },
   {
@@ -170,6 +572,31 @@
    "published": "2026-10-27T23:09:33Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "dcb43c85897c7b35",
+   "title": "Alleged Israeli spy company heavily targeted Starlink users, sources say",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xh7r5o/alleged_israeli_spy_company_heavily_targeted/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-27T23:04:48Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "3c9b73ea1c97e5d6",
+   "title": "Ukrainian National Sentenced for Role in Hacking Hospitals, Businesses, and Governments as Part of Ransomware Conspiracies Causing Over $100 Million in Losses",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xh7api/ukrainian_national_sentenced_for_role_in_hacking/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-27T22:45:26Z",
+   "tags": [
+    "threat-hunting",
+    "ransomware"
    ]
   },
   {
@@ -226,7 +653,7 @@
    "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
    "source": "Dark Reading",
    "type": "news",
-   "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+   "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
    "published": "2026-10-27T20:42:40Z",
    "tags": [
     "malware",
@@ -6101,43 +6528,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "319aa986d3e5a772",
-   "title": "Russian Influence Operation Widely Targets Latin America",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
-   "published": "2026-10-14T13:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b2dbdf4e9e4544f5",
-   "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law…",
-   "published": "2026-10-14T13:00:00Z",
-   "tags": [
-    "threat-actors",
-    "phishing"
-   ]
-  },
-  {
-   "id": "cb8d7c0fa36772af",
-   "title": "Medicare scam calls, texts and ads: What to watch for this Open Enrollment",
-   "link": "https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/",
-   "source": "ESET WeLiveSecurity",
-   "type": "vendor-research",
-   "summary": "Open Enrollment is peak season for Medicare fraud – here’s how to tell real outreach from fakes and keep your details safe",
-   "published": "2026-10-14T09:00:00Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -6333,7 +6723,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "Microsoft Security Response Center",
@@ -6384,21 +6774,21 @@
    "type": "vendor-research",
    "home": "https://www.sentinelone.com",
    "status": "ok",
-   "count": 0
+   "count": 1
   },
   {
    "name": "Securelist (Kaspersky)",
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 6
+   "count": 7
   },
   {
    "name": "ESET WeLiveSecurity",
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "Check Point Research",
@@ -6468,16 +6858,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 23
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

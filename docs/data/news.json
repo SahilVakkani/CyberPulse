@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T13:22:30Z",
+ "generated_at": "2026-10-28T18:59:38Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T13:22:18Z",
+   "published": "2026-10-28T18:59:27Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T13:22:18Z",
+   "published": "2026-10-28T18:59:27Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T13:22:18Z",
+   "published": "2026-10-28T18:59:27Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T13:22:18Z",
+   "published": "2026-10-28T18:59:27Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T13:22:18Z",
+   "published": "2026-10-28T18:59:27Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,9 +69,398 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T13:22:18Z",
+   "published": "2026-10-28T18:59:27Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "5962d84443393627",
+   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-28T18:59:27Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d96bed8f956667e3",
+   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-28T18:59:27Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f87ec6e8be1b0324",
+   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-28T18:59:27Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a82de8dc19f5002f",
+   "title": "When AI Guardrails Expose Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-28T18:59:27Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d9b49b7f0de254da",
+   "title": "Discord to let search engines index public server messages",
+   "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+   "published": "2026-10-28T18:44:16Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "10e92bd49867d2da",
+   "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+   "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating…",
+   "published": "2026-10-28T18:08:33Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d949b1e38983bf5c",
+   "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
+   "link": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.",
+   "published": "2026-10-28T18:02:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "682371bfbe60c494",
+   "title": "Unwrapping Retail Peak Season Cyber Threats",
+   "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 .",
+   "published": "2026-10-28T18:00:10Z",
+   "tags": [
+    "threat-actors",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "22278c0bc2499d51",
+   "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
+   "link": "https://therecord.media/north-korea-russia-sanctions",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.",
+   "published": "2026-10-28T17:45:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b057f3381d273763",
+   "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+   "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with…",
+   "published": "2026-10-28T17:08:09Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "516ab6192d2090b0",
+   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+   "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+   "published": "2026-10-28T16:45:47Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ddb9d5f06fc0baa9",
+   "title": "Moldova investigates possible foreign involvement in major government cyberattack",
+   "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports.",
+   "published": "2026-10-28T16:37:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "bce30872ee07ee09",
+   "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+   "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the…",
+   "published": "2026-10-28T16:23:34Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "cd96a1792e01bd26",
+   "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33466",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "Introduction",
+   "published": "2026-10-28T16:07:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "eb73651e36eef1c5",
+   "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+   "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was…",
+   "published": "2026-10-28T16:02:45Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "6e5b341998e91733",
+   "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+   "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+   "published": "2026-10-28T16:00:00Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "02f39348974c3f63",
+   "title": "The CISO’s evolving role: Protecting and defending in the agentic era",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The…",
+   "published": "2026-10-28T16:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "439d8b530d78dfe1",
+   "title": "EDK2 PXE Flaw (CVE-2026-97631): Find What You Run",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhrkjy/edk2_pxe_flaw_cve202697631_find_what_you_run/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Traditional-Heat-749 [link] [comments]",
+   "published": "2026-10-28T15:41:41Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "bfd6a8fefd0e42bd",
+   "title": "UK to look at making software companies liable for cyber breaches",
+   "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improve security.",
+   "published": "2026-10-28T15:37:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e89555bcd57e7443",
+   "title": "Scanning 7.25 Million Public Repositories on China's Largest Git Platform for Secrets",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhrfhu/scanning_725_million_public_repositories_on/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Grand_Fan_9804 [link] [comments]",
+   "published": "2026-10-28T15:36:25Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b967772398499b5e",
+   "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
+   "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.",
+   "published": "2026-10-28T15:15:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f424b83a0c005c34",
+   "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+   "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .",
+   "published": "2026-10-28T15:05:06Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "884110d1218a511f",
+   "title": "SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhqj0w/seo_poisoning_campaign_targets_deepseek_users/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/CyberMasterV [link] [comments]",
+   "published": "2026-10-28T15:03:44Z",
+   "tags": [
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "15bc73e43bd6a926",
+   "title": "Cache Me If You Can: XSS in Cloudflare's /cdn-cgi/image/",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhqdx6/cache_me_if_you_can_xss_in_cloudflares_cdncgiimage/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/albinowax [link] [comments]",
+   "published": "2026-10-28T14:58:48Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "7f47388e611d04a6",
+   "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+   "published": "2026-10-28T14:48:32Z",
+   "tags": [
+    "cloud-identity",
+    "phishing"
+   ]
+  },
+  {
+   "id": "70a17c1d3a5b4867",
+   "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+   "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
+   "published": "2026-10-28T14:37:52Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "c8acfc9cedc30072",
+   "title": "I got RCE on the sandboxes of Instinct and Muse!",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhpdn3/i_got_rce_on_the_sandboxes_of_instinct_and_muse/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/azl33t [link] [comments]",
+   "published": "2026-10-28T14:20:14Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "60ccb0bbd830e1a2",
+   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+   "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+   "published": "2026-10-28T14:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "943e231b105b7cd3",
+   "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
+   "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first on SecurityWeek .",
+   "published": "2026-10-28T13:56:50Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "219f99ac76bfe581",
+   "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+   "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the…",
+   "published": "2026-10-28T13:50:59Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "04dad7bd605d46ca",
+   "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
+   "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .",
+   "published": "2026-10-28T13:39:35Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "1be3ae75c7edd223",
+   "title": "Banks are blocking AI agents from customer accounts",
+   "link": "https://www.malwarebytes.com/blog/ai/2026/10/banks-are-blocking-ai-agents-from-customer-accounts",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Banks say third-party AI agents put customer accounts at risk. Is security the only concern?",
+   "published": "2026-10-28T13:38:59Z",
+   "tags": [
+    "malware"
    ]
   },
   {
@@ -87,37 +476,13 @@
    ]
   },
   {
-   "id": "5962d84443393627",
-   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-28T13:22:18Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d96bed8f956667e3",
-   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-28T13:22:18Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f87ec6e8be1b0324",
-   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-28T13:22:18Z",
+   "id": "c5079b95dcd4453e",
+   "title": "Where a million-request-a-second HTTP/2 flood goes: XDP drop counters from two real attacks",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhnqhh/where_a_millionrequestasecond_http2_flood_goes/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/MeGunes0 [link] [comments]",
+   "published": "2026-10-28T13:14:05Z",
    "tags": [
     "general"
    ]
@@ -144,6 +509,19 @@
    "published": "2026-10-28T13:00:00Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "29d08fa787d95cda",
+   "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+   "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the…",
+   "published": "2026-10-28T12:48:03Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
    ]
   },
   {
@@ -178,6 +556,30 @@
    "type": "news",
    "summary": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
    "published": "2026-10-28T12:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "eb93de238d98745b",
+   "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+   "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the…",
+   "published": "2026-10-28T11:50:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ce5fe177d9dacc31",
+   "title": "Wazuh and AI for Enhanced SOC Workflows",
+   "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster…",
+   "published": "2026-10-28T11:30:00Z",
    "tags": [
     "general"
    ]
@@ -307,6 +709,18 @@
    ]
   },
   {
+   "id": "1383b1eca42b1ade",
+   "title": "A malicious game server can crash the Godot clients that join it",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhju55/a_malicious_game_server_can_crash_the_godot/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "In Godot 4.0 and later, in games using the engine's standard spawning setup, a peer with authority over the relevant spawner - by default the server the client joins - can crash that client with one crafted packet. submitted by /u/bitbutter [link] [comments]",
+   "published": "2026-10-28T09:57:22Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "c8f2d56fcff4fd15",
    "title": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
    "link": "https://www.reddit.com/r/blueteamsec/comments/1xhjte8/gheist_attempted_scaled_abuse_of_stolen_github/",
@@ -367,6 +781,18 @@
    ]
   },
   {
+   "id": "0022d4f499bbde16",
+   "title": "Passing a TPU Through to a Paravirtualized Guest",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhjawg/passing_a_tpu_through_to_a_paravirtualized_guest/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/One_Paint8721 [link] [comments]",
+   "published": "2026-10-28T09:23:22Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "3f9c6dce420c2b7a",
    "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
    "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
@@ -400,6 +826,18 @@
    "published": "2026-10-28T08:15:07Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e1b9e006b23faf67",
+   "title": "ElectroNG is now open source. ElectronJS Security Scanner.",
+   "link": "https://www.reddit.com/r/netsec/comments/1xhhv2k/electrong_is_now_open_source_electronjs_security/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "ElectroNG is now free and open source. submitted by /u/nibblesec [link] [comments]",
+   "published": "2026-10-28T07:50:06Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -505,7 +943,7 @@
    "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
    "source": "Dark Reading",
    "type": "news",
-   "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+   "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
    "published": "2026-10-28T06:00:00Z",
    "tags": [
     "general"
@@ -6468,66 +6906,6 @@
    "tags": [
     "cloud-identity"
    ]
-  },
-  {
-   "id": "4d5b36d13b300c3b",
-   "title": "Upcoming Speaking Engagements",
-   "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto,…",
-   "published": "2026-10-14T16:02:17Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6bb19fd6562cc725",
-   "title": "The Future of AI Cryptanalysis",
-   "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering…",
-   "published": "2026-10-14T14:24:18Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "78394b2e6b36c285",
-   "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-   "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-   "source": "Krebs on Security",
-   "type": "news",
-   "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent…",
-   "published": "2026-10-14T14:22:49Z",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "id": "7bf6f5bbc65c05af",
-   "title": "Cyberattack on Connected Fridges in France",
-   "link": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "Another IoT cyberattack , this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. […] Normally, supermarket freezers go…",
-   "published": "2026-10-14T14:10:22Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f25ecccf706526b1",
-   "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
-   "link": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "Talos and Recorded Future identified UAT-6275 activity targeting government organizations across the Commonwealth of Independent States. Recovered artifacts show additional interest in water resources and energy.",
-   "published": "2026-10-14T14:00:00Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -6688,7 +7066,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 3
+   "count": 2
   },
   {
    "name": "SecurityWeek",
@@ -6723,7 +7101,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "Microsoft Security Response Center",
@@ -6760,14 +7138,14 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 8
+   "count": 9
   },
   {
    "name": "Cisco Talos",
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "SentinelOne Labs",
@@ -6858,16 +7236,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 23
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

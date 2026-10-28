@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:35:03Z",
+ "generated_at": "2026-10-28T00:17:34Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "threat-actors"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,121 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-27T20:34:52Z",
+   "published": "2026-10-28T00:17:22Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5246b1272668680e",
+   "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+   "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+   "published": "2026-10-27T23:35:51Z",
+   "tags": [
+    "ransomware",
+    "cloud-identity",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "3a61969c4b25ea51",
+   "title": "New Kerberos Abuse Path Discovery - Constrained Delegation without Protocol Transition against SPN-less accounts",
+   "link": "https://www.reddit.com/r/netsec/comments/1xh7v6y/new_kerberos_abuse_path_discovery_constrained/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "I've recently released a blog covering how I discovered a new Kerberos delegation abuse path! By combining Elad Shamir's Reflective RBCD with James Forshaw's U2U sacrificial user technique, Constrained Delegation without Protocol Transition can now be abused against SPN-less…",
+   "published": "2026-10-27T23:09:33Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "dedf00d647271589",
+   "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+   "published": "2026-10-27T22:43:27Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "78275c0ac59e70a5",
+   "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+   "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+   "published": "2026-10-27T22:07:34Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "2db299f6a19064cf",
+   "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
+   "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
+   "published": "2026-10-27T21:15:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7477a331e67ff22c",
+   "title": "Hackers hijack Convertr analytics script to steal payment card data",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+   "published": "2026-10-27T20:57:25Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e7767410559634bd",
+   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+   "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+   "published": "2026-10-27T20:42:40Z",
+   "tags": [
+    "malware",
+    "ransomware",
+    "phishing"
+   ]
+  },
+  {
+   "id": "2f6663d0ce966b03",
+   "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+   "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
+   "published": "2026-10-27T20:40:00Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "67aef7e7b7c4c14f",
+   "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
+   "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
+   "published": "2026-10-27T19:58:06Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -6014,78 +6126,6 @@
    "tags": [
     "ransomware"
    ]
-  },
-  {
-   "id": "83d130e7ba9f7dd1",
-   "title": "Microsoft Patches More Than 1,400 Security Flaws",
-   "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-   "source": "Krebs on Security",
-   "type": "news",
-   "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from…",
-   "published": "2026-10-13T23:24:53Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "841edbc362aba60e",
-   "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The scary surprises in the largest security update ever include defense bypasses and unauthenticated RCEs.",
-   "published": "2026-10-13T22:29:57Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "53bfae4a0cf33888",
-   "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
-   "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk…",
-   "published": "2026-10-13T22:00:04Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "c237a5931a6317bb",
-   "title": "North Korea Phishes Ukrainians for War Intel",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
-   "published": "2026-10-13T21:24:45Z",
-   "tags": [
-    "phishing"
-   ]
-  },
-  {
-   "id": "a24af62903adae24",
-   "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
-   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "Microsoft has released its monthly security update for October 2026, which includes 1415 vulnerabilities affecting a range of products, including 85 that Microsoft marked as \"critical.\"",
-   "published": "2026-10-13T20:37:58Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "a240599f4fed05f6",
-   "title": "Anthropic Finds Ingredients for Future AI Worms",
-   "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
-   "published": "2026-10-13T20:35:23Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -6246,7 +6286,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 4
+   "count": 3
   },
   {
    "name": "SecurityWeek",
@@ -6318,14 +6358,14 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 9
+   "count": 8
   },
   {
    "name": "Cisco Talos",
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 9
+   "count": 8
   },
   {
    "name": "SentinelOne Labs",

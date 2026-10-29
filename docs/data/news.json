@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T02:40:43Z",
+ "generated_at": "2026-10-29T09:32:12Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,157 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T02:40:31Z",
+   "published": "2026-10-29T09:32:02Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "fb20140aedd4eec7",
+   "title": "The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!",
+   "link": "https://www.reddit.com/r/netsec/comments/1xif160/the_last_proof_of_human_craft_forging_a_microsoft/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/albinowax [link] [comments]",
+   "published": "2026-10-29T09:15:54Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "167dc1f9a8a4ead0",
+   "title": "Linux Kernel TIPC DoS: named_distribute() NULL Dereference, Race Analysis, and Remote Triggering",
+   "link": "https://www.reddit.com/r/netsec/comments/1xienwv/linux_kernel_tipc_dos_named_distribute_null/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "I've spent the last four days investigating and fine-tuning a remote DoS against the Linux kernel's TIPC implementation. A remote peer-state transition can trigger a NULL pointer dereference in TIPC's name-distribution path, causing a kernel panic and taking down the host. I've…",
+   "published": "2026-10-29T08:52:27Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "be6cb0b79faf51bd",
+   "title": "Axis Camera Station Deep-Dive: Unauth RCE to Decrypting Every Camera Credential (CVE-2025-30026/30023 + CVE-2026-63286)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xiekai/axis_camera_station_deepdive_unauth_rce_to/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Rare_Bicycle_5705 [link] [comments]",
+   "published": "2026-10-29T08:45:46Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "b3306983de0025ef",
+   "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+   "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek .",
+   "published": "2026-10-29T08:27:16Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "aabd8e14b2705c02",
+   "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+   "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for…",
+   "published": "2026-10-29T08:24:22Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ef44306c2f44aa10",
+   "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+   "link": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek .",
+   "published": "2026-10-29T08:01:05Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "7db6fdf963feec19",
+   "title": "Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia",
+   "link": "https://securelist.com/netamloader/121676/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "Kaspersky researchers analyze a complex targeted attack employing NetamLoader, a sophisticated malicious framework and targeting a customized government OS.",
+   "published": "2026-10-29T08:00:15Z",
+   "tags": [
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "75699bb6148a5fef",
+   "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+   "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.",
+   "published": "2026-10-29T08:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e91f33b06ca8a97a",
+   "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+   "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as…",
+   "published": "2026-10-29T06:22:33Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "b38b4e0a9ae9c6ab",
+   "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
+   "link": "https://isc.sans.edu/diary/rss/33470",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&#;x26;#;39;s convenient to play with snapshots in your lab. Start a new investigation from a clean snapshot and take some more when you reached a critical step.…",
+   "published": "2026-10-29T06:17:41Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "f4eff089be53135d",
+   "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+   "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the…",
+   "published": "2026-10-29T05:50:17Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "971ff11eb5e154b8",
+   "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
+   "link": "https://isc.sans.edu/diary/rss/33468",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-10-29T03:10:12Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -768,6 +916,18 @@
    ]
   },
   {
+   "id": "9f03b9c501b63676",
+   "title": "Lessons from Cybersecurity Black Week",
+   "link": "https://www.welivesecurity.com/en/business-security/lessons-cybersecurity-black-week/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "A critical PHP flaw, leaked Linux kernel reports, a poisoned LiteLLM release, and more, all in seven days. Which threats called for immediate action, and which generated more noise than real danger?",
+   "published": "2026-10-28T10:33:51Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "169a3a02ba4a388f",
    "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
    "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
@@ -863,6 +1023,18 @@
    "published": "2026-10-28T09:48:24Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "4400201e3866f7fb",
+   "title": "ESET APT Activity Report Q2 2026–Q3 2026",
+   "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2026-q3-2026/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q2 2026 and Q3 2026",
+   "published": "2026-10-28T09:45:00Z",
+   "tags": [
+    "threat-actors"
    ]
   },
   {
@@ -6927,18 +7099,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "c86f8dee64ea51e3",
-   "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
-   "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
-   "published": "2026-10-15T07:00:00Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -7192,14 +7352,14 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "ESET WeLiveSecurity",
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 4
+   "count": 6
   },
   {
    "name": "Check Point Research",

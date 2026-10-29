@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T09:32:12Z",
+ "generated_at": "2026-10-29T16:42:20Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,515 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T09:32:02Z",
+   "published": "2026-10-29T16:42:10Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "59e4e93a22b7a82c",
+   "title": "Stopping Remote Code Execution with Sandboxes, CVE-2026-115995: Rust Zip",
+   "link": "https://www.reddit.com/r/netsec/comments/1xiohqc/stopping_remote_code_execution_with_sandboxes/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "With AI platfforms, #vulnpocalypse, and supply chain attacks security teams and platform engineering teams heads are spinning. The two recent HIGH and CRITICAL CVEs in the rust zip make a great case study for how we can build more resilient, defendable, and secure platforms…",
+   "published": "2026-10-29T16:18:52Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "31dc864af62655f4",
+   "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
+   "link": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
+   "source": "The Record",
+   "type": "news",
+   "summary": "\"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.",
+   "published": "2026-10-29T16:13:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a556f2a13255d187",
+   "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+   "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+   "published": "2026-10-29T16:10:31Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "efbb1c68eb20dd3a",
+   "title": "Threat Modeling With 4 Simple Questions on a White Board",
+   "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
+   "published": "2026-10-29T15:44:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8cc04215eff5794d",
+   "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+   "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that…",
+   "published": "2026-10-29T15:20:29Z",
+   "tags": [
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "f5faf77d96412636",
+   "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
+   "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model appeared first on SecurityWeek .",
+   "published": "2026-10-29T15:01:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "fcadd0dd5cf004d0",
+   "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
+   "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on SecurityWeek .",
+   "published": "2026-10-29T15:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f34fb5d0be197df2",
+   "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+   "published": "2026-10-29T14:35:40Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "2489a89d87d1cb98",
+   "title": "EMBRACE: How We Hacked the Browsers Embedded in Top Five Desktop AI Assistants · Forever Secur",
+   "link": "https://www.reddit.com/r/netsec/comments/1xilm92/embrace_how_we_hacked_the_browsers_embedded_in/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Content-Winter5328 [link] [comments]",
+   "published": "2026-10-29T14:31:39Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "67386231cf52a997",
+   "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
+   "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek .",
+   "published": "2026-10-29T14:18:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "200f517219336f60",
+   "title": "TightVNC Viewer Pre-auth RCE",
+   "link": "https://www.reddit.com/r/netsec/comments/1xil17j/tightvnc_viewer_preauth_rce/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "What if a VNC server could make your viewer believe it had a ~4 GB framebuffer… while actually allocating only 128 KB? That’s the core of this TightVNC vulnerability. A malicious server can announce a crafted 32768 × 32769 screen at 32bpp, causing the framebuffer size…",
+   "published": "2026-10-29T14:09:08Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "c55d2f471fee4e60",
+   "title": "Cohere’s Qwen Story: Looks More Like Model Jaggedness",
+   "link": "https://research.checkpoint.com/2026/coheres-qwen-story-looks-more-like-model-jaggedness/",
+   "source": "Check Point Research",
+   "type": "vendor-research",
+   "summary": "Key findings On October 26, Cohere reported a puzzling incident involving Qwen3.8-Flash-Next, an open-weight model from Alibaba. The task was straightforward: write a detection rule for suspicious curl downloads followed by bash execution. Instead, the model produced a shell…",
+   "published": "2026-10-29T14:08:46Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "552a56f49ede35a2",
+   "title": "TeamViewer RCE Vulnerability (CVE-2026-11585)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xikzuw/teamviewer_rce_vulnerability_cve202611585/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/NewResearch1337 [link] [comments]",
+   "published": "2026-10-29T14:07:38Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9911cd420afe1c47",
+   "title": "Malicious Firefox extensions impersonate popular crypto wallets",
+   "link": "https://www.malwarebytes.com/blog/news/2026/10/malicious-firefox-extensions-impersonate-popular-crypto-wallets",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Fake Firefox extensions posing as Phantom, Jupiter, and Bitget targeted users to steal crypto wallet recovery phrases and private keys.",
+   "published": "2026-10-29T14:06:54Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "d340597c608d2583",
+   "title": "3 Ways AI Agents Already Operate in Your Browser",
+   "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to…",
+   "published": "2026-10-29T14:00:10Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d8346a01fb6e259f",
+   "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
+   "link": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "Phishing remained the leading initial access technique, while percentage of ransomware and pre-ransomware cases increased. Finance and public administration tied as the top-targeted industries.",
+   "published": "2026-10-29T14:00:00Z",
+   "tags": [
+    "ransomware",
+    "phishing"
+   ]
+  },
+  {
+   "id": "748d67ab1d92c076",
+   "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+   "published": "2026-10-29T13:59:48Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "147d2921484983ce",
+   "title": "FTC to probe major companies over personalized pricing and pay",
+   "link": "https://therecord.media/ftc-rideshare-airlines-data",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The Federal Trade Commission ordered nine food delivery, airline and ride-sharing companies to turn over detailed information on how they harness personal data to set individual consumer prices and employee compensation.",
+   "published": "2026-10-29T13:45:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b326a55c6171863c",
+   "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+   "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+   "published": "2026-10-29T13:42:52Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "005f2528861a55a1",
+   "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+   "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity…",
+   "published": "2026-10-29T13:42:40Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "342c74932bccb89e",
+   "title": "Cyberattack disrupts Belgian tax services before filing deadline",
+   "link": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMinfin, the country's main online platform for managing tax…",
+   "published": "2026-10-29T13:31:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "56ef05760e8ef2e7",
+   "title": "University of New Mexico restores hospital systems, urges no contact with hackers",
+   "link": "https://therecord.media/new-mexico-cyberattack-hospital",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The University of New Mexico was able to restore systems used by its healthcare facilities after a cyberattack forced it to divert ambulances and cancel classes at its medical school.",
+   "published": "2026-10-29T13:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1b4f07400fac0be6",
+   "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+   "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek .",
+   "published": "2026-10-29T13:26:49Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9ca4865974e2508b",
+   "title": "Over 41,000 DHS Employee Records Leaked Online",
+   "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek .",
+   "published": "2026-10-29T12:54:14Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "15f712f3175d7357",
+   "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+   "published": "2026-10-29T12:00:07Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "f726928be35569c1",
+   "title": "Hitachi Energy CoreTec Product",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability…",
+   "published": "2026-10-29T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "58a4b860d2a79013",
+   "title": "Siemens Mendix SAML Module",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for…",
+   "published": "2026-10-29T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3f007ce8c8278493",
+   "title": "Hitachi Energy TRO600 series products",
+   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive…",
+   "published": "2026-10-29T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5a570ea1e7c28b60",
+   "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+   "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than…",
+   "published": "2026-10-29T11:39:41Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "dd1c518d70f0f107",
+   "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+   "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app,…",
+   "published": "2026-10-29T11:39:18Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e6aa25e9694d58ab",
+   "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+   "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As…",
+   "published": "2026-10-29T11:33:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c9e7c513e1436e5a",
+   "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+   "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public…",
+   "published": "2026-10-29T11:33:15Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "409f0b0486b7348a",
+   "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+   "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+   "published": "2026-10-29T11:10:13Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0ff5509a421953e8",
+   "title": "PHP2Shell Activity Across Previdian Network",
+   "link": "https://www.reddit.com/r/netsec/comments/1xigwsr/php2shell_activity_across_previdian_network/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/ethicalhack3r [link] [comments]",
+   "published": "2026-10-29T11:03:26Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ba11e836bb52b2d6",
+   "title": "Have an older iPhone or iPad? Apple has a security update for you",
+   "link": "https://www.malwarebytes.com/blog/bugs/2026/10/have-an-older-iphone-or-ipad-apple-has-a-security-update-for-you",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Apple has backported a fix for a CoreGraphics flaw reportedly exploited in targeted attacks to the iPhone XS, XS Max and XR, and seventh-generation iPad.",
+   "published": "2026-10-29T11:03:18Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "dac38c3621393f15",
+   "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
+   "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net appeared first on SecurityWeek .",
+   "published": "2026-10-29T11:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "083a1ea7d205dcd0",
+   "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+   "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is…",
+   "published": "2026-10-29T10:44:46Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "13fcb92830692bfd",
+   "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+   "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network appeared first on SecurityWeek .",
+   "published": "2026-10-29T10:29:25Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "cf3544e85171cc16",
+   "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+   "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an…",
+   "published": "2026-10-29T10:26:33Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "196b1e60527b22e4",
+   "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
+   "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.",
+   "published": "2026-10-29T10:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4faa48c4d2141f7b",
+   "title": "NIK C2: The new AI-enabled command-and-control framework",
+   "link": "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "Cisco Talos observed a new AI-integrated command-and-control (C2) framework in the wild called “NIK C2.”",
+   "published": "2026-10-29T10:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "77d976efa8e03879",
+   "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+   "link": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek .",
+   "published": "2026-10-29T09:47:10Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -132,6 +640,18 @@
    "published": "2026-10-29T09:15:54Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "9ac8296dadd769b2",
+   "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+   "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through…",
+   "published": "2026-10-29T09:05:39Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -563,6 +1083,18 @@
    ]
   },
   {
+   "id": "c5cb56f9b754b3af",
+   "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
+   "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
+   "published": "2026-10-28T15:29:06Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "b967772398499b5e",
    "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
    "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
@@ -702,7 +1234,7 @@
    "link": "https://www.malwarebytes.com/blog/ai/2026/10/banks-are-blocking-ai-agents-from-customer-accounts",
    "source": "Malwarebytes Labs",
    "type": "vendor-research",
-   "summary": "Banks say third-party AI agents put customer accounts at risk. Is security the only concern?",
+   "summary": "They cite security risks. But could keeping these tools out also protect banks’ profits?",
    "published": "2026-10-28T13:38:59Z",
    "tags": [
     "malware"
@@ -1770,7 +2302,7 @@
   },
   {
    "id": "9cfdf1956af8dc08",
-   "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+   "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
    "source": "CISA Cybersecurity Advisories",
    "type": "government",
@@ -7039,66 +7571,6 @@
    "tags": [
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "b199b73eb8c2692a",
-   "title": "Measuring Human Cryptanalysis Effort",
-   "link": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the…",
-   "published": "2026-10-15T16:24:29Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "295b94e919e747ed",
-   "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-   "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
-   "published": "2026-10-15T15:17:18Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "a5ab93c0ccff3646",
-   "title": "Update Chrome: Google fixes 37 security flaws, including seven critical bugs",
-   "link": "https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-google-fixes-37-security-flaws-including-seven-critical-bugs",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Some flaws could let attackers run malicious code on your device through a crafted webpage.",
-   "published": "2026-10-15T14:15:03Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "d2451d53b6339f6b",
-   "title": "Using TLS to protect data",
-   "link": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
-   "source": "NCSC UK",
-   "type": "government",
-   "summary": "Recommended profiles to securely configure TLS for the most common versions and scenarios, with additional guidance for managing older versions.",
-   "published": "2026-10-15T12:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "507129c8d1a06f3f",
-   "title": "Post-quantum updates to our TLS guidance",
-   "link": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
-   "source": "NCSC UK",
-   "type": "government",
-   "summary": "The NCSC publishes its recommendations for configuring post-quantum cryptography in TLS. Now is time to migrate.",
-   "published": "2026-10-15T12:00:00Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -7338,7 +7810,7 @@
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 8
+   "count": 10
   },
   {
    "name": "SentinelOne Labs",
@@ -7366,7 +7838,7 @@
    "type": "vendor-research",
    "home": "https://research.checkpoint.com",
    "status": "ok",
-   "count": 5
+   "count": 6
   },
   {
    "name": "Elastic Security Labs",
@@ -7416,7 +7888,7 @@
    "type": "government",
    "home": "https://www.ncsc.gov.uk",
    "status": "ok",
-   "count": 5
+   "count": 3
   },
   {
    "name": "SANS Internet Storm Center",

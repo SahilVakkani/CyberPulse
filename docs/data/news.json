@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T16:42:20Z",
+ "generated_at": "2026-10-29T21:36:39Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T16:42:10Z",
+   "published": "2026-10-29T21:36:30Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T16:42:10Z",
+   "published": "2026-10-29T21:36:30Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T16:42:10Z",
+   "published": "2026-10-29T21:36:30Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T16:42:10Z",
+   "published": "2026-10-29T21:36:30Z",
    "tags": [
     "general"
    ]
@@ -57,9 +57,170 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T16:42:10Z",
+   "published": "2026-10-29T21:36:30Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5962d84443393627",
+   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-29T21:36:30Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d96bed8f956667e3",
+   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-29T21:36:30Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f87ec6e8be1b0324",
+   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-29T21:36:30Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a82de8dc19f5002f",
+   "title": "When AI Guardrails Expose Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-29T21:36:30Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e4cd27c3f55bd938",
+   "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
+   "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-29T21:36:30Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6c129a8658fc10c5",
+   "title": "Limited reports of PHP bug exploitation emerge",
+   "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+   "source": "The Record",
+   "type": "news",
+   "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
+   "published": "2026-10-29T20:01:25Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "aacd7396929c5498",
+   "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
+   "link": "https://therecord.media/general-motors-lawsuit-privacy",
+   "source": "The Record",
+   "type": "news",
+   "summary": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.",
+   "published": "2026-10-29T19:45:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e692538b686ec012",
+   "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+   "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+   "published": "2026-10-29T19:23:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7325900e53d99905",
+   "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+   "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are…",
+   "published": "2026-10-29T19:11:58Z",
+   "tags": [
+    "malware",
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "7c2b70bd7e3e786d",
+   "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+   "published": "2026-10-29T18:38:26Z",
+   "tags": [
+    "malware",
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "2c3bc9054593866d",
+   "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
+   "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
+   "published": "2026-10-29T18:15:59Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "2810027585c5f3b5",
+   "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+   "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29) appeared first on Unit 42 .",
+   "published": "2026-10-29T18:00:34Z",
+   "tags": [
+    "threat-actors",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "27b4ee16aef66244",
+   "title": "A quiet week in infosec <.<",
+   "link": "https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "In this edition of the Threat Source newsletter, William explores how PHP has taken over the conversation, Node.js has joined in, but underneath it all, there are still good people doing good work.",
+   "published": "2026-10-29T18:00:00Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -75,51 +236,15 @@
    ]
   },
   {
-   "id": "5962d84443393627",
-   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T16:42:10Z",
+   "id": "39a633755f1e27f7",
+   "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+   "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a…",
+   "published": "2026-10-29T16:30:00Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "d96bed8f956667e3",
-   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T16:42:10Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f87ec6e8be1b0324",
-   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T16:42:10Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a82de8dc19f5002f",
-   "title": "When AI Guardrails Expose Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T16:42:10Z",
-   "tags": [
-    "vulnerabilities"
    ]
   },
   {
@@ -156,6 +281,42 @@
    "published": "2026-10-29T16:10:31Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "2e0675284202e329",
+   "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean…",
+   "published": "2026-10-29T16:00:00Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "bd2cd3a550d66d6a",
+   "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises. The post IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment appeared first on Microsoft…",
+   "published": "2026-10-29T16:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "649ecf4a57aab371",
+   "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+   "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October 27 that its AI model wrote an exploit…",
+   "published": "2026-10-29T15:57:05Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -461,6 +622,18 @@
    ]
   },
   {
+   "id": "696c994dcd553023",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability This type of vulnerability is a…",
+   "published": "2026-10-29T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "5a570ea1e7c28b60",
    "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
    "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
@@ -478,7 +651,7 @@
    "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
    "source": "The Hacker News",
    "type": "news",
-   "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app,…",
+   "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in…",
    "published": "2026-10-29T11:39:18Z",
    "tags": [
     "general"
@@ -734,7 +907,7 @@
    "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
    "source": "Dark Reading",
    "type": "news",
-   "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.",
+   "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else.",
    "published": "2026-10-29T08:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -877,7 +1050,7 @@
   },
   {
    "id": "89379326868d8969",
-   "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+   "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
    "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
    "source": "Dark Reading",
    "type": "news",
@@ -2687,7 +2860,7 @@
   },
   {
    "id": "837fe1cef585dc8b",
-   "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+   "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
    "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
    "source": "Dark Reading",
    "type": "news",
@@ -4052,19 +4225,6 @@
    ]
   },
   {
-   "id": "2810027585c5f3b5",
-   "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
-   "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) appeared first on Unit 42 .",
-   "published": "2026-10-23T19:00:34Z",
-   "tags": [
-    "threat-actors",
-    "vulnerabilities"
-   ]
-  },
-  {
    "id": "e62f85ca100be1fa",
    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
@@ -4419,19 +4579,6 @@
    "tags": [
     "malware",
     "vulnerabilities"
-   ]
-  },
-  {
-   "id": "d887f828b4597a76",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious…",
-   "published": "2026-10-23T12:00:00Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
    ]
   },
   {
@@ -7547,33 +7694,27 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "c7adc8194c581b16",
-   "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
-   "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
-   "published": "2026-10-15T20:43:20Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "c993d0f62b81a9c4",
-   "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
-   "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "Is the cybersecurity world really facing a \"Bugmageddon?\" Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.",
-   "published": "2026-10-15T18:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-97229",
+   "vendor": "GitLab",
+   "product": "Community Edition and Enterprise Edition",
+   "name": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+   "added": "2026-10-29",
+   "due": "2026-11-01",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-76418",
+   "vendor": "Cisco",
+   "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
+   "name": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference…",
+   "added": "2026-10-29",
+   "due": "2026-11-01",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2026-41709",
    "vendor": "Broadcom",
@@ -7690,24 +7831,6 @@
    "added": "2026-10-20",
    "due": "2026-11-03",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-110936",
-   "vendor": "Siemens",
-   "product": "Software Center",
-   "name": "Siemens Software Center Uncontrolled Search Path Element Vulnerability",
-   "added": "2026-10-20",
-   "due": "2026-11-03",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-102764",
-   "vendor": "BeyondTrust",
-   "product": "Remote Support",
-   "name": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
-   "added": "2026-10-16",
-   "due": "2026-10-19",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -7766,7 +7889,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 5
+   "count": 7
   },
   {
    "name": "Microsoft Security Response Center",

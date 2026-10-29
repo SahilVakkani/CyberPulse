@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T23:06:58Z",
+ "generated_at": "2026-10-29T02:40:43Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,33 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-28T23:06:46Z",
+   "published": "2026-10-29T02:40:31Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "6da15508e5e8b26d",
+   "title": "XML Signature Wrapping authentication bypass in Moldova's MPass SAML NuGet library, fixed in 10.0.4 (CVE requested, CAN-2026-2041077)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xi65vs/xml_signature_wrapping_authentication_bypass_in/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Egov.Integrations.MPass.Saml, the ASP.NET Core handler that relying parties use to verify MPass SAML 2.0 responses, verified signatures like this in every version before 10.0.4: signedXml.LoadXml(signatureElement); return signedXml.CheckSignature(publicCertificate,…",
+   "published": "2026-10-29T01:00:22Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "cd96a1792e01bd26",
+   "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+   "link": "https://isc.sans.edu/diary/rss/33466",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "Introduction",
+   "published": "2026-10-29T00:42:15Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -312,18 +336,6 @@
    "type": "news",
    "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the…",
    "published": "2026-10-28T16:23:34Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "cd96a1792e01bd26",
-   "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33466",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Introduction",
-   "published": "2026-10-28T16:07:03Z",
    "tags": [
     "general"
    ]
@@ -6924,18 +6936,6 @@
    "type": "news",
    "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
    "published": "2026-10-15T07:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a187e99c589d164d",
-   "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
-   "link": "https://isc.sans.edu/diary/rss/33428",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-10-15T02:00:03Z",
    "tags": [
     "general"
    ]

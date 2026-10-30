@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T19:59:55Z",
+ "generated_at": "2026-10-30T23:38:11Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
    "tags": [
     "general"
    ]
@@ -118,7 +118,67 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T19:59:45Z",
+   "published": "2026-10-30T23:38:02Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f167e37bde6d313b",
+   "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+   "published": "2026-10-30T21:09:46Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0a89691e7bed3ebc",
+   "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
+   "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "Neat video : The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the security stories in the news…",
+   "published": "2026-10-30T21:04:36Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ce4d8aef30665e2d",
+   "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+   "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.",
+   "published": "2026-10-30T20:45:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ac7367a35b670f91",
+   "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
+   "published": "2026-10-30T20:05:58Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "983cd7433fe6494b",
+   "title": "Behind the Scenes of How Operation Blackout Went Down",
+   "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
+   "published": "2026-10-30T19:46:08Z",
    "tags": [
     "general"
    ]
@@ -3626,7 +3686,7 @@
    "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
    "source": "Dark Reading",
    "type": "news",
-   "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
+   "summary": "Measuring artificial intelligence model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
    "published": "2026-10-27T00:26:50Z",
    "tags": [
     "general"
@@ -8138,30 +8198,6 @@
    "published": "2026-10-17T18:17:28Z",
    "tags": [
     "threat-hunting"
-   ]
-  },
-  {
-   "id": "fd577205a9bacaa8",
-   "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
-   "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
-   "published": "2026-10-16T21:06:47Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "15367a3259ffd977",
-   "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-   "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
-   "published": "2026-10-16T20:34:37Z",
-   "tags": [
-    "vulnerabilities"
    ]
   }
  ],

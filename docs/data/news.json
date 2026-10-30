@@ -1,23 +1,240 @@
 {
- "generated_at": "2026-10-30T15:11:42Z",
+ "generated_at": "2026-10-30T19:59:55Z",
  "demo": false,
  "items": [
   {
-   "id": "acaa113a0748b20f",
-   "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
+   "id": "ccc5d3547a5c4dac",
+   "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T15:11:33Z",
+   "published": "2026-10-30T19:59:45Z",
    "tags": [
     "general"
    ]
   },
   {
-   "id": "ccc5d3547a5c4dac",
-   "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
+   "id": "5962d84443393627",
+   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d96bed8f956667e3",
+   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f87ec6e8be1b0324",
+   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a82de8dc19f5002f",
+   "title": "When AI Guardrails Expose Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e4cd27c3f55bd938",
+   "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
+   "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8891476791df62aa",
+   "title": "VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign",
+   "link": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b0ed476078f7910e",
+   "title": "CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "threat-hunting",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "dfa51f2781aa22fd",
+   "title": "Build an Intelligence Advantage with Falcon Next-Gen SIEM",
+   "link": "https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "69ec2f5dc0257a2b",
+   "title": "CrowdStrike Agent Graph Shows How Agents Act on the Endpoint",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T19:59:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "84a2c916c34cca9e",
+   "title": "Fashion retailer Resolve says hackers stole payment card information",
+   "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.",
+   "published": "2026-10-30T19:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "46d8d781bead54a3",
+   "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+   "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to a China-based…",
+   "published": "2026-10-30T16:58:44Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "ad4296e15ebcf305",
+   "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths appeared first on Microsoft…",
+   "published": "2026-10-30T16:11:44Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e645dafde1d4d968",
+   "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+   "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
+   "published": "2026-10-30T15:58:20Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4bf942696238025b",
+   "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
+   "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.",
+   "published": "2026-10-30T15:54:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "47e04300a3731174",
+   "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
+   "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
+   "published": "2026-10-30T15:39:54Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e7b4f0009f186bbb",
+   "title": "Fake PDF and search tools hijacked searches for 13.4 million Chrome users",
+   "link": "https://www.malwarebytes.com/blog/news/2026/10/fake-pdf-and-search-tools-hijacked-searches-for-13-4-million-chrome-users",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "319 Chrome extensions sent search queries through servers controlled by their operators, allowing them to see what users searched for.",
+   "published": "2026-10-30T15:25:41Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "7b310c119f825d95",
+   "title": "Bloatware in Aftermarket Auto Parts",
+   "link": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about. Among the pre-installed…",
+   "published": "2026-10-30T15:20:02Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "bfec2004bdb16c89",
+   "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+   "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or…",
+   "published": "2026-10-30T15:17:28Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "acaa113a0748b20f",
+   "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
@@ -51,73 +268,13 @@
    ]
   },
   {
-   "id": "5962d84443393627",
-   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-30T15:11:33Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d96bed8f956667e3",
-   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-30T15:11:33Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f87ec6e8be1b0324",
-   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-30T15:11:33Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a82de8dc19f5002f",
-   "title": "When AI Guardrails Expose Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-30T15:11:33Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "e4cd27c3f55bd938",
-   "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
-   "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-30T15:11:33Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "8891476791df62aa",
-   "title": "VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign",
-   "link": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-30T15:11:33Z",
+   "id": "5ec9d44a0613dcb2",
+   "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
+   "link": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek .",
+   "published": "2026-10-30T15:09:25Z",
    "tags": [
     "general"
    ]
@@ -169,6 +326,19 @@
    "published": "2026-10-30T14:10:37Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "6473fc7702e557a9",
+   "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+   "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7…",
+   "published": "2026-10-30T14:08:14Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
    ]
   },
   {
@@ -327,6 +497,18 @@
    "tags": [
     "vulnerabilities",
     "threat-actors"
+   ]
+  },
+  {
+   "id": "4760f9242e3b5b83",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure…",
+   "published": "2026-10-30T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -1214,18 +1396,6 @@
    ]
   },
   {
-   "id": "9b9000acef065c5e",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure…",
-   "published": "2026-10-29T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
    "id": "5a570ea1e7c28b60",
    "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
    "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
@@ -1303,7 +1473,7 @@
    "link": "https://www.malwarebytes.com/blog/bugs/2026/10/have-an-older-iphone-or-ipad-apple-has-a-security-update-for-you",
    "source": "Malwarebytes Labs",
    "type": "vendor-research",
-   "summary": "Apple has backported a fix for a CoreGraphics flaw reportedly exploited in targeted attacks to the iPhone XS, XS Max and XR, and seventh-generation iPad.",
+   "summary": "Apple has fixed a flaw exploited in targeted attacks to the iPhone XS, XS Max and XR, and seventh-generation iPad.",
    "published": "2026-10-29T11:03:18Z",
    "tags": [
     "malware",
@@ -3168,7 +3338,7 @@
    "link": "https://www.malwarebytes.com/blog/privacy/2026/10/samsung-tvs-without-mics-may-listen-through-soundbars-researcher-says",
    "source": "Malwarebytes Labs",
    "type": "vendor-research",
-   "summary": "The most startling claim is that a Samsung TV without a built-in microphone may use a connected soundbar or Bluetooth microphone to listen to the room.",
+   "summary": "TVs without a built-in microphone may use a connected soundbar or Bluetooth microphone to listen to the room.",
    "published": "2026-10-27T10:44:40Z",
    "tags": [
     "malware"
@@ -7993,83 +8163,27 @@
    "tags": [
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "8e2b4b8581aaf0f3",
-   "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-   "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
-   "published": "2026-10-16T19:49:30Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b8b7cb7d4b497f6a",
-   "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
-   "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
-   "published": "2026-10-16T19:22:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "714d202db5965001",
-   "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
-   "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
-   "published": "2026-10-16T19:13:59Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "0a02340233325a55",
-   "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-   "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
-   "published": "2026-10-16T18:37:50Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a273e26d1615cc31",
-   "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
-   "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026 appeared first on Unit 42 .",
-   "published": "2026-10-16T17:47:54Z",
-   "tags": [
-    "threat-actors",
-    "vulnerabilities",
-    "phishing"
-   ]
-  },
-  {
-   "id": "c094ac3382c932e1",
-   "title": "Managing open-weight model risk in enterprise deployments",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog .",
-   "published": "2026-10-16T16:00:00Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-118527",
+   "vendor": "Ivanti",
+   "product": "Connect Secure",
+   "name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+   "added": "2026-10-30",
+   "due": "2026-11-13",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-111357",
+   "vendor": "Ivanti",
+   "product": "Connect Secure",
+   "name": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
+   "added": "2026-10-30",
+   "due": "2026-11-02",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2026-97229",
    "vendor": "GitLab",
@@ -8186,24 +8300,6 @@
    "added": "2026-10-20",
    "due": "2026-11-03",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-96654",
-   "vendor": "Plex",
-   "product": "Media Server",
-   "name": "Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
-   "added": "2026-10-20",
-   "due": "2026-10-23",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-96652",
-   "vendor": "Plex",
-   "product": "Media Server",
-   "name": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-   "added": "2026-10-20",
-   "due": "2026-11-03",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -8299,7 +8395,7 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 7
+   "count": 6
   },
   {
    "name": "Cisco Talos",

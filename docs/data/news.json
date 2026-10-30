@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:36:39Z",
+ "generated_at": "2026-10-30T01:39:15Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T21:36:30Z",
+   "published": "2026-10-30T01:39:08Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T21:36:30Z",
+   "published": "2026-10-30T01:39:08Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T21:36:30Z",
+   "published": "2026-10-30T01:39:08Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,151 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-29T21:36:30Z",
+   "published": "2026-10-30T01:39:08Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5962d84443393627",
+   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T01:39:08Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d96bed8f956667e3",
+   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T01:39:08Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f87ec6e8be1b0324",
+   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T01:39:08Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a82de8dc19f5002f",
+   "title": "When AI Guardrails Expose Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T01:39:08Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e4cd27c3f55bd938",
+   "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
+   "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T01:39:08Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8891476791df62aa",
+   "title": "VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign",
+   "link": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-10-30T01:39:08Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7363e725b55af564",
+   "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+   "published": "2026-10-29T23:35:52Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7d9fa054e5fe62d6",
+   "title": "Binance probes potential $5.8 billion crypto-theft hack",
+   "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+   "published": "2026-10-29T22:45:23Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ac0ea51c51440002",
+   "title": "Every false positive we have shipped had the same cause",
+   "link": "https://www.reddit.com/r/netsec/comments/1xiyhgr/every_false_positive_we_have_shipped_had_the_same/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/magixer [link] [comments]",
+   "published": "2026-10-29T22:36:12Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a6d0e88b749ca24b",
+   "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+   "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing…",
+   "published": "2026-10-29T22:09:24Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "17e71a11c730f03f",
+   "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+   "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+   "published": "2026-10-29T22:08:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "fe7730fa406879f5",
+   "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+   "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+   "published": "2026-10-29T21:47:25Z",
    "tags": [
     "general"
    ]
@@ -63,61 +207,25 @@
    ]
   },
   {
-   "id": "5962d84443393627",
-   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T21:36:30Z",
+   "id": "cbcc5cbaf6f622fa",
+   "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
+   "published": "2026-10-29T21:21:56Z",
    "tags": [
-    "general"
+    "phishing"
    ]
   },
   {
-   "id": "d96bed8f956667e3",
-   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T21:36:30Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f87ec6e8be1b0324",
-   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T21:36:30Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a82de8dc19f5002f",
-   "title": "When AI Guardrails Expose Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T21:36:30Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "e4cd27c3f55bd938",
-   "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
-   "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-29T21:36:30Z",
+   "id": "68f0757a3373fe6a",
+   "title": "Rethinking Cybersecurity Awareness in the AI Era",
+   "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging threats.",
+   "published": "2026-10-29T20:15:37Z",
    "tags": [
     "general"
    ]
@@ -628,6 +736,18 @@
    "source": "CISA Cybersecurity Advisories",
    "type": "government",
    "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability This type of vulnerability is a…",
+   "published": "2026-10-29T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9b9000acef065c5e",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure…",
    "published": "2026-10-29T12:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -1508,18 +1628,6 @@
    "published": "2026-10-28T12:00:00Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "f28c390e8f2d693a",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable…",
-   "published": "2026-10-28T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
    ]
   },
   {
@@ -7633,67 +7741,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "92d5abc10ae9799e",
-   "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-   "link": "https://isc.sans.edu/diary/rss/33430",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way.",
-   "published": "2026-10-16T00:46:35Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "e981b7de3fc104c8",
-   "title": "Panchan's Mining Island [Guest Diary], (Wed, Oct 14th)",
-   "link": "https://isc.sans.edu/diary/rss/33426",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]",
-   "published": "2026-10-15T23:03:42Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "3f1030ed0e261f81",
-   "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
-   "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
-   "published": "2026-10-15T22:10:08Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "7b5a8b8caa1d77df",
-   "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
-   "link": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post AI-Powered Espionage Campaign Targets Government Linux Infrastructure appeared first on Unit 42 .",
-   "published": "2026-10-15T22:00:09Z",
-   "tags": [
-    "threat-actors",
-    "malware"
-   ]
-  },
-  {
-   "id": "5921092180ebaec2",
-   "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-   "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
-   "published": "2026-10-15T21:55:07Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -7926,7 +7973,7 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "Cisco Talos",

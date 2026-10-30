@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T08:13:07Z",
+ "generated_at": "2026-10-30T15:11:42Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,394 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T08:13:02Z",
+   "published": "2026-10-30T15:11:33Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5e82c4f3b3cc8e4f",
+   "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
+   "link": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak appeared first on…",
+   "published": "2026-10-30T14:41:35Z",
+   "tags": [
+    "malware",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "96a0f026f2e040c0",
+   "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+   "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+   "published": "2026-10-30T14:36:54Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "b44d4a56a6fc2ad8",
+   "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
+   "link": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's closest advisers.",
+   "published": "2026-10-30T14:24:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c5d4f7a3fa549cfa",
+   "title": "Undead Software Projects Continue to Raise Security Risks",
+   "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
+   "published": "2026-10-30T14:10:37Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "27c3e9ac8130d5f4",
+   "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+   "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its…",
+   "published": "2026-10-30T14:00:10Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8258efe8a7ee711d",
+   "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
+   "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek .",
+   "published": "2026-10-30T14:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4119054fab74058e",
+   "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
+   "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek .",
+   "published": "2026-10-30T13:36:12Z",
+   "tags": [
+    "malware",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "05be989a787f51cc",
+   "title": "How Linux Trusted Bytes That IPsec Never Authenticated",
+   "link": "https://www.reddit.com/r/netsec/comments/1xjfbn1/how_linux_trusted_bytes_that_ipsec_never/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/louis703 [link] [comments]",
+   "published": "2026-10-30T13:25:32Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "09382f93624b985e",
+   "title": "CISA says max severity GitLab flaw now exploited in the wild",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+   "published": "2026-10-30T13:00:32Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "b27064ed887035f6",
+   "title": "Photo ID, bank checks, face scan? The UK’s age-check options",
+   "link": "https://www.malwarebytes.com/blog/news/2026/10/photo-id-bank-checks-face-scan-the-uks-age-check-options",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Ofcom has set out four possible age-verification methods for UK’s under-16 social media ban.",
+   "published": "2026-10-30T13:00:02Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "bb609cd39a094f2e",
+   "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
+   "link": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The Investigatory Powers Commissioner’s Office (IPCO) in its annual report for 2025, published Thursday, said it was “very concerned” and “disappointed with the time it has taken GCHQ to investigate” the issue.",
+   "published": "2026-10-30T12:52:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c186283f1cdf80ee",
+   "title": "Supermicro BMC ipmi cves",
+   "link": "https://www.reddit.com/r/netsec/comments/1xjeg2c/supermicro_bmc_ipmi_cves/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Alfrede81 [link] [comments]",
+   "published": "2026-10-30T12:47:51Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c423afe46b9e668b",
+   "title": "Claude vs Code Extension compromised",
+   "link": "https://www.reddit.com/r/netsec/comments/1xjeb39/claude_vs_code_extension_compromised/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Please be aware of this. submitted by /u/Alfrede81 [link] [comments]",
+   "published": "2026-10-30T12:41:26Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "21c20d4b759aaa6e",
+   "title": "Hackers target government Windows systems in Asia with new malware",
+   "link": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers.",
+   "published": "2026-10-30T12:36:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "a4dd8738969f08bb",
+   "title": "Binance hit by largest-ever crypto theft, with $6.3 billion stolen",
+   "link": "https://www.malwarebytes.com/blog/news/2026/10/binance-hit-by-largest-ever-crypto-theft-with-6-3-billion-stolen",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Attackers stole about $6.3 billion in cryptocurrency from Binance in what analysts say is the largest crypto theft on record.",
+   "published": "2026-10-30T12:24:19Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "4eafb481bfd904bc",
+   "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+   "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis…",
+   "published": "2026-10-30T12:21:56Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "3556a8b0242473d3",
+   "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
+   "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
+   "published": "2026-10-30T12:04:13Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "0e377490003110b1",
+   "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+   "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are practical. An IPS protection could block…",
+   "published": "2026-10-30T11:58:53Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "2a72fe70ecb3139e",
+   "title": "Hackers steal and publish data on 41,000 Homeland Security workers",
+   "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/hackers-steal-and-publish-data-on-41000-homeland-security-workers",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "A hacker group claims it stole data on 41,000 DHS employees, exposing work contact details and internal group memberships.",
+   "published": "2026-10-30T11:33:12Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "e117daf244effbb0",
+   "title": "Polymarket confirms cyberattack on third-party provider after outages",
+   "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider.",
+   "published": "2026-10-30T11:33:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8dd5d26e075ad3db",
+   "title": "Russian popular home goods chain faces days of disruption following cyberattack",
+   "link": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Poryadok, which operates 48 stores across 32 Russian cities, first reported technical problems on Sunday, saying its website, mobile app and physical stores were temporarily unavailable.",
+   "published": "2026-10-30T11:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4198413c0e430591",
+   "title": "Microsoft finally fixes VPN issues caused by September updates",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+   "published": "2026-10-30T11:20:26Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "35fc634a28d1fa12",
+   "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
+   "link": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal Commerce Core Vulnerability Exploited Against Online Stores appeared first on SecurityWeek .",
+   "published": "2026-10-30T11:07:11Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "6734aa3aec6c0e42",
+   "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+   "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian…",
+   "published": "2026-10-30T10:40:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "eaaaa83e33fa5c63",
+   "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+   "published": "2026-10-30T10:16:07Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3e5b06d3cd3d7dbe",
+   "title": "Filter generation in practice: from algorithms to LLMs",
+   "link": "https://securelist.com/practical-filter-generation/121697/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "We automate filter generation for security alerts using an algorithm, a large language model, and a group of LLM agents.",
+   "published": "2026-10-30T10:00:44Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "aedf51642ecf4a2e",
+   "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+   "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek .",
+   "published": "2026-10-30T09:41:36Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4bea3ce24866f29c",
+   "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+   "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek .",
+   "published": "2026-10-30T09:32:27Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "93a6b87fe4257c9f",
+   "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+   "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+   "published": "2026-10-30T09:18:13Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ad2cc061f5526d02",
+   "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+   "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update,…",
+   "published": "2026-10-30T08:55:47Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "d0d43ed2d289861b",
+   "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+   "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines appeared first on SecurityWeek .",
+   "published": "2026-10-30T08:44:49Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3bb9ba7c2b0af8dd",
+   "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+   "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor appeared first on SecurityWeek .",
+   "published": "2026-10-30T08:16:26Z",
    "tags": [
     "general"
    ]
@@ -131,6 +518,19 @@
    "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
    "published": "2026-10-30T08:00:00Z",
    "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "6d2a0802c49f854e",
+   "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+   "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from…",
+   "published": "2026-10-30T07:45:30Z",
+   "tags": [
+    "vulnerabilities",
     "threat-actors"
    ]
   },
@@ -300,6 +700,18 @@
    "published": "2026-10-29T20:01:25Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5553b245af75f973",
+   "title": "Why CTF Competitions May Be More Important Than Ever",
+   "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack.",
+   "published": "2026-10-29T19:56:44Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -1094,6 +1506,18 @@
    ]
   },
   {
+   "id": "39f07fa6d531f4e0",
+   "title": "Amatera: How the prolific infostealer works and spreads",
+   "link": "https://www.welivesecurity.com/en/malware/amatera-how-prolific-infostealer-works-spreads/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "The malware that topped ESET’s infostealer detections in Latin America in the first half of 2026 is an example of how cybercrime has professionalized",
+   "published": "2026-10-29T08:00:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
    "id": "e91f33b06ca8a97a",
    "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
    "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
@@ -1441,7 +1865,7 @@
    "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
    "source": "Dark Reading",
    "type": "news",
-   "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
+   "summary": "Artificial intelligence is everywhere in healthcare, from doctors' intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
    "published": "2026-10-28T15:29:06Z",
    "tags": [
     "general"
@@ -1741,7 +2165,7 @@
   },
   {
    "id": "06c9c38fdf39551f",
-   "title": "Chrome and Firefox updates fix serious security flaws. Install them now",
+   "title": "Chrome and Firefox updates fix serious security flaws. Install now",
    "link": "https://www.malwarebytes.com/blog/ai/2026/10/chrome-and-firefox-updates-fix-serious-security-flaws-install-them-now",
    "source": "Malwarebytes Labs",
    "type": "vendor-research",
@@ -7643,152 +8067,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "0c361f75bf11f8f8",
-   "title": "16% of RPKI-covered IPv4 routes still allow a forged-origin hijack that passes validation, the setup behind the Virtualizor update attack",
-   "link": "https://www.reddit.com/r/netsec/comments/1x7i0l6/16_of_rpkicovered_ipv4_routes_still_allow_a/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "Author here, I work at IPinfo. some security-relevant highlights part of the post: The August 28 Virtualizor update attack used a forged-origin /24 inside Hetzner’s space. From what we saw, it was RPKI-valid because Hetzner’s ROA covered the /16 and allowed announcements down…",
-   "published": "2026-10-16T14:40:18Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "1666b5cfa66d0cd8",
-   "title": "Eiliko robot companion exposes private chats and can be hijacked",
-   "link": "https://www.malwarebytes.com/blog/ai/2026/10/eiliko-robot-companion-exposes-private-chats-and-can-be-hijacked",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "A researcher found serious flaws in Eiliko’s security, exposing private conversations and allowing remote changes to what the robot says.",
-   "published": "2026-10-16T14:28:33Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "834a248937dfd68d",
-   "title": "When Your Ransomware Negotiator Works for the Other Side",
-   "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
-   "published": "2026-10-16T14:00:00Z",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "id": "48b9aea0ee8325ee",
-   "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
-   "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
-   "published": "2026-10-16T13:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "bb92e43802cb88b0",
-   "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
-   "link": "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections. Malicious cyber actors may use phishing and smishing techniques to steal login…",
-   "published": "2026-10-16T12:00:00Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors",
-    "phishing"
-   ]
-  },
-  {
-   "id": "432b50edcc433b9f",
-   "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade…",
-   "published": "2026-10-16T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "06ca72ec747dbc6e",
-   "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
-   "link": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence…",
-   "published": "2026-10-16T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "deae53603869e9b9",
-   "title": "“Spray and pray” job applications could make it harder for you to spot a scam",
-   "link": "https://www.malwarebytes.com/blog/news/2026/10/spray-and-pray-job-applications-could-make-it-harder-for-you-to-spot-a-scam",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Sending out lots of job applications without keeping track could make a scammer’s message look like a reply you’ve been waiting for.",
-   "published": "2026-10-16T11:55:15Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "c425a649aa9da44b",
-   "title": "Backdooring Open-Weight AI Models",
-   "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights…",
-   "published": "2026-10-16T11:04:53Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "bdea151132a4b38e",
-   "title": "OpenAI sued over children safety and data use",
-   "link": "https://www.malwarebytes.com/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Eight US states and a mother of two accuse the ChatGPT maker of putting children’s safety and privacy at risk.",
-   "published": "2026-10-16T10:51:20Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "3842e560eca30eaa",
-   "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-   "link": "https://www.reddit.com/r/netsec/comments/1x7cvh3/pwnescape_guesttohost_kvm_escape_cve202699999/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/si9int [link] [comments]",
-   "published": "2026-10-16T10:42:41Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f2639c17d1047835",
-   "title": "Inbox flooded with sign-up messages? Email bombing explained",
-   "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
-   "source": "ESET WeLiveSecurity",
-   "type": "vendor-research",
-   "summary": "If you’re suddenly being overwhelmed with sign-up emails, it could very well be a sign of something more serious",
-   "published": "2026-10-16T09:00:00Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -8042,7 +8320,7 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 8
+   "count": 9
   },
   {
    "name": "ESET WeLiveSecurity",

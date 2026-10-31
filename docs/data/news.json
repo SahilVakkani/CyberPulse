@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T10:45:18Z",
+ "generated_at": "2026-10-31T15:57:51Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "general"
    ]
@@ -118,19 +118,139 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T10:45:08Z",
+   "published": "2026-10-31T15:57:45Z",
    "tags": [
     "general"
    ]
   },
   {
-   "id": "8a1ff85d598dea94",
-   "title": "YARA-X 1.22.1 Release, (Sun, Oct 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33454",
+   "id": "845cf24b8961170f",
+   "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+   "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message.…",
+   "published": "2026-10-31T15:35:11Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8df78cc6cbca3d24",
+   "title": "Cloud Exposure Index 2026: 484,142 open buckets mapped",
+   "link": "https://www.reddit.com/r/netsec/comments/1xkbgw0/cloud_exposure_index_2026_484142_open_buckets/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "484,142 publicly listable cloud buckets, 18 billion files, 80,495 .env files and two thirds of them written this year: we indexed open S3, Azure, GCS, Spaces and OSS storage without opening a single file submitted by /u/lexcor [link] [comments]",
+   "published": "2026-10-31T14:20:54Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "b35f9e575d4ba903",
+   "title": "Reddit to lock content behind logins to fight scrapers",
+   "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+   "published": "2026-10-31T14:05:15Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4e3b797fd4a7ce3d",
+   "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+   "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "[...]",
+   "published": "2026-10-31T13:10:19Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a291b7051796cec4",
+   "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+   "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+   "published": "2026-10-31T12:50:09Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1f2870fb86dff659",
+   "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+   "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content,…",
+   "published": "2026-10-31T12:01:56Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5be14df72cefaec0",
+   "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
+   "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.",
+   "published": "2026-10-31T12:00:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "f0c80b908a885d8f",
+   "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+   "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
+   "published": "2026-10-31T11:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "db5a9a075d7b0323",
+   "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
+   "link": "https://isc.sans.edu/diary/rss/33476",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark.",
+   "published": "2026-10-31T10:52:53Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a97d89d20f5e7e65",
+   "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
+   "link": "https://isc.sans.edu/diary/rss/33474",
    "source": "SANS Internet Storm Center",
    "type": "community",
    "summary": "YARA-X&#;x26;#;39;s 1.22.1 is a bugfix version, it brings 2 bugfixes.",
-   "published": "2026-10-31T10:43:40Z",
+   "published": "2026-10-31T10:48:17Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "8a1ff85d598dea94",
+   "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33454",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes.",
+   "published": "2026-10-31T10:45:40Z",
    "tags": [
     "threat-hunting"
    ]
@@ -396,6 +516,18 @@
    "type": "news",
    "summary": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek .",
    "published": "2026-10-30T15:09:25Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e293edf88b4e6655",
+   "title": "This month in security with Tony Anscombe – October 2026 edition",
+   "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "The PHP2Shell disclosure and other major cybersecurity news this month brought into relief the need for well-thought-out cyber-readiness plans",
+   "published": "2026-10-30T15:03:14Z",
    "tags": [
     "general"
    ]
@@ -8443,7 +8575,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 8
+   "count": 0
   },
   {
    "name": "Microsoft Security Response Center",
@@ -8487,7 +8619,7 @@
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 10
+   "count": 11
   },
   {
    "name": "SentinelOne Labs",
@@ -8508,7 +8640,7 @@
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 6
+   "count": 7
   },
   {
    "name": "Check Point Research",

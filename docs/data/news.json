@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:38:11Z",
+ "generated_at": "2026-10-31T04:33:42Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "general"
    ]
@@ -118,9 +118,21 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-30T23:38:02Z",
+   "published": "2026-10-31T04:33:32Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "d6c6367093755380",
+   "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog .",
+   "published": "2026-10-31T01:02:57Z",
+   "tags": [
+    "malware"
    ]
   },
   {
@@ -8394,7 +8406,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "Microsoft Security Response Center",

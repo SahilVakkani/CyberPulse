@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T04:33:42Z",
+ "generated_at": "2026-10-31T10:45:18Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "general"
    ]
@@ -118,9 +118,58 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T04:33:32Z",
+   "published": "2026-10-31T10:45:08Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "8a1ff85d598dea94",
+   "title": "YARA-X 1.22.1 Release, (Sun, Oct 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33454",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "YARA-X&#;x26;#;39;s 1.22.1 is a bugfix version, it brings 2 bugfixes.",
+   "published": "2026-10-31T10:43:40Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "4a3beb5aa5ff5440",
+   "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+   "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below -…",
+   "published": "2026-10-31T08:27:43Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e8eb82345a00ebfc",
+   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+   "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty…",
+   "published": "2026-10-31T05:33:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "21ad2182a1367363",
+   "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+   "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion…",
+   "published": "2026-10-31T04:56:12Z",
+   "tags": [
+    "cloud-identity",
+    "threat-actors"
    ]
   },
   {
@@ -4466,18 +4515,6 @@
    "tags": [
     "threat-hunting",
     "vulnerabilities"
-   ]
-  },
-  {
-   "id": "8a1ff85d598dea94",
-   "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
-   "link": "https://isc.sans.edu/diary/rss/33454",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes.",
-   "published": "2026-10-25T19:57:53Z",
-   "tags": [
-    "threat-hunting"
    ]
   },
   {

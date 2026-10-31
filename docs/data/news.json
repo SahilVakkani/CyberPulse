@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:57:51Z",
+ "generated_at": "2026-10-31T19:52:15Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "general"
    ]
@@ -118,9 +118,21 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T15:57:45Z",
+   "published": "2026-10-31T19:52:06Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "ba55b05e53eaee48",
+   "title": "Northflank security breach leads to abuse of customers' AI API keys",
+   "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+   "published": "2026-10-31T18:01:12Z",
+   "tags": [
+    "cloud-identity"
    ]
   },
   {
@@ -165,10 +177,10 @@
    "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
    "source": "BleepingComputer",
    "type": "news",
-   "summary": "[...]",
+   "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible…",
    "published": "2026-10-31T13:10:19Z",
    "tags": [
-    "general"
+    "vulnerabilities"
    ]
   },
   {
@@ -8368,18 +8380,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "a291cbde6c1805c3",
-   "title": "CTO at NCSC Summary: week ending October 18th",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1x8h75p/cto_at_ncsc_summary_week_ending_october_18th/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-17T18:17:28Z",
-   "tags": [
-    "threat-hunting"
-   ]
   }
  ],
  "kev": [
@@ -8575,7 +8575,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 0
+   "count": 8
   },
   {
    "name": "Microsoft Security Response Center",

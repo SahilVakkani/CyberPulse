@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T09:37:24Z",
+ "generated_at": "2026-11-01T16:37:33Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "general"
    ]
@@ -118,9 +118,82 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T09:37:14Z",
+   "published": "2026-11-01T16:37:16Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "af6ffe74845e797d",
+   "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+   "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+   "published": "2026-11-01T15:11:21Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e387a8e0fee331c8",
+   "title": "Protective DNS for Synology NAS",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xl4ard/protective_dns_for_synology_nas/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "I’ve been getting questions from friends after the recent Synology security issues and PHPshell discussions: “How do I actually protect my NAS?” Some people go straight to network isolation, but setting up firewall rules isn’t simple, and it’s easy to accidentally cut off…",
+   "published": "2026-11-01T14:22:41Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "d15dc155427a190c",
+   "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+   "published": "2026-11-01T13:53:11Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1d293ae9cead23d3",
+   "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+   "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek .",
+   "published": "2026-11-01T11:15:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d4df09e5c1575f80",
+   "title": "Logstotal : Self-hosted multi-engine Sigma detection for event logs (like VT but for logs)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkznim/logstotal_selfhosted_multiengine_sigma_detection/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/Bello_mellow [link] [comments]",
+   "published": "2026-11-01T10:22:22Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "078513d439fbea00",
+   "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkyk6c/appraisal_by_ai_modeldriven_victim_prioritization/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-01T09:12:57Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
    ]
   },
   {
@@ -136,6 +209,19 @@
    ]
   },
   {
+   "id": "d6ac3061bc2be1a3",
+   "title": "waf-dojo: Hands-on AWS WAF training game",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkygk8/wafdojo_handson_aws_waf_training_game/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-01T09:06:32Z",
+   "tags": [
+    "threat-hunting",
+    "cloud-identity"
+   ]
+  },
+  {
    "id": "c1c20131973afc74",
    "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
    "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
@@ -145,6 +231,45 @@
    "published": "2026-11-01T08:51:31Z",
    "tags": [
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "9d0b0957146a0e11",
+   "title": "netprobe-cve-2026-98432: You should patch, but not worry about CVE-2026-98432",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkx5vf/netprobecve202698432_you_should_patch_but_not/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-01T07:42:29Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ce8e5992e30b94a2",
+   "title": "CVE-2026-98432 Linux TCP Flaw, Ubuntu Patch and Mitigation Status",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkx4oy/cve202698432_linux_tcp_flaw_ubuntu_patch_and/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-01T07:40:18Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "7ba4cbc1c068e488",
+   "title": "Linode Status - Customer Security Advisory: CVE-2026-98432",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkx41b/linode_status_customer_security_advisory/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-01T07:39:13Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
    ]
   },
   {
@@ -181,6 +306,18 @@
    "published": "2026-11-01T07:02:58Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "1babbaa4de1b78ec",
+   "title": "North Korea Responsible for $6 Billion+ Binance Attack",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkwfo5/north_korea_responsible_for_6_billion_binance/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-01T06:56:23Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -8713,18 +8850,6 @@
    "tags": [
     "malware"
    ]
-  },
-  {
-   "id": "d33178f3f117c66b",
-   "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
-   "link": "https://isc.sans.edu/diary/rss/33434",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\".",
-   "published": "2026-10-18T12:59:30Z",
-   "tags": [
-    "threat-hunting"
-   ]
   }
  ],
  "kev": [
@@ -9055,16 +9180,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 23
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

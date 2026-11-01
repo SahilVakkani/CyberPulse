@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T16:37:33Z",
+ "generated_at": "2026-11-01T20:58:37Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
    "tags": [
     "general"
    ]
@@ -118,7 +118,31 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T16:37:16Z",
+   "published": "2026-11-01T20:58:27Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8cfea8890b08c2e2",
+   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+   "published": "2026-11-01T19:57:53Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "f8af5060cb13d0ab",
+   "title": "/r/netsec's Q4 2026 Information Security Hiring Thread",
+   "link": "https://www.reddit.com/r/netsec/comments/1xl8pd3/rnetsecs_q4_2026_information_security_hiring/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Overview If you have open positions at your company for information security professionals and would like to hire from the /r/netsec user base, please leave a comment detailing any open job listings at your company. We would also like to encourage you to post internship…",
+   "published": "2026-11-01T17:19:31Z",
    "tags": [
     "general"
    ]
@@ -133,6 +157,18 @@
    "published": "2026-11-01T15:11:21Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "481cc7d7b68b187c",
+   "title": "r/netsec monthly discussion & tool thread",
+   "link": "https://www.reddit.com/r/netsec/comments/1xl4ghe/rnetsec_monthly_discussion_tool_thread/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links. Rules & Guidelines Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary. Avoid NSFW content unless absolutely…",
+   "published": "2026-11-01T14:29:24Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -181,6 +217,20 @@
    "published": "2026-11-01T10:22:22Z",
    "tags": [
     "threat-hunting"
+   ]
+  },
+  {
+   "id": "5aa5e3422f928342",
+   "title": "Mirage2FA stole 4,561 M365 session cookies despite MFA via AiTM proxy (CVE-2026-69836 CVSS 10.0) : detection rules and WHfB/Cloud Kerberos Trust hardening guide",
+   "link": "https://www.reddit.com/r/netsec/comments/1xkzjb0/mirage2fa_stole_4561_m365_session_cookies_despite/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/doit4everyone [link] [comments]",
+   "published": "2026-11-01T10:15:16Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities",
+    "cloud-identity"
    ]
   },
   {
@@ -9180,16 +9230,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 25
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T23:09:01Z",
+ "generated_at": "2026-11-01T02:28:26Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "general"
    ]
@@ -118,9 +118,21 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-10-31T23:08:51Z",
+   "published": "2026-11-01T02:28:16Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "18c0062bc8513887",
+   "title": "I built a free tool that finds the one AD change that breaks every attack path (HorusEye v2.3)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkp5ev/i_built_a_free_tool_that_finds_the_one_ad_change/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Hey all, I’m a pentester and I kept ending AD engagements with the same client question: “OK, but what do we fix first?” So I built HorusEye. It ingests AD data, maps the attack paths, and finds the choke point: the single change that breaks every route to DA. In the demo, an…",
+   "published": "2026-11-01T00:03:11Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -148,6 +160,18 @@
    ]
   },
   {
+   "id": "a31578e14f09f866",
+   "title": "CTO at NCSC Summary: week ending November 1st",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkc6ks/cto_at_ncsc_summary_week_ending_november_1st/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T14:50:36Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "8df78cc6cbca3d24",
    "title": "Cloud Exposure Index 2026: 484,142 open buckets mapped",
    "link": "https://www.reddit.com/r/netsec/comments/1xkbgw0/cloud_exposure_index_2026_484142_open_buckets/",
@@ -169,6 +193,18 @@
    "published": "2026-10-31T14:05:15Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "5d0fabd7a34b7833",
+   "title": "[2610.39807] InferD: A Honeypot Framework for AI Inference Infrastructure",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkasz1/261039807_inferd_a_honeypot_framework_for_ai/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T13:53:02Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -220,6 +256,18 @@
    ]
   },
   {
+   "id": "2e546eb8270492fc",
+   "title": "Installed Base Program: CISA & OEMS: Strengthening OT Resilience Through Partnership and Action",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk7foq/installed_base_program_cisa_oems_strengthening_ot/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T11:07:39Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "f0c80b908a885d8f",
    "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
    "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
@@ -268,6 +316,18 @@
    ]
   },
   {
+   "id": "4387f4bd1394ae6b",
+   "title": "Commerce Core - Highly critical - Access bypass",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk5w8f/commerce_core_highly_critical_access_bypass/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T09:36:20Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "4a3beb5aa5ff5440",
    "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
    "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
@@ -277,6 +337,230 @@
    "published": "2026-10-31T08:27:43Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "6d96d9f14e931f7a",
+   "title": "Mythos Linux kernel 0day feed",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk4rd8/mythos_linux_kernel_0day_feed/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T08:24:06Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "6404b798a5d4317f",
+   "title": "Arad-Code: AI-powered SAST agent for security research",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk4l0i/aradcode_aipowered_sast_agent_for_security/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T08:12:37Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "e3e63f5f1c40905b",
+   "title": "Generating Precise Format Specification for Network Protocols Through Adversarial LLM Interactions",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk4iqa/generating_precise_format_specification_for/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T08:08:40Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "cfd5fb70b9cbead0",
+   "title": "Vulnerabilities in Supermicro BMC firmware, October 26, 2026 (1)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk4h59/vulnerabilities_in_supermicro_bmc_firmware/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T08:05:48Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "7db65b093e6ee1f0",
+   "title": "cve-2026-111497-wordpress-poc: CVE-2026-111497 RCE PoC for one pinned Docker Official Image for WordPress",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3lso/cve2026111497wordpresspoc_cve2026111497_rce_poc/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T07:09:51Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5d784aa2f1d6db64",
+   "title": "Sandbox Flipped to ‘Danger-Full-Access’: Unauthorized AI Relays Create Risk for Organizations",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3km0/sandbox_flipped_to_dangerfullaccess_unauthorized/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T07:07:46Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "ac26084cee857fbf",
+   "title": "Load/Mine: A Hugging Face Malware Campaign Returns After Takedown",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3fhf/loadmine_a_hugging_face_malware_campaign_returns/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:59:41Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "63b094f25a1575d1",
+   "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3ewv/securing_internetcritical_software_how_we_could/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:58:41Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "427f1488ecb3eac5",
+   "title": "Amatera: How the prolific infostealer works and spreads",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3dpy/amatera_how_the_prolific_infostealer_works_and/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:56:34Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "ef033300cd4ca079",
+   "title": "Detecting & Responding to AI-aided or Agentic Attacks",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3cqf/detecting_responding_to_aiaided_or_agentic_attacks/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:54:50Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "cc00f165c7e51c8c",
+   "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3c6t/gitlab_security_incident_attempted_exploitation/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:53:50Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "bce32edf71032e5b",
+   "title": "Controlled Unclassified Information in GSA’s Google Drive Was Improperly Exposed",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3bs1/controlled_unclassified_information_in_gsas/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:53:07Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "8c4e79de877042e7",
+   "title": "dragon-tales: A binary analysis library for disassembling, assembling, and analyzing machine code across multiple architectures. Built on LLVM 21.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk394y/dragontales_a_binary_analysis_library_for/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:48:25Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "0748f47cc3e973dc",
+   "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk380n/from_help_desk_impersonation_to_ad_cs_abuse/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:46:26Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "cfe4c944b9fbe418",
+   "title": "Picking apart PHP2Shell",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk2x6d/picking_apart_php2shell/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:27:40Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "2aa7441535410f52",
+   "title": "CVE-2026-112445: CVE-2026-112445: The Simplest macOS Local Privilege Escalation to Date",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk2w5i/cve2026112445_cve2026112445_the_simplest_macos/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:25:46Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "b9d031d9966cbc08",
+   "title": "MANTIS: Multi-Sources Analysis & Threat Intelligence Search",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk2por/mantis_multisources_analysis_threat_intelligence/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-31T06:14:24Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "8a3f8408fd352cdd",
+   "title": "New Volatility 3 Plugin: MCPTrace - Carving Model Context Protocol (MCP) Artifacts from Memory Dumps",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk26b2/new_volatility_3_plugin_mcptrace_carving_model/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Hello! I just created this Volatility plugin for MCP analysis. Since English is not my native language, I would deeply appreciate any feedback on the tool, documentation, or code. If you find MCPTrace useful for your DFIR workflow or AI security research, please consider…",
+   "published": "2026-10-31T05:41:05Z",
+   "tags": [
+    "threat-hunting",
+    "dfir"
    ]
   },
   {
@@ -313,6 +597,19 @@
    "summary": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog .",
    "published": "2026-10-31T01:02:57Z",
    "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "ab9be9fa8a4db352",
+   "title": "Trojanized Claude Code Extension Plants an SSH Backdoor",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xjs2hv/trojanized_claude_code_extension_plants_an_ssh/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-10-30T21:33:06Z",
+   "tags": [
+    "threat-hunting",
     "malware"
    ]
   },
@@ -8710,16 +9007,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 23
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

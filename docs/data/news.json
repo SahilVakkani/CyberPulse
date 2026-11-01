@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T02:28:26Z",
+ "generated_at": "2026-11-01T09:37:24Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "general"
    ]
@@ -118,9 +118,69 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-01T02:28:16Z",
+   "published": "2026-11-01T09:37:14Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "ec58a4fc51d4e88b",
+   "title": "OneNote File Extraction, (Sun, Nov 1st)",
+   "link": "https://isc.sans.edu/diary/rss/33478",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "Recently, I had to extract embedded files from a set of OneNote files (extension .one).",
+   "published": "2026-11-01T09:12:23Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c1c20131973afc74",
+   "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+   "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker…",
+   "published": "2026-11-01T08:51:31Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "2a3e4a8e199c95ac",
+   "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+   "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about…",
+   "published": "2026-11-01T07:25:40Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6e20a9798345e8f5",
+   "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+   "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI,…",
+   "published": "2026-11-01T07:03:00Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "be08e34bf976a574",
+   "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+   "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government…",
+   "published": "2026-11-01T07:02:58Z",
+   "tags": [
+    "malware"
    ]
   },
   {
@@ -8665,18 +8725,6 @@
    "tags": [
     "threat-hunting"
    ]
-  },
-  {
-   "id": "a8501e7141d21417",
-   "title": "PhantomBuffer: Effective EDR Evasion Through Stealth Injection",
-   "link": "https://www.reddit.com/r/netsec/comments/1x8rwjz/phantombuffer_effective_edr_evasion_through/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "PhantomBuffer EDR evasion uses stealth injection via SendMessage with WM_SETTEXT to effective bypass EDR (Endpoint Detection and Response). Unlike traditional edr bypass techniques, it does not use the VirtualAllocEx and WriteProcessMemory APIs . submitted by /u/Cold-Dinosaur…",
-   "published": "2026-10-18T02:30:45Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -9007,16 +9055,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 23
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

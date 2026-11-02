@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:22:19Z",
+ "generated_at": "2026-11-02T23:59:48Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -94,7 +94,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "general"
    ]
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "general"
    ]
@@ -118,9 +118,131 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T17:22:09Z",
+   "published": "2026-11-02T23:59:40Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "96d161c7d0e81fc4",
+   "title": "CPGuard / OPSSHIELD LLP Breach",
+   "link": "https://www.reddit.com/r/netsec/comments/1xmcr4e/cpguard_opsshield_llp_breach/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Had a subscription in the past with them and received the following e-mail: Doesn't look like many sites have have picked up on this: Dear cPGuard customers and partners, An unidentified attacker targeted OPSSHIELD, gained unauthorized access to our licensing and update…",
+   "published": "2026-11-02T23:15:36Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c033741926089d1a",
+   "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
+   "link": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appeared first on Unit 42 .",
+   "published": "2026-11-02T23:00:45Z",
+   "tags": [
+    "threat-actors",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "8158b1dc74164a8a",
+   "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+   "published": "2026-11-02T22:27:24Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d32892baf1f533f7",
+   "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+   "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
+   "published": "2026-11-02T21:42:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f6edbcaffade5370",
+   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+   "published": "2026-11-02T21:40:14Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "73b73a4735183c93",
+   "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis…",
+   "published": "2026-11-02T20:20:59Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "18836a2757c3c624",
+   "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+   "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+   "source": "The Record",
+   "type": "news",
+   "summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.",
+   "published": "2026-11-02T19:54:00Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "4b8019f92984e448",
+   "title": "Jailbreaking my car's navigation system just so I can change the time",
+   "link": "https://www.reddit.com/r/netsec/comments/1xm6ks2/jailbreaking_my_cars_navigation_system_just_so_i/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/nns_ee [link] [comments]",
+   "published": "2026-11-02T19:16:42Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b9a8fe94cb9b69e7",
+   "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+   "published": "2026-11-02T19:00:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f8e64d371b0e6032",
+   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+   "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+   "published": "2026-11-02T18:16:34Z",
+   "tags": [
+    "malware"
    ]
   },
   {
@@ -155,10 +277,23 @@
    "link": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise",
    "source": "The Record",
    "type": "news",
-   "summary": "In a post-mortem on an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.",
+   "summary": "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.",
    "published": "2026-11-02T17:05:20Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "65afadf0cbc2316d",
+   "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+   "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions…",
+   "published": "2026-11-02T16:57:56Z",
+   "tags": [
+    "malware",
+    "phishing"
    ]
   },
   {
@@ -181,6 +316,18 @@
    "type": "news",
    "summary": "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.",
    "published": "2026-11-02T16:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d8f9dce07e530ab0",
+   "title": "Fake Nuclear Alert Sent Through Russian Emergencies Ministry App After Hack",
+   "link": "https://www.reddit.com/r/netsec/comments/1xm1rrf/fake_nuclear_alert_sent_through_russian/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Much-Television-9449 [link] [comments]",
+   "published": "2026-11-02T16:25:38Z",
    "tags": [
     "general"
    ]
@@ -356,7 +503,7 @@
   },
   {
    "id": "96515b09df3bdba0",
-   "title": "PapRAT Cyber Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
+   "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
    "source": "Dark Reading",
    "type": "news",
@@ -548,6 +695,18 @@
    ]
   },
   {
+   "id": "9ddc8c26e97ef450",
+   "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
+   "link": "https://www.reddit.com/r/netsec/comments/1xlsxqk/securing_internetcritical_software_how_we_could/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "(May 2026) TL;DR: an email address like atouch${IFS}/tmp/ savane-rce-proof@attacker.example gave any registered user code execution on its backend. From there, we made our account a superuser, impersonated Bash’s maintainer, and confirmed we could add an SSH key with push…",
+   "published": "2026-11-02T09:43:15Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
    "id": "357136bfe66d6a92",
    "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
    "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
@@ -567,6 +726,30 @@
    "type": "news",
    "summary": "DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted. The post Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack appeared first on SecurityWeek .",
    "published": "2026-11-02T09:33:15Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "22c92d038c8dbd1e",
+   "title": "Remote code execution on Linux systems with multipath TCP",
+   "link": "https://www.reddit.com/r/netsec/comments/1xlsqor/remote_code_execution_on_linux_systems_with/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/lucidsparrow982 [link] [comments]",
+   "published": "2026-11-02T09:30:42Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "1cb263a7e347d95b",
+   "title": "WordPress pingback and Brotli RCE",
+   "link": "https://www.reddit.com/r/netsec/comments/1xlsgc8/wordpress_pingback_and_brotli_rce/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/adrian_rt [link] [comments]",
+   "published": "2026-11-02T09:11:50Z",
    "tags": [
     "general"
    ]
@@ -9335,57 +9518,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "cd2448e33b82aa7d",
-   "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
-   "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
-   "published": "2026-10-19T21:13:41Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "553c25ef77944fe2",
-   "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
-   "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
-   "published": "2026-10-19T19:55:01Z",
-   "tags": [
-    "malware",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "3e1278093e934b6a",
-   "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
-   "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
-   "published": "2026-10-19T19:19:33Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "143bfdf19e2bc5d6",
-   "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-   "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the…",
-   "published": "2026-10-19T17:32:13Z",
-   "tags": [
-    "malware",
-    "vulnerabilities",
-    "threat-actors"
-   ]
   }
  ],
  "kev": [
@@ -9581,7 +9713,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "Microsoft Security Response Center",
@@ -9618,7 +9750,7 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 6
+   "count": 7
   },
   {
    "name": "Cisco Talos",
@@ -9631,9 +9763,8 @@
    "name": "SentinelOne Labs",
    "type": "vendor-research",
    "home": "https://www.sentinelone.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.sentinelone.com/labs/feed/"
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "Securelist (Kaspersky)",
@@ -9717,16 +9848,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 25
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

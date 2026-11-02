@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T00:32:36Z",
+ "generated_at": "2026-11-02T07:23:57Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
    "tags": [
     "general"
    ]
@@ -118,7 +118,43 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-02T00:32:26Z",
+   "published": "2026-11-02T07:23:49Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9068a344a0358a19",
+   "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+   "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to…",
+   "published": "2026-11-02T05:51:07Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "c97a2c861bbd375a",
+   "title": "Investigating three incidents in our evaluations",
+   "link": "https://www.reddit.com/r/netsec/comments/1xlnvfe/investigating_three_incidents_in_our_evaluations/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/fagnerbrack [link] [comments]",
+   "published": "2026-11-02T04:32:13Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d0dae30d7bd006a6",
+   "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
+   "link": "https://isc.sans.edu/diary/rss/33480",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-02T02:00:03Z",
    "tags": [
     "general"
    ]
@@ -340,10 +376,10 @@
    "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
    "source": "The Hacker News",
    "type": "news",
-   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI,…",
+   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and…",
    "published": "2026-11-01T07:03:00Z",
    "tags": [
-    "threat-actors"
+    "general"
    ]
   },
   {
@@ -8875,30 +8911,6 @@
    "published": "2026-10-19T11:07:43Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "9387d63b9a12063a",
-   "title": "CVE-2026-108097 Deep Dive: Turning a Drupal Field UI Callback Into RCE",
-   "link": "https://www.reddit.com/r/netsec/comments/1x9q96y/cve2026108097_deep_dive_turning_a_drupal_field_ui/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/adrian_rt [link] [comments]",
-   "published": "2026-10-19T07:21:07Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "12616d6031ea617b",
-   "title": "A week in security (October 12 – October 18)",
-   "link": "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-12-october-18",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "A list of topics we covered in the week of October 12 to October 18 of 2026",
-   "published": "2026-10-19T07:01:00Z",
-   "tags": [
-    "malware"
    ]
   }
  ],

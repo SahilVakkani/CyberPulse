@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:05:42Z",
+ "generated_at": "2026-11-04T07:51:31Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "threat-hunting",
     "cloud-identity"
@@ -34,7 +34,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "general"
    ]
@@ -46,7 +46,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "general"
    ]
@@ -58,7 +58,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "general"
    ]
@@ -70,7 +70,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "general"
    ]
@@ -82,7 +82,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "cloud-identity"
    ]
@@ -94,7 +94,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "general"
    ]
@@ -106,7 +106,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
    "tags": [
     "general"
    ]
@@ -118,7 +118,55 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T01:05:32Z",
+   "published": "2026-11-04T07:51:22Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "349817163ae57bfb",
+   "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+   "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score:…",
+   "published": "2026-11-04T05:43:11Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "c1c4164ece010333",
+   "title": "Finding 40+ Vulnerabilities in Healthcare Software Serving More Than 100 Million Patients",
+   "link": "https://www.reddit.com/r/netsec/comments/1xng15c/finding_40_vulnerabilities_in_healthcare_software/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/idnsec [link] [comments]",
+   "published": "2026-11-04T05:28:24Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "7aa5af4c407c8575",
+   "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
+   "link": "https://isc.sans.edu/diary/rss/33486",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-04T02:10:02Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ed421e39d30bdf97",
+   "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+   "published": "2026-11-04T02:00:00Z",
    "tags": [
     "general"
    ]
@@ -723,6 +771,18 @@
    "type": "vendor-research",
    "summary": "We explain how Kaspersky Industrial CyberSecurity for Networks uses Machine Learning Event Processor (MLEP) technology to help take inventory of assets and detect anomalies in industrial networks.",
    "published": "2026-11-03T10:00:07Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "9327bd5edc120368",
+   "title": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
+   "link": "https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "ESET researchers uncover Gorbag, a Russia-aligned group using simple infostealers to harvest data from Ukrainian organizations near the front line",
+   "published": "2026-11-03T09:50:00Z",
    "tags": [
     "malware"
    ]
@@ -9707,67 +9767,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "17efaa05bd141183",
-   "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-   "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated…",
-   "published": "2026-10-21T07:44:22Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f6fe2f9557b7aa1c",
-   "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-   "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are…",
-   "published": "2026-10-21T07:26:49Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "bd60f0eb51aa1534",
-   "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-   "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known…",
-   "published": "2026-10-21T06:05:15Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "a72ec2f2944e7e53",
-   "title": "Operation FlashHole: Lazarus breaks security, defies control",
-   "link": "https://securelist.com/lazarus-operation-flashhole/121541/",
-   "source": "Securelist (Kaspersky)",
-   "type": "vendor-research",
-   "summary": "Kaspersky researchers analyze Operation FlashHole – a recent complex attack by Lazarus, involving a sophisticated malware set, watering-hole technique and abuse of CrossWeb EX financial security software.",
-   "published": "2026-10-21T02:07:29Z",
-   "tags": [
-    "malware",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "e6c707c06a8b1940",
-   "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33438",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-10-21T02:00:03Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -10021,14 +10020,14 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 10
+   "count": 9
   },
   {
    "name": "ESET WeLiveSecurity",
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "Check Point Research",

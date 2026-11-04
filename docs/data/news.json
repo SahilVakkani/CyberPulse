@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:59:54Z",
+ "generated_at": "2026-11-04T21:48:57Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "cloud-identity"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,214 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T15:59:45Z",
+   "published": "2026-11-04T21:48:53Z",
    "tags": [
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "781415f3f0baa68b",
+   "title": "Escaping AWS Firecracker from guest userspace: VMM memory corruption (CVE-2026-122192)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xo0yov/escaping_aws_firecracker_from_guest_userspace_vmm/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "We just published our research on escaping Firecracker microVMs, coordinated with AWS. The interesting part is how a guest can end up accessing memory belonging to the Firecracker process running outside the VM. The vulnerability: When a microVM is restored from a snapshot…",
+   "published": "2026-11-04T21:47:44Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "de78875600613269",
+   "title": "Vercel rolls out new protection against stolen session cookie attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+   "published": "2026-11-04T21:31:18Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "71b12d48491a67a5",
+   "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+   "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains platforms for flight reservation,…",
+   "published": "2026-11-04T21:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "0fd87eaf33b4e085",
+   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+   "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+   "published": "2026-11-04T20:58:19Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ede1220cf0eb096b",
+   "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
+   "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
+   "published": "2026-11-04T19:17:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1413af0079f42d2d",
+   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+   "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+   "published": "2026-11-04T19:05:19Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "462ec96575dae404",
+   "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
+   "link": "https://therecord.media/french-bank-confirms-cyber-heist",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
+   "published": "2026-11-04T18:58:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f20e9487795c89e3",
+   "title": "The fake $750 Apple Cash reward that pays out nothing",
+   "link": "https://www.malwarebytes.com/blog/scams/2026/11/the-fake-750-apple-cash-reward-that-pays-out-nothing",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "A fake $750 Apple Cash offer uses scripted checks and fake countdowns. Affiliate marketers earn a commission; you get no reward.",
+   "published": "2026-11-04T18:49:13Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "801b944f5621a71c",
+   "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+   "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+   "published": "2026-11-04T18:02:56Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "0dabcbb591b6730e",
+   "title": "mSecure tells users to change passwords but won’t say why",
+   "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/msecure-tells-users-to-change-passwords-but-wont-say-why",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "mSecure has urged users to protect information stored in its app, but hasn’t explained what happened or whether anyone’s data was exposed.",
+   "published": "2026-11-04T17:02:25Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "3632eace057e58a0",
+   "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+   "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November…",
+   "published": "2026-11-04T17:00:46Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "1b9b96d402ef45a5",
+   "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+   "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An…",
+   "published": "2026-11-04T17:00:38Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9c8bdd95a7d55ce7",
+   "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+   "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
+   "published": "2026-11-04T16:58:46Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "99f6b8af600a59ae",
+   "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+   "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+   "published": "2026-11-04T16:24:08Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "7881f7cab76d3523",
+   "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
+   "link": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
+   "source": "The Record",
+   "type": "news",
+   "summary": "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine’s leading English-language news outlets.",
+   "published": "2026-11-04T16:15:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "78de6ffe4e2d3ce4",
+   "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+   "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by…",
+   "published": "2026-11-04T16:06:43Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4ba7cadb265aa20a",
+   "title": "mSecure password manager hack prompts password reset warnings",
+   "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+   "published": "2026-11-04T16:00:18Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -601,6 +806,18 @@
    "source": "Elastic Security Labs",
    "type": "vendor-research",
    "summary": "The newest threats, etc report details how adversaries are weaponizing trust across the entire enterprise stack, abusing everything from AI assistants and npm supply chains to identity flows and legitimate management tools.",
+   "published": "2026-11-04T00:00:00Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "3a3aab10d663e8f2",
+   "title": "Monitoring AI agent sessions: Leveraging embedding models to aid threat hunting and attack discovery workflows",
+   "link": "https://www.elastic.co/security-labs/blog/ai-agent-session-monitoring-embedding-models",
+   "source": "Elastic Security Labs",
+   "type": "vendor-research",
+   "summary": "I tested vector search on 7,454 turns of my own agent sessions. One in seven sessions needed review, the agent’s reasoning carried more signal than the prompt, and the stored vectors answer questions nobody thought to ask at ingest.",
    "published": "2026-11-04T00:00:00Z",
    "tags": [
     "threat-hunting"
@@ -9678,229 +9895,18 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "e9fd60a700e2a4db",
-   "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-   "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-   "published": "2026-10-21T21:43:27Z",
-   "tags": [
-    "malware",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "bf6bc6a1f19ded83",
-   "title": "PHP2Shell (CVE-2026-109618/109619): first exploit requests arrived 5.5 hours before PHP shipped the fix, and the \"scanners\" carry Mirai-style loaders",
-   "link": "https://www.reddit.com/r/netsec/comments/1xbzwrn/php2shell_cve2026109618109619_first_exploit/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/HexLayer3 [link] [comments]",
-   "published": "2026-10-21T21:24:08Z",
-   "tags": [
-    "malware",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "7bcbd743c3f71fbe",
-   "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-   "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
-   "published": "2026-10-21T21:15:39Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "f05202614787dc85",
-   "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33440",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available.",
-   "published": "2026-10-21T21:02:43Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "52e40e7e7ea6b259",
-   "title": "Compromised eMudhra intermediate certificates",
-   "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "Cisco Talos is aware of eight intermediate certificates belonging to the intermediate certificate authority, eMudhra.",
-   "published": "2026-10-21T20:43:29Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "3371acd3dcb3c169",
-   "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-   "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-   "published": "2026-10-21T20:31:48Z",
-   "tags": [
-    "malware",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "f6f763b9dab26a6f",
-   "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
-   "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
-   "published": "2026-10-21T20:14:42Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "04b5c5ae91501621",
-   "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
-   "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
-   "published": "2026-10-21T20:03:14Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "5f2ddb413304d4e7",
-   "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-   "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
-   "published": "2026-10-21T19:19:17Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "a9726704f0fa70f0",
-   "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-   "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier:…",
-   "published": "2026-10-21T18:57:34Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b68ec6f4500340c3",
-   "title": "WhatsApp’s chatbot was given hidden instructions to not mention privacy regulators",
-   "link": "https://www.malwarebytes.com/blog/news/2026/10/whatsapp-chatbot-privacy-regulators",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Hidden instructions told WhatsApp’s chatbot not to suggest privacy regulators to users struggling to delete their accounts.",
-   "published": "2026-10-21T18:49:04Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "71f0485320c6db1d",
-   "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-   "published": "2026-10-21T18:34:42Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "80aac9868cd30e6c",
-   "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on…",
-   "published": "2026-10-21T18:23:55Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "f5335e20393badc9",
-   "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-   "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through…",
-   "published": "2026-10-21T18:01:57Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "a124b567afcf174d",
-   "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
-   "published": "2026-10-21T16:50:15Z",
-   "tags": [
-    "cloud-identity",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "2cd8b2bd53ed9bc3",
-   "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-   "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6,…",
-   "published": "2026-10-21T16:33:47Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "288893f636793d08",
-   "title": "OpenAI agents disabled safety monitoring, one lied about it",
-   "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-   "published": "2026-10-21T16:26:53Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f9801a9d130ced26",
-   "title": "PHP2Shell: Why many websites had to go offline",
-   "link": "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Many sites were taken offline so admins could patch two critical PHP flaws that could have let attackers run malicious code on their servers.",
-   "published": "2026-10-21T16:14:18Z",
-   "tags": [
-    "malware"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2024-27834",
+   "vendor": "Apple",
+   "product": "Multiple Products",
+   "name": "Apple Multiple Products Improper Authentication Vulnerability",
+   "added": "2026-11-04",
+   "due": "2026-11-18",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2026-119977",
    "vendor": "WordPress",
@@ -10026,15 +10032,6 @@
    "added": "2026-10-20",
    "due": "2026-10-23",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-96656",
-   "vendor": "Plex",
-   "product": "Media Server",
-   "name": "Plex Media Server External Control of File Name or Path Vulnerability",
-   "added": "2026-10-20",
-   "due": "2026-10-23",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -10093,7 +10090,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 10
+   "count": 9
   },
   {
    "name": "Microsoft Security Response Center",
@@ -10137,7 +10134,7 @@
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "SentinelOne Labs",
@@ -10172,7 +10169,7 @@
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 3
+   "count": 4
   },
   {
    "name": "Sophos News",
@@ -10207,8 +10204,9 @@
    "name": "CISA Cybersecurity Advisories",
    "type": "government",
    "home": "https://www.cisa.gov",
-   "status": "ok",
-   "count": 30
+   "status": "error",
+   "count": 0,
+   "error": "403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/all.xml"
   },
   {
    "name": "NCSC UK",

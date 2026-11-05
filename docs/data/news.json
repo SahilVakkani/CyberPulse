@@ -1,19 +1,7 @@
 {
- "generated_at": "2026-11-05T09:44:52Z",
+ "generated_at": "2026-11-05T17:53:39Z",
  "demo": false,
  "items": [
-  {
-   "id": "7abdf6ac5df22d88",
-   "title": "What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon",
-   "link": "https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-05T09:44:48Z",
-   "tags": [
-    "general"
-   ]
-  },
   {
    "id": "b4a4900d73486af7",
    "title": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform",
@@ -21,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "general"
    ]
@@ -33,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "cloud-identity"
    ]
@@ -45,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "general"
    ]
@@ -57,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "general"
    ]
@@ -69,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "general"
    ]
@@ -81,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "general"
    ]
@@ -93,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "general"
    ]
@@ -105,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "general"
    ]
@@ -117,9 +105,384 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T09:44:48Z",
+   "published": "2026-11-05T17:53:34Z",
    "tags": [
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "f3ef8a4b5dc168c1",
+   "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+   "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-05T17:53:34Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "671b07a9ce2d4371",
+   "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+   "published": "2026-11-05T17:45:29Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3347a00667c50921",
+   "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+   "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .",
+   "published": "2026-11-05T17:32:37Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "7c4b9df2df4f8615",
+   "title": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
+   "link": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+   "source": "Check Point Research",
+   "type": "vendor-research",
+   "summary": "Key Points Introduction ARTEX is a Chinese open-source, AI-powered penetration testing platform designed to help security teams assess systems they own or are authorized to test. It uses large language models (LLMs) to coordinate multiple AI agents that plan tests, run security…",
+   "published": "2026-11-05T17:22:06Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "44c256844f1ea88a",
+   "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
+   "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found.",
+   "published": "2026-11-05T17:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d5adbe76452f9759",
+   "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+   "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
+   "published": "2026-11-05T16:48:36Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5263a8e99f87686b",
+   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+   "published": "2026-11-05T16:24:26Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "6b1d9cd5a096d574",
+   "title": "DigiCert data breach exposes customer information, identity documents",
+   "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+   "published": "2026-11-05T16:12:46Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "302fe04b95089677",
+   "title": "Email threat landscape: Q3 2026 trends and insights",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed…",
+   "published": "2026-11-05T16:00:00Z",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
+   "id": "63a4e5fb9a82406f",
+   "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+   "link": "https://isc.sans.edu/diary/rss/33492",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt was a bit more interesting. Still nothing new. I suspect…",
+   "published": "2026-11-05T15:29:08Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "dad53d7e3ed50329",
+   "title": "Closing the Identity Gap at the Service Desk",
+   "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can…",
+   "published": "2026-11-05T15:00:10Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "59043a85553579c0",
+   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+   "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find…",
+   "published": "2026-11-05T14:41:10Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "bf77c28bacc97c68",
+   "title": "ThisBash Escape: Claude Dispatch Flaw Enables Browser Extensions RCE on the OS · Forever Security",
+   "link": "https://www.reddit.com/r/netsec/comments/1xokbbo/thisbash_escape_claude_dispatch_flaw_enables/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Content-Winter5328 [link] [comments]",
+   "published": "2026-11-05T14:40:21Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "cc0615d15f1d1c60",
+   "title": "The Confessions of an AI Fraud Kingpin",
+   "link": "https://www.reddit.com/r/netsec/comments/1xok9lh/the_confessions_of_an_ai_fraud_kingpin/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/404mediaco [link] [comments]",
+   "published": "2026-11-05T14:38:18Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "2b47cf0babb2263d",
+   "title": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
+   "link": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/",
+   "source": "Check Point Research",
+   "type": "vendor-research",
+   "summary": "Research by: Alexey Bukhteyev Key Takeaways Introduction Earlier this year, Check Point Research disclosed a security flaw in ChatGPT’s code-execution runtime that allowed sensitive conversation data to be silently exfiltrated to an attacker-controlled server through DNS…",
+   "published": "2026-11-05T14:00:11Z",
+   "tags": [
+    "malware",
+    "phishing"
+   ]
+  },
+  {
+   "id": "2dacffdc48c87d16",
+   "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+   "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek .",
+   "published": "2026-11-05T13:22:12Z",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
+   "id": "de901f787bb86742",
+   "title": "Who’s Trying to Get Into Our Fridge Freezer? There's nowt in it!",
+   "link": "https://www.reddit.com/r/netsec/comments/1xoi14n/whos_trying_to_get_into_our_fridge_freezer_theres/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/ethicalhack3r [link] [comments]",
+   "published": "2026-11-05T13:00:14Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8384bfde04a0d7fe",
+   "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+   "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on…",
+   "published": "2026-11-05T12:58:32Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1779cfdf01411187",
+   "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+   "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek .",
+   "published": "2026-11-05T12:33:49Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "5d4d032693916d5d",
+   "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+   "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can…",
+   "published": "2026-11-05T12:25:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "4e6a4644595eb8ea",
+   "title": "Vizio, Samsung smart TVs seem to ignore tracking opt outs",
+   "link": "https://www.malwarebytes.com/blog/news/2026/11/vizio-samsung-smart-tvs-seem-to-ignore-tracking-opt-outs",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "If you thought that opting out of surveillance on your smart TV would give you your privacy back, think again.",
+   "published": "2026-11-05T12:10:50Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "25c3eda20cfedcbc",
+   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…",
+   "published": "2026-11-05T12:08:54Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0d5406532ceef353",
+   "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
+   "link": "https://isc.sans.edu/diary/rss/33490",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-05T11:25:11Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "bcd0f8e51ff42e7c",
+   "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+   "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .",
+   "published": "2026-11-05T11:15:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a190c692796eb082",
+   "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
+   "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality appeared first on SecurityWeek .",
+   "published": "2026-11-05T11:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "806a92e4d68ba1a6",
+   "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+   "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .",
+   "published": "2026-11-05T10:56:41Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "68af6446b07c38b0",
+   "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+   "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .",
+   "published": "2026-11-05T10:37:13Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "1981b067cd839e71",
+   "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+   "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents,…",
+   "published": "2026-11-05T10:06:19Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "89af0224359d594b",
+   "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+   "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek .",
+   "published": "2026-11-05T10:02:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9ad258b4d177e905",
+   "title": "The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603",
+   "link": "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "Kaspersky researchers analyze a complex fileless cyberattack by Storm-2603 involving ToolShell exploitation and subsequent runtime subversion, and discuss how to detect such intrusions.",
+   "published": "2026-11-05T10:00:11Z",
+   "tags": [
+    "malware",
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "7abdf6ac5df22d88",
+   "title": "What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon",
+   "link": "https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-05T09:44:48Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -197,15 +560,27 @@
    ]
   },
   {
-   "id": "25c3eda20cfedcbc",
-   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-   "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-   "source": "The Hacker News",
+   "id": "350327fdd7cd3bdb",
+   "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+   "link": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+   "source": "The Record",
    "type": "news",
-   "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…",
-   "published": "2026-11-05T04:31:16Z",
+   "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a cyberattack.",
+   "published": "2026-11-05T00:00:00Z",
    "tags": [
-    "vulnerabilities"
+    "general"
+   ]
+  },
+  {
+   "id": "260025e601bbcf9c",
+   "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
+   "link": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operations.",
+   "published": "2026-11-05T00:00:00Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -682,6 +1057,18 @@
    ]
   },
   {
+   "id": "3a3aab10d663e8f2",
+   "title": "Modernising threat hunting: Using Semantic Search to Find Risky AI Agent Behavior",
+   "link": "https://www.elastic.co/security-labs/blog/ai-agent-session-monitoring-embedding-models",
+   "source": "Elastic Security Labs",
+   "type": "vendor-research",
+   "summary": "I tested vector search on 7,454 turns of my own agent sessions. One in seven sessions needed review, the agent’s reasoning carried more signal than the prompt, and the stored vectors answer questions nobody thought to ask at ingest.",
+   "published": "2026-11-04T12:45:02Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "2f5877591bfda5a4",
    "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
    "link": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
@@ -1038,18 +1425,6 @@
    "source": "Elastic Security Labs",
    "type": "vendor-research",
    "summary": "The newest threats, etc report details how adversaries are weaponizing trust across the entire enterprise stack, abusing everything from AI assistants and npm supply chains to identity flows and legitimate management tools.",
-   "published": "2026-11-04T00:00:00Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "3a3aab10d663e8f2",
-   "title": "Monitoring AI agent sessions: Leveraging embedding models to aid threat hunting and attack discovery workflows",
-   "link": "https://www.elastic.co/security-labs/blog/ai-agent-session-monitoring-embedding-models",
-   "source": "Elastic Security Labs",
-   "type": "vendor-research",
-   "summary": "I tested vector search on 7,454 turns of my own agent sessions. One in seven sessions needed review, the agent’s reasoning carried more signal than the prompt, and the stored vectors answer questions nobody thought to ask at ingest.",
    "published": "2026-11-04T00:00:00Z",
    "tags": [
     "threat-hunting"
@@ -9410,634 +9785,6 @@
    "tags": [
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "401bb37fa4aa69e5",
-   "title": "PHP2Shell detection: attempt signatures and IOCs from live open-dir tracking",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xcpmc5/php2shell_detection_attempt_signatures_and_iocs/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "php2shell attempts are easy to spot even though nobody is landing it yet. Watch for the php2shell user-agent (seen as php2shell-scan/109618 and php2shell-109618), multipart POSTs carrying a PHP_SESSION_UPLOAD_PROGRESS field with an oversized body, and bursts of \"Allowed memory…",
-   "published": "2026-10-22T17:51:54Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "a45e553ca30bdb4a",
-   "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-   "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days.…",
-   "published": "2026-10-22T17:45:44Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "5d4f96d6acc675d5",
-   "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-   "published": "2026-10-22T17:18:22Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "101af1ca8d1b00b2",
-   "title": "EMudhra Intermediate CA Certificates Compromised",
-   "link": "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception. Read our analysis and containment guide. The post EMudhra Intermediate CA Certificates Compromised appeared first on Unit 42 .",
-   "published": "2026-10-22T17:15:32Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "eebdb3f4f6ae3ff9",
-   "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-   "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any…",
-   "published": "2026-10-22T17:01:53Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "ca5fc9dc16b17ee4",
-   "title": "The Current Landscape of OAuth Attacks",
-   "link": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Unit 42 explores modern OAuth threats and actionable steps organizations can take to protect their environments. The post The Current Landscape of OAuth Attacks appeared first on Unit 42 .",
-   "published": "2026-10-22T17:00:25Z",
-   "tags": [
-    "threat-actors",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "3c2f73a09533d4d2",
-   "title": "Facebook’s misleading privacy claims land Meta a $25 billion penalty",
-   "link": "https://www.malwarebytes.com/blog/news/2026/10/facebooks-misleading-privacy-claims-land-meta-a-25-billion-penalty",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Users were misled about who could access their personal information on Facebook. Now Meta has been ordered to pay $25 billion.",
-   "published": "2026-10-22T16:59:22Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "50fc4d5f2d8617bc",
-   "title": "CVE-2026-94300: Concurrent GSS-TSIG messages corrupt memory",
-   "link": "https://www.reddit.com/r/netsec/comments/1xcnwyi/cve202694300_concurrent_gsstsig_messages_corrupt/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/LordAlfredo [link] [comments]",
-   "published": "2026-10-22T16:49:44Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "2a5b06ac50903a69",
-   "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
-   "link": "https://therecord.media/china-cyber-connectwise-ai",
-   "source": "The Record",
-   "type": "news",
-   "summary": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organizations around the globe, Microsoft said.",
-   "published": "2026-10-22T16:30:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a1a20818da6a1eed",
-   "title": "Markdown Is the New Executable: Attackers Are Dropping Agent Instructions Into Your Downloads Folder From the Web",
-   "link": "https://www.reddit.com/r/netsec/comments/1xcnb6o/markdown_is_the_new_executable_attackers_are/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/Content-Winter5328 [link] [comments]",
-   "published": "2026-10-22T16:27:22Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6b7369ef168a122f",
-   "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-   "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the…",
-   "published": "2026-10-22T16:12:31Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "0563a66ccd63345d",
-   "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-   "published": "2026-10-22T15:49:32Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "dcda11bca2255036",
-   "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
-   "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek .",
-   "published": "2026-10-22T14:31:34Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "3c321f073d2095b2",
-   "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
-   "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
-   "published": "2026-10-22T14:21:22Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "01b27caa46e8d4b5",
-   "title": "Scammers are finding new ways to target your phone. Here are 5 ways to protect yourself",
-   "link": "https://www.malwarebytes.com/blog/scams/2026/10/scammers-are-finding-new-ways-to-target-your-phone-here-are-5-ways-to-protect-yourself",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "One in three people now tune out scam warnings, and scammers are counting on it.",
-   "published": "2026-10-22T14:14:26Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "834c0bb2cdc4f456",
-   "title": "Prince of Persia: A Threat Group Hiding in Plain Sight | Semperis Research",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xcjidt/prince_of_persia_a_threat_group_hiding_in_plain/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/campuscodi [link] [comments]",
-   "published": "2026-10-22T14:05:09Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "92b876190d734454",
-   "title": "Machine speed attacks require machine speed detection and response",
-   "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated…",
-   "published": "2026-10-22T14:02:12Z",
-   "tags": [
-    "cloud-identity",
-    "phishing"
-   ]
-  },
-  {
-   "id": "55b73db7ad1b4faa",
-   "title": "PHP2Shell Exposure Hunting - Do you have it across your estate and where?? An Advanced Hunting pack for Defender XDR",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xciylk/php2shell_exposure_hunting_do_you_have_it_across/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "I’ve spent the evening heavily developing and testing (in prod, where else) what appears to now be a relatively robust coverage set of 6 sequenced KQL/Advanced Hunting queries, 3 each across Linux and Windows. Sharing the love. Copy pasta, follow the in-line guidance - Might be…",
-   "published": "2026-10-22T13:43:31Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "c145f24074c2801f",
-   "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-   "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed…",
-   "published": "2026-10-22T13:38:22Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "14aa600d7f566f55",
-   "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
-   "link": "https://therecord.media/africa-cybercrime-interpol-arrests",
-   "source": "The Record",
-   "type": "news",
-   "summary": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.",
-   "published": "2026-10-22T13:30:00Z",
-   "tags": [
-    "ransomware",
-    "phishing"
-   ]
-  },
-  {
-   "id": "ab875104cf1640af",
-   "title": "New Serious PHP Vulnerabilities Released and Patched",
-   "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all…",
-   "published": "2026-10-22T13:26:51Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "c78f9791369d56c3",
-   "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-   "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-   "published": "2026-10-22T13:09:12Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "6a8ba679d4e13781",
-   "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
-   "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform appeared first on SecurityWeek .",
-   "published": "2026-10-22T13:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "2bd447638fb1ac1c",
-   "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
-   "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek .",
-   "published": "2026-10-22T12:34:31Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "189c380ca7263235",
-   "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
-   "link": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.",
-   "published": "2026-10-22T12:14:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "76d592eba3991be8",
-   "title": "Siemens SIMATIC S7 Webserver API",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "941935f08939d347",
-   "title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary The products listed below contain multiple vulnerabilities that could allow an attacker to cause a denial of service and potentially impact the availability of the affected device. Siemens has released new versions for several affected products and recommends…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "0772ceb52ebcb46d",
-   "title": "Siemens RUGGEDCOM CROSSBOW",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "5afddfa52052a684",
-   "title": "Siemens RUGGEDCOM APE1808 Devices",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "a7c265353a78b12e",
-   "title": "Siemens Industrial Edge App Publisher",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary The Industrial Edge App Publisher contains a vulnerability chain involving improper certificate validation and the rendering of unescaped data from backend responses. These issues can be combined to allow an attacker on the network to impersonate the…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "605d531ea389dc3f",
-   "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "236815939a0fb5dd",
-   "title": "Siemens WinCC",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "08d39f89ecf028b4",
-   "title": "Siemens Industrial Edge Device Kit",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "533ddb227bc5eec3",
-   "title": "Siemens Capital Embedded AR Classic",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary The products listed below contain an out-of-bounds read vulnerability that could allow an attacker to cause abnormal product behavior, instability, or denial of service. Siemens has released a new version for Capital Embedded AR Classic R20-11 and recommends…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "27f18cf82b1dc88c",
-   "title": "InterSystems Corporation InterSystems IRIS for Health",
-   "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to view transmitted data and use that data to log into the device. The following versions of InterSystems Corporation InterSystems IRIS for Health are affected: InterSystems IRIS for Health…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "5b0b73ee120b4dc0",
-   "title": "Siemens PSS(R)SINCAL",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary PSS(R)SINCAL uses WibuKey third-party product that contains an out-of-bounds write vulnerability. An attacker could exploit this vulnerability to cause a system crash, resulting in a denial-of-service condition. This affects PSS SINCAL only when configured to…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "68eaa2dc47131c00",
-   "title": "Siemens Software Center",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f24c5287a98c0faf",
-   "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "27602b8f8f6eea14",
-   "title": "Siemens SIMATIC IPCs",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "71842f59f6596316",
-   "title": "Siemens Industrial Edge Devices",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "17f5da59605d6aba",
-   "title": "Siemens SIMATIC S7 PLCs Web Server",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "b3a5d9b4753994ea",
-   "title": "Siemens SENTRON 3NA COM Fuse",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "72b4f49443d32a21",
-   "title": "Managing AI Token Consumption for Operational Resilience",
-   "link": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA, the Canadian Centre for Cyber Security (Cyber Centre), and partners are releasing joint guidance, Managing AI Token Consumption for Operational Resilience , to help organizations understand and manage token usage in support of operations. As organizations adopt…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "badbefd5ca6d1768",
-   "title": "Siemens SIMATIC S7-1500 TM MFP",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "2e4435c7af875024",
-   "title": "Kiloview E3 NDI Encoder",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Successful exploitation of this these vulnerabilities could allow an attacker to fully compromise the device. The following versions of Kiloview E3 NDI Encoder are affected: E3 Firmware CVSS Vendor Equipment v3 9.9 Kiloview E3 Firmware 6 Vulnerabilities…",
-   "published": "2026-10-22T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "0f812922fb34579d",
-   "title": "GitLab warns of new max severity code execution vulnerability",
-   "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-   "published": "2026-10-22T11:41:48Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "3b5140ce1b1162ae",
-   "title": "Woman faces years in prison over a Cash App account she says she never opened",
-   "link": "https://www.malwarebytes.com/blog/news/2026/10/woman-faces-years-in-prison-over-a-cash-app-account-she-says-she-never-opened",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "A woman faces up to six years in prison over a Cash App account she says someone opened using her stolen identity.",
-   "published": "2026-10-22T11:27:07Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "221e99db6bc10fed",
-   "title": "KeyStealth: A $10,000 PhaaS Kit caught in the wild",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xcfr2b/keystealth_a_10000_phaas_kit_caught_in_the_wild/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "Probably not the best week to be dropping research, i know alot of ya'll in the industry are working hard right now - stay safe out their! Tracking a new campaign by PHISHLETS 10k phaas kit dropped in August in the wild.. submitted by /u/ectkirk [link] [comments]",
-   "published": "2026-10-22T11:16:03Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "76b18c2dc5a90e0a",
-   "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-   "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment…",
-   "published": "2026-10-22T11:15:42Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "261c64f3ab3c3f64",
-   "title": "Custom Extensions for SmartScreen Evasion",
-   "link": "https://www.reddit.com/r/netsec/comments/1xcf5yh/custom_extensions_for_smartscreen_evasion/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/netbiosX [link] [comments]",
-   "published": "2026-10-22T10:44:10Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "1d3516a0d0a60e24",
-   "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-   "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the…",
-   "published": "2026-10-22T10:44:05Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6eda155ba478a13e",
-   "title": "The PHP Foundation: Today's PHP Security Release, and How We're Strengthening PHP Security",
-   "link": "https://www.reddit.com/r/netsec/comments/1xcegee/the_php_foundation_todays_php_security_release/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/si9int [link] [comments]",
-   "published": "2026-10-22T10:03:39Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -10226,14 +9973,14 @@
    "type": "news",
    "home": "https://www.schneier.com",
    "status": "ok",
-   "count": 10
+   "count": 9
   },
   {
    "name": "Microsoft Security Blog",
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 9
+   "count": 10
   },
   {
    "name": "Microsoft Security Response Center",
@@ -10270,7 +10017,7 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 5
+   "count": 3
   },
   {
    "name": "Cisco Talos",
@@ -10291,21 +10038,21 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "ESET WeLiveSecurity",
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "Check Point Research",
    "type": "vendor-research",
    "home": "https://research.checkpoint.com",
    "status": "ok",
-   "count": 6
+   "count": 8
   },
   {
    "name": "Elastic Security Labs",

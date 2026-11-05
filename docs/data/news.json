@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T02:02:05Z",
+ "generated_at": "2026-11-05T09:44:52Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "cloud-identity"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,95 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T02:02:01Z",
+   "published": "2026-11-05T09:44:48Z",
    "tags": [
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "da77af0f435fbc61",
+   "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+   "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+   "published": "2026-11-05T09:18:29Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "96a1ace9f58c677e",
+   "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+   "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files…",
+   "published": "2026-11-05T09:13:28Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "4f9bb7c1ff8e1d8d",
+   "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+   "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the…",
+   "published": "2026-11-05T08:42:03Z",
+   "tags": [
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "a665869d02d25a6a",
+   "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+   "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without…",
+   "published": "2026-11-05T07:06:33Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "2a5b7d5a686a585d",
+   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in…",
+   "published": "2026-11-05T05:17:04Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "49bf8b366c47018c",
+   "title": "Want to Rent an Internet Address at the White House?",
+   "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+   "source": "Krebs on Security",
+   "type": "news",
+   "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web…",
+   "published": "2026-11-05T04:36:17Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "25c3eda20cfedcbc",
+   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…",
+   "published": "2026-11-05T04:31:16Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -492,7 +578,7 @@
    "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
    "source": "The Hacker News",
    "type": "news",
-   "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.…",
+   "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO…",
    "published": "2026-11-04T14:27:52Z",
    "tags": [
     "vulnerabilities",
@@ -9952,182 +10038,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "2e6883d67eaa29b7",
-   "title": "Delivery bots accused of illegally scanning customers",
-   "link": "https://www.malwarebytes.com/blog/privacy/2026/10/delivery-bots-accused-of-illegally-scanning-customers",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Two lawsuits allege delivery robots scanned customers’ faces without consent, linked scans to names and addresses, and used them to train AI.",
-   "published": "2026-10-22T09:39:23Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "4eda8a69789bd7de",
-   "title": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
-   "link": "https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/",
-   "source": "ESET WeLiveSecurity",
-   "type": "vendor-research",
-   "summary": "ESET researchers uncover MythicRatatoskr – a previously unknown Go-based backdoor hiding its C&C server inside the Yggdrasil mesh network – that paved the way for a destructive attack against a Ukrainian grain firm",
-   "published": "2026-10-22T08:45:00Z",
-   "tags": [
-    "malware",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "a9227db3dd338122",
-   "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-   "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push…",
-   "published": "2026-10-22T08:28:48Z",
-   "tags": [
-    "malware",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "df0211e45e19bb26",
-   "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-   "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-   "published": "2026-10-22T08:27:11Z",
-   "tags": [
-    "ransomware",
-    "phishing"
-   ]
-  },
-  {
-   "id": "29143f2ae20d3391",
-   "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-   "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an…",
-   "published": "2026-10-22T07:47:22Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "eff3ebf7d52ffb89",
-   "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-   "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the…",
-   "published": "2026-10-22T06:38:31Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "3d29fe5d9f8955b4",
-   "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-   "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release…",
-   "published": "2026-10-22T06:34:10Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "55e428686889d352",
-   "title": "PHP2Shell exploitation prior to public disclosure in MadPot",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xcax3r/php2shell_exploitation_prior_to_public_disclosure/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-22T06:20:14Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "273038708c66deaf",
-   "title": "eMudhra intermediate CA keys exposed (weak P-384 generation). Browsers blocked the chains, but check your non-browser trust stores",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xcamta/emudhra_intermediate_ca_keys_exposed_weak_p384/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "8 intermediate CA private keys from eMudhra were exposed because of critically weak P-384 key generation. 6 of them were used for TLS and 2 for code signing. Browsers have already blocked the affected chains, so most people will never notice. The less obvious exposure is…",
-   "published": "2026-10-22T06:03:33Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "dd3d6e4d99bf9fa7",
-   "title": "Header Accordions: QPACK amplification attacks against HTTP/3 servers",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xcal59/header_accordions_qpack_amplification_attacks/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-22T06:00:58Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "0b85f8ae4b7ce69d",
-   "title": "How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia",
-   "link": "https://securelist.com/uefi-bootkit-blackx/121539/",
-   "source": "Securelist (Kaspersky)",
-   "type": "vendor-research",
-   "summary": "Kaspersky GReAT experts discovered a new UEFI bootkit, BlackX. It exploits the Baton Drop vulnerability (CVE-2022-21894) and is similar to the BlackLotus bootkit.",
-   "published": "2026-10-22T06:00:48Z",
-   "tags": [
-    "malware",
-    "vulnerabilities",
-    "cloud-identity",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "a734856ab1edb465",
-   "title": "UAE Transitions 50% of Government Services to Agentic AI",
-   "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
-   "published": "2026-10-22T05:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ee6012ef2c27b652",
-   "title": "eMudhra Statement on Recent Certificate Security Incident",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xc9d08/emudhra_statement_on_recent_certificate_security/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-22T04:51:10Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "9b69347cfd294268",
-   "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-   "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that…",
-   "published": "2026-10-22T04:21:26Z",
-   "tags": [
-    "cloud-identity",
-    "threat-actors"
-   ]
   }
  ],
  "kev": [
@@ -10288,7 +10198,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 1
+   "count": 2
   },
   {
    "name": "SecurityWeek",
@@ -10381,14 +10291,14 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "ESET WeLiveSecurity",
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 9
+   "count": 7
   },
   {
    "name": "Check Point Research",
@@ -10459,16 +10369,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 25
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

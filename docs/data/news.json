@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:48:57Z",
+ "generated_at": "2026-11-05T02:02:05Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "cloud-identity"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,34 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-04T21:48:53Z",
+   "published": "2026-11-05T02:02:01Z",
    "tags": [
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "3a145a209149c281",
+   "title": "Case Study: Profiling a Telegram Initial Access Broker Through Infrastructure and Stealer-Log Pivots",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xo2tdc/case_study_profiling_a_telegram_initial_access/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/Much-Television-9449 [link] [comments]",
+   "published": "2026-11-04T23:04:35Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "1b4641ca37283c44",
+   "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+   "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+   "published": "2026-11-04T21:48:18Z",
+   "tags": [
+    "threat-actors"
    ]
   },
   {
@@ -169,6 +194,30 @@
    "published": "2026-11-04T20:58:19Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f4511242f2b26ae4",
+   "title": "ARTEX fork learns to spot honeypots",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xnzeda/artex_fork_learns_to_spot_honeypots/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/Noktec [link] [comments]",
+   "published": "2026-11-04T20:46:14Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "6c19e24789afbf44",
+   "title": "Looking for motivated builders to start an open-source Threat Intel & OSINT team (Not just another CTF group)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xnzcek/looking_for_motivated_builders_to_start_an/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Hey everyone, I’ve been practicing on HTB and TryHackMe for a while, but I realized that grinding points in isolated labs isn’t the same as solving real-world security problems. I am starting a small, open-source collaborative group called Loorte . The goal is to bridge the gap…",
+   "published": "2026-11-04T20:44:05Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -280,6 +329,18 @@
    ]
   },
   {
+   "id": "1fe61b30d6dd6a98",
+   "title": "Hands-on resources for learning EDR alert triage? (for a fresher, not platform admin courses)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xnt30e/handson_resources_for_learning_edr_alert_triage/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "A junior analyst on my team asked me for a resource to help him get better at investigating EDR alerts. I want to point him to something that builds investigative thinking , not just tool familiarity. What I'm looking for: Hands-on labs, challenges, or scenario-based exercises…",
+   "published": "2026-11-04T16:45:47Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "99f6b8af600a59ae",
    "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
    "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
@@ -352,6 +413,31 @@
    ]
   },
   {
+   "id": "df64146443225f0f",
+   "title": "An Ivanti Zero-Day Operation Where the Dead Proxy Was Named in the Operator's Notes",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xnr1x9/an_ivanti_zeroday_operation_where_the_dead_proxy/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-04T15:26:41Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f27b54185c47678e",
+   "title": "Aegis Latent Core: a tamper-evident evidence chain for AI traffic. Does this help a blue team, or is it just another log source?",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xnr0yl/aegis_latent_core_a_tamperevident_evidence_chain/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Disclosure: I am the author. Personal project. Source-available, not OSI open source. Not selling anything in this post. I am here because r/blueteamsec is where detection engineering and log integrity get taken seriously, and I want to know if what I built is operationally…",
+   "published": "2026-11-04T15:25:38Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "d6dd46466a93ebf8",
    "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
    "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
@@ -374,6 +460,18 @@
    "published": "2026-11-04T14:42:25Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "789660b246189440",
+   "title": "Stanford, NYU, UC Berkeley, and 17 other universities targeted in an academic fraud campaign run by AI agents over Telegram?",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xnpswp/stanford_nyu_uc_berkeley_and_17_other/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Our research team just published a writeup on an actor tracked as leepsmarts (Chinese-speaking) whose operation touched 20 universities, 19 of them in the US. The impact varies a lot by institution, so it’s worth breaking down rather than lumping everything together: → Harvard:…",
+   "published": "2026-11-04T14:36:33Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -631,6 +729,18 @@
    ]
   },
   {
+   "id": "a9c6a0863b5f39e8",
+   "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware",
+   "link": "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "ESET Research analyzes a DNS hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method",
+   "published": "2026-11-04T09:55:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
    "id": "955f969e9daedf25",
    "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
@@ -764,6 +874,42 @@
    ]
   },
   {
+   "id": "2a4ea4e2b03a5861",
+   "title": "cPGuard security advisory: Update channel compromise",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xng117/cpguard_security_advisory_update_channel/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-04T05:28:13Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "2badd3c1a908e589",
+   "title": "Notice of Order Regarding Exclusion and Removal of Acronis Products From Federal Civilian Executive Branch Information Technology Systems and Procurements",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xng0a2/notice_of_order_regarding_exclusion_and_removal/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-04T05:26:58Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "687b5c318a6ae3df",
+   "title": "ClockTail: a ClickFix kit that never filled in its command",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xng00f/clocktail_a_clickfix_kit_that_never_filled_in_its/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-04T05:26:34Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "7aa5af4c407c8575",
    "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
    "link": "https://isc.sans.edu/diary/rss/33486",
@@ -872,6 +1018,19 @@
    ]
   },
   {
+   "id": "8d53dcb94bd2b85b",
+   "title": "PHP2Shell Exploits: What 859 Public Repos Contain",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xn5h7y/php2shell_exploits_what_859_public_repos_contain/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-03T21:17:22Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "317e8557e095955c",
    "title": "Binance says fake job interview led to $6.3 billion crypto heist",
    "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
@@ -893,6 +1052,18 @@
    "published": "2026-11-03T19:48:00Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "d288be920e848f8a",
+   "title": "Binance hack IR report",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xn1va7/binance_hack_ir_report/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/campuscodi [link] [comments]",
+   "published": "2026-11-03T19:03:01Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -929,6 +1100,30 @@
    "published": "2026-11-03T18:44:00Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "6b3fb6b4fee32750",
+   "title": "SIEM SOLUTION",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xn0zrm/siem_solution/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Ich habe verstanden, dass ein SIEM-System Protokolle von verschiedenen Geräten an einem Ort zusammenführt. Ich habe das in einer Testumgebung ausprobiert: Ich habe Splunk auf einem Windows Server installiert und das Sicherheitsprotokoll hinzugefügt, woraufhin mir Ereignisse wie…",
+   "published": "2026-11-03T18:31:35Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "7241bc613da66cd1",
+   "title": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xn0sb8/gorbag_orcs_at_the_border_harvesting_intelligence/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-03T18:23:55Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -1004,6 +1199,19 @@
    ]
   },
   {
+   "id": "5aabb713fb46725d",
+   "title": "Shutting the Door on the XCPE Botnet",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xmwymu/shutting_the_door_on_the_xcpe_botnet/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-03T16:05:48Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
    "id": "bc96c130a163cdde",
    "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
    "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
@@ -1062,6 +1270,18 @@
    "published": "2026-11-03T15:16:32Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "d293fcfbfc32676c",
+   "title": "We found 4,972 \"hello\" messages hiding thousands of malicious commands targeting Flowise",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xmvkc3/we_found_4972_hello_messages_hiding_thousands_of/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "TL;DR: Our research team at Era uncovered Greeter , an attack framework targeting Flowise, an AI development platform with 55,000+ GitHub stars. We deployed seven honeypots and captured 4,972 \"hello\" messages , each carrying malicious JavaScript through Flowise's overrideConfig…",
+   "published": "2026-11-03T15:13:44Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -1452,6 +1672,18 @@
    ]
   },
   {
+   "id": "35fce7e8672a8835",
+   "title": "Slaiclind: The blockchain is now a covert communication channel",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xmoo9y/slaiclind_the_blockchain_is_now_a_covert/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/StormshieldArgos [link] [comments]",
+   "published": "2026-11-03T09:38:43Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "402458e4dacc5a5a",
    "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
    "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
@@ -1485,6 +1717,18 @@
    "published": "2026-11-03T08:31:48Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d3665dfb7b137097",
+   "title": "SpikeStrip: Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xmn4up/spikestrip_reversible_html_and_javascript_prompt/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-03T08:00:54Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -1758,6 +2002,19 @@
    ]
   },
   {
+   "id": "464c8ebae46c1339",
+   "title": "n0n Ransomware: Inside an AI-Assisted Extortion Operation",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xm5tfd/n0n_ransomware_inside_an_aiassisted_extortion/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-02T18:49:33Z",
+   "tags": [
+    "threat-hunting",
+    "ransomware"
+   ]
+  },
+  {
    "id": "f8e64d371b0e6032",
    "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
    "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
@@ -1767,6 +2024,18 @@
    "published": "2026-11-02T18:16:34Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "626cfd23bab7088f",
+   "title": "The Internals of a Badbox Operation",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xm3ovd/the_internals_of_a_badbox_operation/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-02T17:34:34Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -9859,42 +10128,6 @@
     "cloud-identity",
     "threat-actors"
    ]
-  },
-  {
-   "id": "0dbc9387e3618b3d",
-   "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
-   "link": "https://isc.sans.edu/diary/rss/33446",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-10-22T02:00:02Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "94c3096b953abee9",
-   "title": "Gallery of PHP maintenance pages from today",
-   "link": "https://www.reddit.com/r/netsec/comments/1xc3p6r/gallery_of_php_maintenance_pages_from_today/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/R74nCom [link] [comments]",
-   "published": "2026-10-22T00:07:45Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "832124389031586a",
-   "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-   "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-   "published": "2026-10-21T22:16:26Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -10155,7 +10388,7 @@
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 8
+   "count": 9
   },
   {
    "name": "Check Point Research",
@@ -10226,16 +10459,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 25
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T17:53:39Z",
+ "generated_at": "2026-11-06T03:34:02Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,8 +117,263 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-05T17:53:34Z",
+   "published": "2026-11-06T03:33:58Z",
    "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5d7c1511e0dda8d0",
+   "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+   "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .",
+   "published": "2026-11-06T03:03:29Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "449fb56315dc537c",
+   "title": "Broken access control in Facer (10M+ installs): premium watch faces downloadable from a public CDN with zero authentication",
+   "link": "https://www.reddit.com/r/netsec/comments/1xp11p7/broken_access_control_in_facer_10m_installs/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/FrozenCocomo [link] [comments]",
+   "published": "2026-11-06T02:08:12Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6ed44c5da57ea2dc",
+   "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+   "link": "https://isc.sans.edu/diary/rss/33494",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-06T02:00:02Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "97d7db0e7e4a0b1e",
+   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+   "published": "2026-11-06T00:56:44Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e2845eccbac1628b",
+   "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s…",
+   "published": "2026-11-05T23:46:50Z",
+   "tags": [
+    "cloud-identity",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "e72e56e8b9796677",
+   "title": "Phone return scams: where a real delivery and a fake return end up in a bill for you",
+   "link": "https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Phone return scams are part of a very convincing social engineering method where the criminals gets a phone and you get billed.",
+   "published": "2026-11-05T22:18:22Z",
+   "tags": [
+    "malware",
+    "phishing"
+   ]
+  },
+  {
+   "id": "3189ce2b4e22a207",
+   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+   "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
+   "published": "2026-11-05T22:08:00Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "2bb9d54dbd089635",
+   "title": "NIKKE PC launcher compromise put players’ passwords and personal files at risk",
+   "link": "https://www.malwarebytes.com/blog/news/2026/11/nikke-pc-launcher-compromise-put-players-passwords-and-personal-files-at-risk",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Players of Goddess of Victory: NIKKE are being urged to check their PCs after attackers tampered with files used by the game’s Windows launcher.",
+   "published": "2026-11-05T22:06:59Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "c5d8bcb2d0573a49",
+   "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+   "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
+   "published": "2026-11-05T21:35:05Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "835ec2056e4411d1",
+   "title": "Scammers use AI-generated images of missing pets to extort owners",
+   "link": "https://www.malwarebytes.com/blog/ai/2026/11/scammers-use-ai-generated-images-of-missing-pets-to-extort-owners",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Scammers are using AI images to enhance their \"I've found your missing pet and want money to return it to you\" schemes.",
+   "published": "2026-11-05T21:34:14Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "886e9406677fab21",
+   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+   "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+   "published": "2026-11-05T21:30:30Z",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
+   "id": "3da2c4855b54aef0",
+   "title": "Barracuda Networks is your new best friend (Barracuda Email Security Gateway Pre-Auth Remote Root RCE CVE-2026-116606 / CVE-2026-111560) - watchTowr Labs",
+   "link": "https://www.reddit.com/r/netsec/comments/1xouqpj/barracuda_networks_is_your_new_best_friend/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/dx7r__ [link] [comments]",
+   "published": "2026-11-05T21:24:03Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "6ae54b5becb8074a",
+   "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+   "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+   "published": "2026-11-05T21:00:47Z",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
+   "id": "835e42a20ded7d60",
+   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
+   "link": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
+   "published": "2026-11-05T20:48:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "58f4053a1bb932db",
+   "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+   "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+   "published": "2026-11-05T20:15:08Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8b7832becd89f665",
+   "title": "US issues more sanctions against Prince Group scam center affiliates",
+   "link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
+   "published": "2026-11-05T20:11:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8c41ea53568673e3",
+   "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+   "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+   "published": "2026-11-05T20:05:39Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "7e637a2f9fd70ec8",
+   "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+   "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+   "published": "2026-11-05T19:24:26Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "dd39564224715dd3",
+   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
+   "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
+   "published": "2026-11-05T19:15:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "235c91400cfbaf46",
+   "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
+   "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side.",
+   "published": "2026-11-05T19:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d94b4991c1aadca6",
+   "title": "Sogou Input Method update hijack installs DarkVigil backdoor; update to 16.10 (CVE-2026-120422)",
+   "link": "https://www.reddit.com/r/netsec/comments/1xoq81f/sogou_input_method_update_hijack_installs/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/glatisantbeast [link] [comments]",
+   "published": "2026-11-05T18:26:37Z",
+   "tags": [
+    "malware",
     "vulnerabilities"
    ]
   },
@@ -159,12 +414,36 @@
    ]
   },
   {
+   "id": "ccc66eb2563172ef",
+   "title": "New investments to reduce on-premises security risk",
+   "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "We’re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments. The post New investments to reduce on-premises security risk appeared first on Microsoft Security Blog .",
+   "published": "2026-11-05T17:10:14Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "44c256844f1ea88a",
    "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
    "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
    "source": "The Record",
    "type": "news",
    "summary": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found.",
+   "published": "2026-11-05T17:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1a39a444dba6b797",
+   "title": "​​​​What’s new in Microsoft Security: November 2026",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post ​​​​What’s new in Microsoft Security: November 2026 appeared first on Microsoft Security Blog .",
    "published": "2026-11-05T17:00:00Z",
    "tags": [
     "general"
@@ -180,6 +459,30 @@
    "published": "2026-11-05T16:48:36Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "3fe484f436f5a815",
+   "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+   "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH,…",
+   "published": "2026-11-05T16:42:46Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "306be99284dc169e",
+   "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+   "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to…",
+   "published": "2026-11-05T16:42:32Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -371,6 +674,30 @@
    "type": "news",
    "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…",
    "published": "2026-11-05T12:08:54Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "780955fd1e41f71d",
+   "title": "Post-Quantum Questions to Ask Your Vendors",
+   "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum…",
+   "published": "2026-11-05T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "09b518162789bda5",
+   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+   "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring…",
+   "published": "2026-11-05T12:00:00Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -1126,6 +1453,18 @@
    "published": "2026-11-04T12:07:04Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "eb87294c09885589",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for…",
+   "published": "2026-11-04T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -2005,18 +2344,6 @@
    "source": "CISA Cybersecurity Advisories",
    "type": "government",
    "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020…",
-   "published": "2026-11-03T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "496fbffc6e4d527f",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack…",
    "published": "2026-11-03T12:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -9602,189 +9929,6 @@
    "tags": [
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "fdce8a7d1bd72cd3",
-   "title": "State Bank of India Suffers a Customer PII Data Leak",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
-   "published": "2026-10-23T03:30:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6eef90347dd9985f",
-   "title": "How CVE-2026-73570 turns a Zimbra log file into remote code execution",
-   "link": "https://www.elastic.co/security-labs/threat-command/command-injection-zimbra-cve-2026-73570",
-   "source": "Elastic Security Labs",
-   "type": "vendor-research",
-   "summary": "We reproduced the Zimbra command injection vulnerability and found that several public PoCs write a payload Swatchdog never matches, so a failed test looks like a patched server.",
-   "published": "2026-10-23T00:00:00Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "6af5f5a84e31744d",
-   "title": "Railway warns devs to rotate secrets after potential breach",
-   "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-   "published": "2026-10-22T21:25:31Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "0589859b680b25bd",
-   "title": "Toronto crime tips org freezes operations after details of data breach come to light",
-   "link": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
-   "published": "2026-10-22T20:52:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "778da97616c17390",
-   "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
-   "published": "2026-10-22T20:42:17Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "0a62902654cebc5f",
-   "title": "What We Missed: Feds Lasso Texas Laptop Farms",
-   "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
-   "published": "2026-10-22T20:33:10Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "177124c993da1845",
-   "title": "Capcom confirms data breach affecting 11.7 million accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-   "published": "2026-10-22T20:22:45Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a0b44de98d51fea9",
-   "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
-   "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
-   "published": "2026-10-22T19:30:20Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "0151e8522bf78e30",
-   "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-   "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-   "published": "2026-10-22T19:12:51Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "d76b50dba1625800",
-   "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-   "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach…",
-   "published": "2026-10-22T19:05:35Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "23872cb1986e28ae",
-   "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-   "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log in to the orchestrator, even with a…",
-   "published": "2026-10-22T19:05:17Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "9e4a9b47cf594090",
-   "title": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xcre0y/cve202688771_inside_the_exploitation_of_a/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-10-22T18:56:51Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "afb644b2382c30d4",
-   "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
-   "link": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
-   "published": "2026-10-22T18:46:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f74ce17a74d9601f",
-   "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-   "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate CA certificates. eMudhra…",
-   "published": "2026-10-22T18:12:43Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "49c1ab7af418cae2",
-   "title": "I had plans for that second",
-   "link": "https://blog.talosintelligence.com/i-had-plans-for-that-second/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "The Earth is speeding up, the leap second is being abolished, oh, and there's critical vulnerabilities in PHP.",
-   "published": "2026-10-22T18:04:32Z",
-   "tags": [
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
@@ -10059,7 +10203,7 @@
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 4
+   "count": 3
   },
   {
    "name": "Sophos News",
@@ -10067,7 +10211,7 @@
    "home": "https://news.sophos.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed"
+   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed?cat=647533221&mc-rss-cache-bypass=2026110506&mc-rss-cache-bypass=2026110506%3F"
   },
   {
    "name": "Malwarebytes Labs",
@@ -10094,9 +10238,8 @@
    "name": "CISA Cybersecurity Advisories",
    "type": "government",
    "home": "https://www.cisa.gov",
-   "status": "error",
-   "count": 0,
-   "error": "403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/all.xml"
+   "status": "ok",
+   "count": 17
   },
   {
    "name": "NCSC UK",

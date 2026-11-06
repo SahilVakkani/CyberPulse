@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:00:10Z",
+ "generated_at": "2026-11-06T23:42:58Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,143 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T19:00:04Z",
+   "published": "2026-11-06T23:42:49Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "b99b441690fc8bf8",
+   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+   "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+   "published": "2026-11-06T22:27:25Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "46c76064dfebbdab",
+   "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+   "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally…",
+   "published": "2026-11-06T22:05:12Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "dc7bcf362128f821",
+   "title": "SonicWall SonicOS Affected By Multiple Vulnerabilities - CVE-2026-77708, CVE-2026-77709, CVE-2026-82308, CVE-2026-107154, CVE-2026-107155, CVE-2026-19703, CVE-2026-19868",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpouoe/sonicwall_sonicos_affected_by_multiple/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-06T21:34:10Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "2cc472ecd8789fed",
+   "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpopsf/threat_actors_use_agentic_ai_tooling_to_find_and/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-06T21:28:45Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "41d1e96fea423ff1",
+   "title": "ARTEX: Agentic Asbestos",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpop5k/artex_agentic_asbestos/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-06T21:27:59Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "b63212099f3b82aa",
+   "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+   "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+   "published": "2026-11-06T21:27:36Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ce2362fa272a2dc2",
+   "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
+   "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System appeared first on Unit 42 .",
+   "published": "2026-11-06T21:15:09Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "ba147c5fc5c98202",
+   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+   "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+   "published": "2026-11-06T20:24:19Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ae585271a1bcaf66",
+   "title": "Joint statement on cyber incidents in refrigeration systems across the EU | ENISA",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xplwru/joint_statement_on_cyber_incidents_in/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-06T19:33:06Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "ea6b9d64cfe5f3ca",
+   "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
+   "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
+   "published": "2026-11-06T19:06:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c5532d0fb1f05c44",
+   "title": "Certificate authority DigiCert reports data breach involving business customer info",
+   "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+   "source": "The Record",
+   "type": "news",
+   "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
+   "published": "2026-11-06T18:56:00Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -132,6 +266,19 @@
    "published": "2026-11-06T18:46:52Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "28ac7417dd20947f",
+   "title": "Siemens expands the device list for a 10.0-rated Node-RED flaw",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpkhnu/siemens_expands_the_device_list_for_a_100rated/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Siemens expanded the affected-product list for CVE-2026-58115 on November 4, adding three SIMATIC IoT2050 products to its advisory. The missing-authentication vulnerability affects specified devices running Industrial OS with Node-RED installed. It can allow an unauthenticated…",
+   "published": "2026-11-06T18:37:27Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
    ]
   },
   {
@@ -156,6 +303,18 @@
    "published": "2026-11-06T18:27:30Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "9b5b01b37353494e",
+   "title": "Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpk5b8/free_the_model_sell_the_gateway_prompt_adware/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-06T18:24:11Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -436,6 +595,18 @@
    ]
   },
   {
+   "id": "c776d35c062b8b00",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector…",
+   "published": "2026-11-06T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "6625b8a777d1a389",
    "title": "The Flood is Coming And The Pipes Were Already Full",
    "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
@@ -691,6 +862,18 @@
    "tags": [
     "malware",
     "phishing"
+   ]
+  },
+  {
+   "id": "7bee44827e17e9d7",
+   "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
+   "published": "2026-11-05T22:13:23Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -2063,18 +2246,6 @@
    "published": "2026-11-04T12:07:04Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "eb87294c09885589",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for…",
-   "published": "2026-11-04T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
    ]
   },
   {
@@ -9702,94 +9873,18 @@
     "threat-hunting",
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "a92210a17b813fcb",
-   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-23T22:56:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "9d407c505c1e9fd1",
-   "title": "Friday Squid Blogging: Increasing Squid Populations",
-   "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
-   "published": "2026-10-23T21:00:09Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "78e6b44f5a3d5bff",
-   "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
-   "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
-   "published": "2026-10-23T20:57:56Z",
-   "tags": [
-    "malware",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "201a6bfc4c9c82a0",
-   "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
-   "published": "2026-10-23T20:55:05Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "abf0242ee67519aa",
-   "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdokhh/redteaming_openais_internal_agent_monitoring/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-10-23T20:06:05Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "99cc8517906e9daa",
-   "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33452",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
-   "published": "2026-10-23T20:04:47Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f1cc9ef1de56563f",
-   "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-   "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
-   "published": "2026-10-23T19:41:23Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-19868",
+   "vendor": "SonicWall",
+   "product": "SonicOS SSLVPN",
+   "name": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+   "added": "2026-11-06",
+   "due": "2026-11-20",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2024-27834",
    "vendor": "Apple",
@@ -9915,15 +10010,6 @@
    "added": "2026-10-23",
    "due": "2026-10-26",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-106931",
-   "vendor": "EG Secure Solutions",
-   "product": "SiteGuard Server Edition",
-   "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
-   "added": "2026-10-20",
-   "due": "2026-10-23",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -10019,7 +10105,7 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 3
+   "count": 4
   },
   {
    "name": "Cisco Talos",
@@ -10097,7 +10183,7 @@
    "type": "government",
    "home": "https://www.cisa.gov",
    "status": "ok",
-   "count": 15
+   "count": 16
   },
   {
    "name": "NCSC UK",
@@ -10117,16 +10203,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 25
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

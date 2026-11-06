@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T03:34:02Z",
+ "generated_at": "2026-11-06T11:54:02Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,169 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T03:33:58Z",
+   "published": "2026-11-06T11:53:58Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "6625b8a777d1a389",
+   "title": "The Flood is Coming And The Pipes Were Already Full",
+   "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what…",
+   "published": "2026-11-06T11:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a127533ebd1f8cdc",
+   "title": "DarkSword router's iOS 26 route, C10, is switched off",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpa6ob/darksword_routers_ios_26_route_c10_is_switched_off/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/ectkirk [link] [comments]",
+   "published": "2026-11-06T11:08:21Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "4c3b7ebdb999ff3d",
+   "title": "Virtualization security: attack layers and misconfiguration impact",
+   "link": "https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "A detailed breakdown of misconfigurations in virtual environment cybersecurity as shown by examples of ransomware cases on ESXi and Proxmox environments.",
+   "published": "2026-11-06T10:00:12Z",
+   "tags": [
+    "malware",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "3a73b8fccf35eceb",
+   "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+   "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek .",
+   "published": "2026-11-06T09:33:51Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "3a8f9a3bb5fda75d",
+   "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+   "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+   "published": "2026-11-06T09:22:28Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "67dcad13539027f3",
+   "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+   "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
+   "published": "2026-11-06T09:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6facdf5f94dfdf61",
+   "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+   "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data…",
+   "published": "2026-11-06T08:04:49Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "cfc827a06554ef80",
+   "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xp6tgt/slippynunchucks_hijacks_sogou_input_methods_brand/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-06T07:28:53Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "a8986d9667cde3d3",
+   "title": "HostBadger -> Win hardening auditor / now with small GUI + enforcing profiles",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xp6ol7/hostbadger_win_hardening_auditor_now_with_small/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Hello! Some new features on HostBadger, a free, open-source Windows hardening auditor, now with a (not so) fancy GUI & remediation profiles . Nothing to install & in a few clicks, you'll see: -> 223 checks, each mapped to MITRE ATT&CK and explained : - Credentials (LSA,…",
+   "published": "2026-11-06T07:19:56Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "e88705f93d921ea1",
+   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xp6l4n/us_government_partners_urge_hardening_industrial/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-06T07:13:40Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "e9e9825a913d390f",
+   "title": "How to detect fileless attacks exploiting ToolShell: analyzing the Storm-2603 incident",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xp5g2p/how_to_detect_fileless_attacks_exploiting/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-06T06:02:57Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "ed60ea7fa41262b4",
+   "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+   "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those…",
+   "published": "2026-11-06T05:58:54Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "a382c3d13c65e931",
+   "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+   "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on…",
+   "published": "2026-11-06T05:39:10Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -171,6 +331,18 @@
    ]
   },
   {
+   "id": "0da6cf00fb542a34",
+   "title": "EU accuses TikTok of trapping users in harmful ‘rabbit holes’",
+   "link": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.",
+   "published": "2026-11-06T00:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "e2845eccbac1628b",
    "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
@@ -209,6 +381,18 @@
    ]
   },
   {
+   "id": "7fcc03515e6414fc",
+   "title": "DigiCert: Unauthorized access to business system",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xovtsq/digicert_unauthorized_access_to_business_system/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-05T22:07:56Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "2bb9d54dbd089635",
    "title": "NIKKE PC launcher compromise put players’ passwords and personal files at risk",
    "link": "https://www.malwarebytes.com/blog/news/2026/11/nikke-pc-launcher-compromise-put-players-passwords-and-personal-files-at-risk",
@@ -218,6 +402,33 @@
    "published": "2026-11-05T22:06:59Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "0ac96cd02b1a87f3",
+   "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xovnce/new_lindnor_backdoor_and_glut_of_security_killers/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-05T22:00:28Z",
+   "tags": [
+    "threat-hunting",
+    "malware",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "47747dc745a2e21a",
+   "title": "Barracuda Networks is your new best friend (Barracuda Email Security Gateway Pre-Auth Remote Root RCE CVE-2026-116606 / CVE-2026-111560)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xovhio/barracuda_networks_is_your_new_best_friend/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-05T21:53:58Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
    ]
   },
   {
@@ -269,6 +480,43 @@
    ]
   },
   {
+   "id": "68112e0d9edca851",
+   "title": "TraderTraitor vs Contagious Interview - A Look at Binance's Initial Incident Report",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xouerc/tradertraitor_vs_contagious_interview_a_look_at/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-05T21:10:51Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "4188eb1d13bc2352",
+   "title": "Want to Rent an Internet Address at the White House?",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xoue4c/want_to_rent_an_internet_address_at_the_white/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-05T21:10:08Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "989ad00bcb52084d",
+   "title": "An Ivanti Zero-Day Operation Where the Dead Proxy Was Named in the Operator's Notes",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xoudgd/an_ivanti_zeroday_operation_where_the_dead_proxy/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-05T21:09:23Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "6ae54b5becb8074a",
    "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
    "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
@@ -290,6 +538,18 @@
    "published": "2026-11-05T20:48:00Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f7a9cf6cc267faa0",
+   "title": "[ Removed by Reddit ]",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xot2us/removed_by_reddit/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-05T20:17:22Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -519,6 +779,19 @@
    "published": "2026-11-05T16:00:00Z",
    "tags": [
     "phishing"
+   ]
+  },
+  {
+   "id": "7de8a0edde4d3966",
+   "title": "CWPdoor: The Invisible Backdoor Living Inside Control Web Panel",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xom7jc/cwpdoor_the_invisible_backdoor_living_inside/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-05T15:55:04Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
    ]
   },
   {
@@ -862,6 +1135,18 @@
    ]
   },
   {
+   "id": "0fab25c2f39bf409",
+   "title": "How are you getting external attack surface findings into Jira or your SIEM?",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xoc24r/how_are_you_getting_external_attack_surface/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "hi, I have a question about attack surface findings and how they fit into the rest of the workflow. do you push every new exposed asset or open port straight into Jira or the SIEM, or review them first? A new service might need an owner even if there is no confirmed…",
+   "published": "2026-11-05T06:55:07Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "2a5b7d5a686a585d",
    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
    "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
@@ -884,6 +1169,19 @@
    "published": "2026-11-05T04:36:17Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "4c3fa7e8bd0abe80",
+   "title": "adminide-stack npm compromise: an Ethereum dead drop that leads to a Node RAT persisting through npm and editor startup files",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xo7ve8/adminidestack_npm_compromise_an_ethereum_dead/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/Azkar [link] [comments]",
+   "published": "2026-11-05T03:02:08Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
    ]
   },
   {
@@ -1070,7 +1368,7 @@
   },
   {
    "id": "0dabcbb591b6730e",
-   "title": "mSecure tells users to change passwords but won’t say why",
+   "title": "mSecure tells users to change passwords but won’t say why [updated]",
    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/msecure-tells-users-to-change-passwords-but-wont-say-why",
    "source": "Malwarebytes Labs",
    "type": "vendor-research",
@@ -1198,19 +1496,6 @@
    "published": "2026-11-04T15:27:32Z",
    "tags": [
     "malware"
-   ]
-  },
-  {
-   "id": "df64146443225f0f",
-   "title": "An Ivanti Zero-Day Operation Where the Dead Proxy Was Named in the Operator's Notes",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xnr1x9/an_ivanti_zeroday_operation_where_the_dead_proxy/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-04T15:26:41Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
    ]
   },
   {
@@ -6588,7 +6873,7 @@
   },
   {
    "id": "9f03b9c501b63676",
-   "title": "Lessons from Cybersecurity Black Week",
+   "title": "Lessons from cybersecurity Black Week",
    "link": "https://www.welivesecurity.com/en/business-security/lessons-cybersecurity-black-week/",
    "source": "ESET WeLiveSecurity",
    "type": "vendor-research",
@@ -9534,401 +9819,6 @@
     "malware",
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "ba1a1addd0c23c78",
-   "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
-   "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
-   "published": "2026-10-23T11:38:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "3bc9a46d29046dd2",
-   "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-   "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an…",
-   "published": "2026-10-23T11:25:43Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "80697809b26e3096",
-   "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-   "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the…",
-   "published": "2026-10-23T11:11:23Z",
-   "tags": [
-    "malware",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "2ce43354cd03a403",
-   "title": "Compromised TLS Certificates",
-   "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve…",
-   "published": "2026-10-23T11:04:22Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "532831faa60f1dca",
-   "title": "Recommandations à destination des acteurs du secteur de l’énergie et de l’eau - NSSI) has been receiving numerous reports concerning the targeting of the renewable energy production and water…",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdauwf/recommandations_à_destination_des_acteurs_du/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T10:58:10Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "713a68aa818f2bd7",
-   "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-   "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek .",
-   "published": "2026-10-23T10:31:16Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "8640974c8b8683e6",
-   "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
-   "link": "https://isc.sans.edu/diary/rss/33448",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-10-23T10:25:11Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "94808457651058f4",
-   "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-   "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek .",
-   "published": "2026-10-23T09:58:34Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "0e4f54bebec71847",
-   "title": "Crime Stoppers chapter freezes tips after breach breaks anonymity promise",
-   "link": "https://www.malwarebytes.com/blog/data-breaches/2026/10/crime-stoppers-chapter-freezes-tips-after-breach-breaks-anonymity-promise",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "A Crime Stoppers chapter has stopped accepting tips after a breach exposed information about anonymous tipsters.",
-   "published": "2026-10-23T09:57:48Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "3a89e69463ceb5d0",
-   "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-   "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to…",
-   "published": "2026-10-23T09:36:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "a2a9e372db7b0e08",
-   "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-   "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or…",
-   "published": "2026-10-23T08:40:43Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "70936a7a24c9be3a",
-   "title": "win-def-clickfix | a scanner that determines whether windows defender will flag a clickfix command",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd8jne/windefclickfix_a_scanner_that_determines_whether/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "github.com/backdoorskid/win-def-clickfix win-def-clickfix is a run-1 detection replica for ClickFix / Win+R command lines, rebuilt by reverse-engineering Microsoft Defender's mpengine.dll. It runs a command line through the recovered normalizer/deobfuscator (FUN_1800a2500) and…",
-   "published": "2026-10-23T08:39:51Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
-  },
-  {
-   "id": "6f084559d703b49d",
-   "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-   "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August…",
-   "published": "2026-10-23T08:35:45Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "962b531106f2cc02",
-   "title": "11 Million Impacted by Capcom Data Breach",
-   "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek .",
-   "published": "2026-10-23T08:34:14Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "0515431e7464769e",
-   "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
-   "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’ appeared first on SecurityWeek .",
-   "published": "2026-10-23T08:25:06Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "8d39c401e746e3ca",
-   "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
-   "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek .",
-   "published": "2026-10-23T08:10:46Z",
-   "tags": [
-    "malware",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "76ce6885fc140392",
-   "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
-   "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek .",
-   "published": "2026-10-23T07:54:47Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "199bd0864fa35519",
-   "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-   "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks…",
-   "published": "2026-10-23T07:40:45Z",
-   "tags": [
-    "malware",
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "b20e5866aff235df",
-   "title": "[2610.30361] The Psychology of an AI Hacker",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd7iuu/261030361_the_psychology_of_an_ai_hacker/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T07:36:07Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "fcaeed9175fd46b6",
-   "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
-   "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016. The post Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016 appeared first on SecurityWeek .",
-   "published": "2026-10-23T06:39:29Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "37bc577e1acee11f",
-   "title": "The PingCAP TiDB Cloud Leaks - FulcrumSec",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd6elo/the_pingcap_tidb_cloud_leaks_fulcrumsec/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T06:28:23Z",
-   "tags": [
-    "threat-hunting",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "4a10e8e817102d69",
-   "title": "GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd66vw/gitlab_critical_patch_release_1951_1943_1936_1929/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T06:15:28Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "eff59fde946a2ae8",
-   "title": "eMudhra to Exit global SSL/TLS Certificate Business",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd63wd/emudhra_to_exit_global_ssltls_certificate_business/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T06:10:31Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "14b7577969a51669",
-   "title": "Dissecting Operation FlashHole, a complex attack by Lazarus",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd4wq2/dissecting_operation_flashhole_a_complex_attack/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T05:01:49Z",
-   "tags": [
-    "threat-hunting",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "3df2b2483ecced99",
-   "title": "New BlackX UEFI bootkit exploiting Baton Drop",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd4voi/new_blackx_uefi_bootkit_exploiting_baton_drop/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T05:00:22Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "49b90089e3e62185",
-   "title": "DarkCore: A Data-Theft RAT With a Session-Hijacking Browser",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd4v2c/darkcore_a_datatheft_rat_with_a_sessionhijacking/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T04:59:32Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
-  },
-  {
-   "id": "91c5a642516a3428",
-   "title": "2083191 - GoDaddy: Delayed Certificate Revocation",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd4u7f/2083191_godaddy_delayed_certificate_revocation/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T04:58:11Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "c102b12b046b2513",
-   "title": "Chrome Now Warns Before Insecure HTTP Connections",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd4tuj/chrome_now_warns_before_insecure_http_connections/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T04:57:34Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "741c6e97029d0edf",
-   "title": "Protecting NetScaler Management Access from PHP CVE-2026-109618 & CVE 2026-109619",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd4hog/protecting_netscaler_management_access_from_php/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T04:38:43Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "3db3455b4ae0ac7f",
-   "title": "【重要】[お名前.com デスクトップクラウド]第三者による不正アクセスに関するお詫びとお知らせ（2026年10月21日 4:00時点）｜[Important] Apology and Notice Regarding Unauthorized Access by a Third Party to Onamae.com Desktop Cloud (As of October 21, 2026,",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd4guk/重要お名前com/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T04:37:22Z",
-   "tags": [
-    "threat-hunting",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "d1a2db0a09232dea",
-   "title": "PHP2Shell Patch Uptake Tracker",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xd470o/php2shell_patch_uptake_tracker/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-23T04:22:24Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "b65cad206f500ab2",
-   "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
-   "link": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
-   "published": "2026-10-23T04:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
@@ -10117,7 +10007,7 @@
    "type": "news",
    "home": "https://www.schneier.com",
    "status": "ok",
-   "count": 9
+   "count": 8
   },
   {
    "name": "Microsoft Security Blog",
@@ -10182,7 +10072,7 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 8
+   "count": 9
   },
   {
    "name": "ESET WeLiveSecurity",
@@ -10211,7 +10101,7 @@
    "home": "https://news.sophos.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed?cat=647533221&mc-rss-cache-bypass=2026110506&mc-rss-cache-bypass=2026110506%3F"
+   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed"
   },
   {
    "name": "Malwarebytes Labs",
@@ -10259,16 +10149,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 25
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

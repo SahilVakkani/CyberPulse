@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:42:58Z",
+ "generated_at": "2026-11-07T05:02:25Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,34 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-06T23:42:49Z",
+   "published": "2026-11-07T05:02:20Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e115b44724e254be",
+   "title": "ARTEX abuse expands as cybercriminals target financial sector",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector appeared first on Microsoft Security…",
+   "published": "2026-11-07T02:44:34Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "ca1a9396bb6596ea",
+   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+   "published": "2026-11-07T00:00:55Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
    ]
   },
   {
@@ -9823,56 +9848,6 @@
     "vulnerabilities",
     "cloud-identity"
    ]
-  },
-  {
-   "id": "d87970bfcd179b8d",
-   "title": "PHP2Shell: observed exploitation attempts, 22–24 October 2026",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdzomw/php2shell_observed_exploitation_attempts_2224/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-24T04:54:31Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "6ef86e19661b85ff",
-   "title": "Defeating enforced SMB signing: a note",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdznl6/defeating_enforced_smb_signing_a_note/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-24T04:52:53Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "12176364c4db9ee2",
-   "title": "Signet: Mythic Code Signing Wrapper",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdzn6m/signet_mythic_code_signing_wrapper/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-24T04:52:15Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "05c0da0ca1d055ed",
-   "title": "brotli-checker: Claude Code and Codex skill for finding potentially vulnerable Brotli copies and guiding updates for CVE-2026-111497.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xdzmqm/brotlichecker_claude_code_and_codex_skill_for/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-24T04:51:31Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
@@ -10203,16 +10178,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 25
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T05:02:25Z",
+ "generated_at": "2026-11-07T11:52:55Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,70 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T05:02:20Z",
+   "published": "2026-11-07T11:52:48Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "1dbb32a3e5b4977a",
+   "title": "unlocking any car from X brand in most of the world",
+   "link": "https://www.reddit.com/r/netsec/comments/1xq3xin/unlocking_any_car_from_x_brand_in_most_of_the/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Mempodipper [link] [comments]",
+   "published": "2026-11-07T11:10:50Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "986edfc864db12c6",
+   "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+   "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
+   "published": "2026-11-07T10:16:23Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "167e26f3d167711b",
+   "title": "The Exploit Was the Bottleneck",
+   "link": "https://www.reddit.com/r/netsec/comments/1xq2ix1/the_exploit_was_the_bottleneck/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/kygyty [link] [comments]",
+   "published": "2026-11-07T09:38:30Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "67e46d8ffeb6e44b",
+   "title": "Reproducing the GhostMap APK crash loop on Android 16/17, plus an offline check for the ZIP parser mismatch",
+   "link": "https://www.reddit.com/r/netsec/comments/1xq1jwj/reproducing_the_ghostmap_apk_crash_loop_on/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/ImL1s [link] [comments]",
+   "published": "2026-11-07T08:34:20Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "804a43c3361e7807",
+   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+   "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word,…",
+   "published": "2026-11-07T06:44:17Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -661,7 +722,7 @@
    "link": "https://www.reddit.com/r/netsec/comments/1xp9n79/forwarded_without_question_how_web_frameworks/",
    "source": "Reddit r/netsec",
    "type": "community",
-   "summary": "Many common web frameworks like Spring and Ruby on Rails trust the Forwarded header by default, even though most proxies don't actually have any support for it. This makes apps vulnerable to request hostname or client IP address spoofing in the default configurations. I've been…",
+   "summary": "Many common web frameworks like Spring and Ruby on Rails trust the RFC 7239 Forwarded header by default, even though most proxies don't actually have any support for it. This makes apps vulnerable to request hostname or client IP address spoofing in the default configurations.…",
    "published": "2026-11-06T10:34:37Z",
    "tags": [
     "general"
@@ -9762,91 +9823,6 @@
    "published": "2026-10-24T14:17:32Z",
    "tags": [
     "vulnerabilities"
-   ]
-  },
-  {
-   "id": "a0a9e49aec28c38a",
-   "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-   "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows…",
-   "published": "2026-10-24T11:09:29Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "3a1a036ef73ae68c",
-   "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-   "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed…",
-   "published": "2026-10-24T11:03:33Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "290daeb32e7f6d1a",
-   "title": "Full source release: autonomous root chain for TCL 50C721 Android TV via CVE-2022-22706 (Mali GPU page-cache write)",
-   "link": "https://www.reddit.com/r/netsec/comments/1xe5oy7/full_source_release_autonomous_root_chain_for_tcl/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/amnioticboy [link] [comments]",
-   "published": "2026-10-24T10:57:59Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "afec56c7243a9162",
-   "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-   "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow…",
-   "published": "2026-10-24T10:36:33Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "94d51fe2d20419a9",
-   "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-   "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to…",
-   "published": "2026-10-24T09:04:24Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "888df6970a6736a6",
-   "title": "We used RCE on 3 million PCs to prevent a botnet",
-   "link": "https://www.reddit.com/r/netsec/comments/1xe25f5/we_used_rce_on_3_million_pcs_to_prevent_a_botnet/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/vaizor [link] [comments]",
-   "published": "2026-10-24T07:18:36Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "838b4b1ce2538127",
-   "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-   "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in…",
-   "published": "2026-10-24T06:25:57Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
    ]
   }
  ],

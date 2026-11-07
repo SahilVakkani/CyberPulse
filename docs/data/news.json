@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T11:52:55Z",
+ "generated_at": "2026-11-07T17:33:35Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,7 +117,31 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T11:52:48Z",
+   "published": "2026-11-07T17:33:29Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ded94754be202b29",
+   "title": "Hackers pull off $133 million French bank heist via service provider",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+   "published": "2026-11-07T15:25:35Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5a765cf499c2e694",
+   "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+   "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate…",
+   "published": "2026-11-07T14:10:19Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -9786,42 +9810,6 @@
    "published": "2026-10-24T17:50:14Z",
    "tags": [
     "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "687fdcc9c0ff776b",
-   "title": "How LLM-Based Penetration Testing Harnesses Work",
-   "link": "https://www.reddit.com/r/netsec/comments/1xee9z1/how_llmbased_penetration_testing_harnesses_work/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/utku1337 [link] [comments]",
-   "published": "2026-10-24T17:17:43Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "59ddb7e1ef5309ae",
-   "title": "Field Notes: Reconstructing an Attacker’s Workflow",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xedyke/field_notes_reconstructing_an_attackers_workflow/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-24T17:05:02Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "a6ce31709924c3c2",
-   "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-   "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-   "published": "2026-10-24T14:17:32Z",
-   "tags": [
     "vulnerabilities"
    ]
   }

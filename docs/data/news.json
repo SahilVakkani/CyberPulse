@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T01:10:14Z",
+ "generated_at": "2026-11-08T07:46:51Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,21 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T01:10:05Z",
+   "published": "2026-11-08T07:46:42Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "43914ed316f11eae",
+   "title": "ARTEX attack",
+   "link": "https://www.reddit.com/r/netsec/comments/1xqmhgk/artex_attack/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Has anyone heard of this? https://blog.gitguardian.com/the-agents-have-now-found-your-secrets-on-github-artex-is-abusing-public-secrets-right-now/ submitted by /u/Important_Market961 [link] [comments]",
+   "published": "2026-11-08T01:31:04Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -9733,55 +9745,6 @@
    "type": "community",
    "summary": "submitted by /u/digicat [link] [comments]",
    "published": "2026-10-25T09:19:39Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "896dec8261627f6a",
-   "title": "PHP2Shell exploitation observed: packet-to-process RCE evidence",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xew3kh/php2shell_exploitation_observed_packettoprocess/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T07:36:11Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "8a303bf5cd20dcbf",
-   "title": "Breaking the AWS MCP Python Sandbox",
-   "link": "https://www.reddit.com/r/netsec/comments/1xevj5i/breaking_the_aws_mcp_python_sandbox/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "https://xplo1t-sec.github.io/posts/breaking-the-aws-mcp-python-sandbox/ submitted by /u/sn1ped_u [link] [comments]",
-   "published": "2026-10-25T07:02:31Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "5d0e99bc982daef0",
-   "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-   "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the…",
-   "published": "2026-10-25T06:54:29Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "9443a77b66c76762",
-   "title": "low-int-cert-monitor: Monitor Certificate Transparency logs for certificates with trivially small EC private keys (the eMudhra weak-key class). P-256/384/521.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xetn1p/lowintcertmonitor_monitor_certificate/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T05:09:34Z",
    "tags": [
     "threat-hunting"
    ]

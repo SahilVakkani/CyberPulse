@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T19:22:56Z",
+ "generated_at": "2026-11-08T23:01:15Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,33 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T19:22:47Z",
+   "published": "2026-11-08T23:01:08Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "1c16ac98bb2410d9",
+   "title": "Dissecting WerFault",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xr5nmg/dissecting_werfault/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T18:42:25Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "0d1793f07d1236de",
+   "title": "[WorkOS] Update for October 30th, 2026 Data Security Incident",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xr57go/workos_update_for_october_30th_2026_data_security/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-08T18:23:52Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -183,6 +207,30 @@
    ]
   },
   {
+   "id": "d0ec78a9373d96c4",
+   "title": "Could have been a bad day for DHS.gov especially in this climate",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xqyt9i/could_have_been_a_bad_day_for_dhsgov_especially/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "The question is do you have a strong JML for your DNS records ? This is one contextual situation of many that I've witnessed hunting out expired domains from within content online, there's an open source tool buried in that post that might be useful for people if this concern…",
+   "published": "2026-11-08T13:47:35Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "7ac6ade2bfcd2c60",
+   "title": "Open-source tool that ranks AD fixes by how many users they cut off from Domain Admin, and flags the easy ones first (feedback wanted)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xqxs5z/opensource_tool_that_ranks_ad_fixes_by_how_many/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Hi all, I’m a pentester and I kept ending AD engagements with the same client question: “OK, but what do we fix first?” So I’ve been building HorusEye, a free MIT-licensed tool that works on data you already collect (SharpHound/BloodHound CE, Certipy, NetExec) and runs fully…",
+   "published": "2026-11-08T12:54:54Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "9c037607d0d59f31",
    "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
    "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
@@ -192,6 +240,178 @@
    "published": "2026-11-08T12:14:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "ddcfa0b14feed10a",
+   "title": "MCP Server and CLI for automating the Windows sandbox",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xquxpr/mcp_server_and_cli_for_automating_the_windows/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:57:47Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "9f036d944772f5cc",
+   "title": "Operation Snowball: Inside an Autonomous AI Intrusion Campaign",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xquwvo/operation_snowball_inside_an_autonomous_ai/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:56:10Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "df58df3a4d6fd072",
+   "title": "Ghost in the Script: Hidden Risks",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xquwep/ghost_in_the_script_hidden_risks/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:55:15Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "dd0896b78c952d8b",
+   "title": "We assess with high confidence that the sample is Arid Gopher, and therefore Arid Viper activity. The two campaigns share the victimology and naming habits.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xquvh4/we_assess_with_high_confidence_that_the_sample_is/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:53:32Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "96acc5382b85695b",
+   "title": "Three Foreign Nationals Arrested And Charged With Scheme To Use Super Intelligence To Defraud Companies Of $129 Million",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xquu7b/three_foreign_nationals_arrested_and_charged_with/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:51:04Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "dcd7950b056d3b2a",
+   "title": "SSHole (CVE-2026-123158) Activity 2026",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xqutx4/sshole_cve2026123158_activity_2026/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:50:30Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0c61d4e24c713551",
+   "title": "Shai-Hulud Descendant Surfaces in Malicious Ruby Gem That Steals Credentials and Poisons AI Tools",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xqut9r/shaihulud_descendant_surfaces_in_malicious_ruby/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:49:20Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "27a225d369c5a167",
+   "title": "GODDESS OF VICTORY: NIKKE - If you have launched the Windows PC launcher at least once since September 27, 15:41 (UTC+9), we ask that you perform a security check and take any necessary measures.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xqus6j/goddess_of_victory_nikke_if_you_have_launched_the/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:47:12Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "a82ad6f8178393c0",
+   "title": "Black October: Lessons From the Downstream Breaches",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xquqiv/black_october_lessons_from_the_downstream_breaches/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:43:58Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "18159472bc6521ee",
+   "title": "C3RB3R Ransomware Mass-Encrypting Internet-Exposed Synology NAS and Active Exploitation of Node2Shell (CVE-2026-111497)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xquqab/c3rb3r_ransomware_massencrypting_internetexposed/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:43:29Z",
+   "tags": [
+    "threat-hunting",
+    "ransomware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "c32a1437fc6966c3",
+   "title": "IT Security Incident at TUM",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xqunz3/it_security_incident_at_tum/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:39:03Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "34b8d97c25b3105a",
+   "title": "Plex2Shell: Check and Remediation FAQ for QNAP NAS Users",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xquniq/plex2shell_check_and_remediation_faq_for_qnap_nas/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:38:08Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "c770a7d252652066",
+   "title": "Tracking Lazarus Group TraderTraitor Infrastructure Through Certificates and Historical Records",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xqulyp/tracking_lazarus_group_tradertraitor/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:35:10Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "8abee2538fae9378",
+   "title": "Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xqulr6/coding_agents_copy_your_secrets_to_a_hidden_file/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-08T09:34:47Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -280,6 +500,18 @@
    ]
   },
   {
+   "id": "6a801a4de8d0e4ee",
+   "title": "CTO at NCSC Summary: week ending November 8th",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xq2gd0/cto_at_ncsc_summary_week_ending_november_8th/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-07T09:33:43Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "67e46d8ffeb6e44b",
    "title": "Reproducing the GhostMap APK crash loop on Android 16/17, plus an offline check for the ZIP parser mismatch",
    "link": "https://www.reddit.com/r/netsec/comments/1xq1jwj/reproducing_the_ghostmap_apk_crash_loop_on/",
@@ -292,6 +524,30 @@
    ]
   },
   {
+   "id": "e058c875cf34f81d",
+   "title": "Residential Proxies Detected on White House Network",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xq1enq/residential_proxies_detected_on_white_house/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-07T08:24:58Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "33b6885ceba72687",
+   "title": "The Tipping Point: When Cyber Attacks Stop Being Limited by People",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xq0sy7/the_tipping_point_when_cyber_attacks_stop_being/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-07T07:46:48Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "804a43c3361e7807",
    "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
    "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
@@ -301,6 +557,31 @@
    "published": "2026-11-07T06:44:17Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "1aad25f89f519587",
+   "title": "[2611.03774] What Malware Actually Does: An Empirical Analysis of Post-Infection Behavior Across Malware Families",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpziw8/261103774_what_malware_actually_does_an_empirical/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-07T06:27:25Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "5028f1d115a70369",
+   "title": "ARES: ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls, encrypted vault, and reporting.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpz74a/ares_ares_authorized_redteam_engagement/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-07T06:07:49Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -9573,19 +9854,6 @@
    "tags": [
     "threat-hunting"
    ]
-  },
-  {
-   "id": "0d143df9f9ea9cac",
-   "title": "wake-and-break: Wake and Break: a PSP exploit for AMD navi31 (RX 7900) that makes the card accept unsigned IP firmware. Not persistent: a cold power cycle restores stock.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfe91g/wakeandbreak_wake_and_break_a_psp_exploit_for_amd/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T21:23:23Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
@@ -9916,16 +10184,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 25
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

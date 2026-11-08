@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T07:46:51Z",
+ "generated_at": "2026-11-08T14:50:15Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,21 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T07:46:42Z",
+   "published": "2026-11-08T14:50:09Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9c037607d0d59f31",
+   "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+   "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .",
+   "published": "2026-11-08T12:14:00Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -9647,104 +9659,6 @@
    "type": "community",
    "summary": "submitted by /u/digicat [link] [comments]",
    "published": "2026-10-25T15:02:52Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "4d04cb2d5bc9d035",
-   "title": "WPSplinter - Broadcom’s legacy WPS Monitor implementation does not correctly constrain reassembled EAP-WPS fragments to the size of its destination buffer. A nearby attacker can reach the parser…",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2uhr/wpsplinter_broadcoms_legacy_wps_monitor/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T13:48:53Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "bd4ee371dac09dd9",
-   "title": "Analytics Story: PHP2Shell",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2ti8/analytics_story_php2shell/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T13:47:39Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "a3b265df5f9247d2",
-   "title": "php2shell-scanner: High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2qlz/php2shellscanner_high_fidelity_scanner_for/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T13:44:01Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "51482f28372a0db9",
-   "title": "High Fidelity Detection Mechanism for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2ptr/high_fidelity_detection_mechanism_for_php2shell/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T13:43:01Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "3c8dcd3405f4920a",
-   "title": "Seizing IP addresses without compromising registry neutrality",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2m1u/seizing_ip_addresses_without_compromising/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T13:38:22Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "e81e07da599d0b23",
-   "title": "Tailworm - \"The design choices of the open source tailscale and headscale software have created an environment ripe for risk\"",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xf2f04/tailworm_the_design_choices_of_the_open_source/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T13:29:36Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "e85723a0f6770849",
-   "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-   "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .",
-   "published": "2026-10-25T11:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a2bc8398cb705caa",
-   "title": "Add `--emudhra` option to mitmproxy",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xexs3f/add_emudhra_option_to_mitmproxy/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-25T09:19:39Z",
    "tags": [
     "threat-hunting"
    ]

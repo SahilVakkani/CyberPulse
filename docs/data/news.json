@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:33:12Z",
+ "generated_at": "2026-11-08T01:10:14Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,7 +117,19 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-07T21:33:06Z",
+   "published": "2026-11-08T01:10:05Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8ba77aca6c81ab0d",
+   "title": "I spent countless nights digging into PHP2Shell. Here's a deep dive into how it actually works, from memory to PHP internals to a real exploit.",
+   "link": "https://www.reddit.com/r/netsec/comments/1xqlw37/i_spent_countless_nights_digging_into_php2shell/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "When the PHP vulnerabilities were first announced, I spent a HUGE amount of time trying to figure out the logic behind them. As many others who tried investigating them probably noticed, there was barely any technical information available at the time. We had a few basic hints:…",
+   "published": "2026-11-08T01:00:49Z",
    "tags": [
     "vulnerabilities"
    ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T02:53:58Z",
+ "generated_at": "2026-11-09T11:01:00Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,119 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T02:53:49Z",
+   "published": "2026-11-09T11:00:53Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3c0c651efea81480",
+   "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+   "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek .",
+   "published": "2026-11-09T10:09:02Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "62af4291e17cf20f",
+   "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+   "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator…",
+   "published": "2026-11-09T10:01:21Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e8082cc54dfbdb4b",
+   "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+   "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and…",
+   "published": "2026-11-09T09:01:50Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "33c824e207021f77",
+   "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+   "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on SecurityWeek .",
+   "published": "2026-11-09T08:35:50Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4da17d4d6362a4aa",
+   "title": "A week in security (November 2 – November 8)",
+   "link": "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-2-november-8",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "A list of topics we covered in the week of November 2 to November 8 of 2026",
+   "published": "2026-11-09T08:01:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "a2c922a06d73cc00",
+   "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+   "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal…",
+   "published": "2026-11-09T07:05:48Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "df6a1e5a88d8a5b7",
+   "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+   "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or…",
+   "published": "2026-11-09T06:15:10Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "3d5dfb277e1d458f",
+   "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+   "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The…",
+   "published": "2026-11-09T06:05:24Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "33a8699ca81c1df1",
+   "title": "A Boolean PII Flag Is Not Enough",
+   "link": "https://www.reddit.com/r/netsec/comments/1xrht5t/a_boolean_pii_flag_is_not_enough/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/fagnerbrack [link] [comments]",
+   "published": "2026-11-09T04:00:51Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -3450,7 +3560,7 @@
   },
   {
    "id": "637c20fbb7376d2a",
-   "title": "A hidden backdoor put 1.3 million TV boxes to work for criminals",
+   "title": "A hidden backdoor put 1.3 million set-top boxes to work for criminals",
    "link": "https://www.malwarebytes.com/blog/mobile/2026/11/a-hidden-backdoor-put-1-3-million-tv-boxes-to-work-for-criminals",
    "source": "Malwarebytes Labs",
    "type": "vendor-research",
@@ -9635,237 +9745,6 @@
    "tags": [
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "4dd6d369bedf0b52",
-   "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-   "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-   "published": "2026-10-26T10:26:52Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "2a948c7de7f5e651",
-   "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
-   "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek .",
-   "published": "2026-10-26T10:21:57Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "94eacc790be34625",
-   "title": "Context Bombs: Making attacking agents pay",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfsnm8/context_bombs_making_attacking_agents_pay/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/tracebit [link] [comments]",
-   "published": "2026-10-26T10:03:31Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "8474e0cfd37a9b48",
-   "title": "Deploying AI agents securely: how Kaspersky products mitigate AI threats",
-   "link": "https://securelist.com/tr/how-to-secure-ai-agents/121444/",
-   "source": "Securelist (Kaspersky)",
-   "type": "vendor-research",
-   "summary": "We look at best practices for deploying AI tools securely in corporate environments, with Kaspersky Security Center and Kaspersky Endpoint Security as examples. We also cover ways that EDR and TIP can detect AI agents.",
-   "published": "2026-10-26T10:00:18Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "275e6f3b55aff713",
-   "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-   "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who…",
-   "published": "2026-10-26T09:54:02Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "2a670f82d34df7a7",
-   "title": "Context Bombs: Making attacking agents pay",
-   "link": "https://www.reddit.com/r/netsec/comments/1xfs8xr/context_bombs_making_attacking_agents_pay/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/tracebit [link] [comments]",
-   "published": "2026-10-26T09:39:08Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "47b059e57c0979f9",
-   "title": "Looking for a Language [Guest Diary], (Wed, Oct 21st)",
-   "link": "https://isc.sans.edu/diary/rss/33442",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]",
-   "published": "2026-10-26T09:38:03Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "fbd9cb2b4455b922",
-   "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-   "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-   "published": "2026-10-26T09:19:57Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "4c6c7b2ea9daef94",
-   "title": "Mythos 5 Ignored Real-World Harm in July Attack",
-   "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .",
-   "published": "2026-10-26T09:10:03Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "8f5ec81fe424c1dc",
-   "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) - \"We are unable to confirm that initial access is associated with the specific PHP2Shell CVEs.…",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfr8wa/threat_brief_critical_vulnerabilities_in_php/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-26T08:37:04Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "35a2887f86531272",
-   "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-   "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed…",
-   "published": "2026-10-26T08:35:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "89524f7c95941300",
-   "title": "CYFIRMA Threat Advisory: Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfqnjn/cyfirma_threat_advisory_suspected_dprk_campaign/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-26T07:59:33Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "cdd34aa013f6f8be",
-   "title": "UAC-0246 Hackers Masquerade as Tax Authorities and Banks to Compromise Devices",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfqn66/uac0246_hackers_masquerade_as_tax_authorities_and/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-26T07:58:53Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "421545174ee02f8a",
-   "title": "ABC wipes staff devices exposed to new, sophisticated cyber attack",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfqkou/abc_wipes_staff_devices_exposed_to_new/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-26T07:54:11Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "8e95a20d61e45dbc",
-   "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-   "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise…",
-   "published": "2026-10-26T07:49:46Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "15553f8c132ee3f5",
-   "title": "A week in security (October 19 – October 25)",
-   "link": "https://www.malwarebytes.com/blog/news/2026/10/a-week-in-security-october-19-october-25",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "A list of topics we covered in the week of October 19 to October 25 of 2026",
-   "published": "2026-10-26T07:00:00Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "8239096a100ab76b",
-   "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-   "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and…",
-   "published": "2026-10-26T06:03:48Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "30017c584fa8a9d0",
-   "title": "CVE-2026-114625: VeloCloud Orchestrator privilege escalation exploited in the wild. Read-only portal accounts can reach local superuser.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xfobo2/cve2026114625_velocloud_orchestrator_privilege/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "Heads up for anyone running on-prem VeloCloud Orchestrator. CVE-2026-114625 (CVSS 9.9) lets an authenticated user with only Enterprise Read Only portal access escalate to local superuser on the VCO host. Arista reports active exploitation. What’s known so far: → Only on-prem…",
-   "published": "2026-10-26T05:30:57Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "a9d5557b92f4ed3f",
-   "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
-   "link": "https://isc.sans.edu/diary/rss/33456",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-10-26T03:30:12Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -10119,7 +9998,7 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 9
+   "count": 8
   },
   {
    "name": "ESET WeLiveSecurity",

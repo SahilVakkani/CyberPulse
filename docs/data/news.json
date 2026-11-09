@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T23:01:15Z",
+ "generated_at": "2026-11-09T02:53:58Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,33 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-08T23:01:08Z",
+   "published": "2026-11-09T02:53:49Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "95a81488e3cdcea6",
+   "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
+   "link": "https://isc.sans.edu/diary/rss/33500",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-09T02:05:10Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "26e0882f4427bc8d",
+   "title": "17 offensive AI packages defenders should watch, starting with PentAGI and Cairn",
+   "link": "https://www.reddit.com/r/netsec/comments/1xrdgba/17_offensive_ai_packages_defenders_should_watch/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/ryanmerket [link] [comments]",
+   "published": "2026-11-09T00:20:58Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -9842,18 +9866,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "c1cd946841703855",
-   "title": "Kernel eviction notice: What wesp.sys reveals about the Windows Endpoint Security Platform",
-   "link": "https://www.elastic.co/security-labs/blog/windows-endpoint-security-platform-wesp",
-   "source": "Elastic Security Labs",
-   "type": "vendor-research",
-   "summary": "Microsoft wants EDR out of the Windows kernel, and the preview binaries show wesp.sys telling a user-mode client that a process is starting, with nothing in its imports to let that client block it.",
-   "published": "2026-10-26T00:00:00Z",
-   "tags": [
-    "threat-hunting"
-   ]
   }
  ],
  "kev": [
@@ -10128,7 +10140,7 @@
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 3
+   "count": 2
   },
   {
    "name": "Sophos News",
@@ -10184,16 +10196,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 25
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

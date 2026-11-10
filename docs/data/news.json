@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T21:34:27Z",
+ "generated_at": "2026-11-10T03:58:41Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,9 +117,57 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-09T21:34:18Z",
+   "published": "2026-11-10T03:58:34Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "231ca9f8e4898f73",
+   "title": "ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)",
+   "link": "https://isc.sans.edu/diary/rss/33504",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-10T02:00:02Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "48d9ef3d98d6483b",
+   "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+   "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+   "published": "2026-11-09T23:52:12Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "fb65eccd7583e9db",
+   "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+   "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+   "published": "2026-11-09T22:09:33Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "907718f8d43040ed",
+   "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
+   "published": "2026-11-09T21:38:20Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -9666,90 +9714,6 @@
    "tags": [
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "38b3d1ce78375de6",
-   "title": "CVE Intel: open-source CVE triage tool.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgiexp/cve_intel_opensource_cve_triage_tool/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "I posted about this application a few weeks ago and I got really good advice from this reddit cybersecurity community. Thank you! Since then, I have made some progress. Those who don't know CVE Intel is an open-source tool that pulls CVE data from NVD, CISA KEV, EPSS, OSV and…",
-   "published": "2026-10-27T03:52:48Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "34ec0f91485adfd7",
-   "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
-   "link": "https://isc.sans.edu/diary/rss/33462",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-10-27T02:55:13Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "39fb6abcb30e3011",
-   "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-   "link": "https://isc.sans.edu/diary/rss/33458",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
-   "published": "2026-10-27T02:09:55Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "7f986c2781175381",
-   "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
-   "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics appeared first on…",
-   "published": "2026-10-27T01:30:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "837fe1cef585dc8b",
-   "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
-   "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Measuring artificial intelligence model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
-   "published": "2026-10-27T00:26:50Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "627cc70bbf65badd",
-   "title": "University of Copenhagen data breach exposes data of 525,000 people",
-   "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-   "published": "2026-10-26T22:20:36Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "5d6c647af36336af",
-   "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
-   "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
-   "published": "2026-10-26T21:44:33Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -10032,7 +9996,7 @@
    "home": "https://news.sophos.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed"
+   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed?cat=647533221&mc-rss-cache-bypass=2026110906&mc-rss-cache-bypass=2026110906%3F"
   },
   {
    "name": "Malwarebytes Labs",

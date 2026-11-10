@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T03:58:41Z",
+ "generated_at": "2026-11-10T12:28:37Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,7 +117,287 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T03:58:34Z",
+   "published": "2026-11-10T12:28:27Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "037628398b09980d",
+   "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
+   "link": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek .",
+   "published": "2026-11-10T12:17:13Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9af5f29020c4c27d",
+   "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+   "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+   "published": "2026-11-10T12:07:03Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "903ec867ebe5cc11",
+   "title": "New OpenSSH Vulnerability",
+   "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an…",
+   "published": "2026-11-10T12:02:38Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3badf33b9e63c916",
+   "title": "Beyond the Alert: The Case for Rich Network Data",
+   "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction…",
+   "published": "2026-11-10T11:38:13Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d8cc93c574bfc1da",
+   "title": "Electron, we have a problem",
+   "link": "https://www.reddit.com/r/netsec/comments/1xskopy/electron_we_have_a_problem/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "Many Electron apps auto-update without verifying signatures. Many also still trust the compromised eMudhra certificates. Together, that lets an attacker on your network install malware on your machine. I've compiled a list of notable Electron apps, installed them in a lab, and…",
+   "published": "2026-11-10T11:38:05Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "ba7507c6f20e8122",
+   "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+   "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of…",
+   "published": "2026-11-10T10:16:51Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0e899e1e6c12f277",
+   "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+   "published": "2026-11-10T10:10:20Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "7d35c70e67083122",
+   "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+   "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an…",
+   "published": "2026-11-10T10:07:29Z",
+   "tags": [
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "8791ad63d4b7382e",
+   "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+   "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+   "published": "2026-11-10T10:04:32Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "ce0b470d4dea056e",
+   "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+   "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the…",
+   "published": "2026-11-10T10:02:40Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "1f6bc1af5305b1b9",
+   "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+   "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek .",
+   "published": "2026-11-10T09:56:28Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "e61330c9778509bd",
+   "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+   "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
+   "published": "2026-11-10T09:42:27Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e56a3763b149d514",
+   "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+   "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and…",
+   "published": "2026-11-10T09:08:20Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7e1f9b33c691b691",
+   "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+   "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+   "published": "2026-11-10T08:51:25Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0e6f77f0820cbf5f",
+   "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+   "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software…",
+   "published": "2026-11-10T08:16:14Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8ccc41c61f1c0057",
+   "title": "IT threat evolution in Q3 2026. Non-mobile statistics",
+   "link": "https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "Key trends and statistics on malware targeting Windows and macOS computers and Internet of Things (IoT) devices in Q3 2026.",
+   "published": "2026-11-10T08:00:37Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "1f4ed50ff466708f",
+   "title": "IT threat evolution in Q3 2026. Mobile statistics",
+   "link": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "Q3 2026 mobile threat statistics for Android malware, adware, and unwanted software, plus the most notable malware found during the quarter.",
+   "published": "2026-11-10T08:00:17Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "7d2482c88528a363",
+   "title": "Fireworks AI discloses new breach after cloud provider hack",
+   "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+   "published": "2026-11-10T07:49:58Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "694928bcf42da269",
+   "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+   "link": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack The post France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators appeared first on SecurityWeek .",
+   "published": "2026-11-10T07:35:05Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9844bc61915e12db",
+   "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+   "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free…",
+   "published": "2026-11-10T06:52:54Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "329980cc6fad8b73",
+   "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+   "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are…",
+   "published": "2026-11-10T06:44:36Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "b579a343e6b64bab",
+   "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+   "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.…",
+   "published": "2026-11-10T06:31:42Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "61f253ac4386a7fa",
+   "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+   "link": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks. The post Chrome Update Patches Exploited XML Zero-Day, Eighth This Year appeared first on SecurityWeek .",
+   "published": "2026-11-10T06:12:24Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -9314,406 +9594,6 @@
     "malware",
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "777d6b947110dd7f",
-   "title": "The web’s having a rough week. Here’s how to browse safely",
-   "link": "https://www.malwarebytes.com/blog/news/2026/10/the-webs-having-a-rough-week-heres-how-to-browse-safely",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "PHP and Node.js flaws, hacked sites, fake updates, and rogue certificates can put you at risk even on trusted websites. Here’s how to stay safe.",
-   "published": "2026-10-27T12:22:37Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "a6006728be28909d",
-   "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-   "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in…",
-   "published": "2026-10-27T12:09:50Z",
-   "tags": [
-    "malware",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "928eba252ebe8ce3",
-   "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
-   "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The company says it reacted to an issue affecting some of its systems, including DreamHost webmail. The post Unexplained DreamHost Incident Prompts Email, FTP Password Resets appeared first on SecurityWeek .",
-   "published": "2026-10-27T12:02:06Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "fde042953d304e71",
-   "title": "An insecure neighbor: how a vulnerability chain led to an isolation bypass in cloud infrastructure",
-   "link": "https://securelist.com/cloud-infrastructure-isolation-bypass/121609/",
-   "source": "Securelist (Kaspersky)",
-   "type": "vendor-research",
-   "summary": "A Kaspersky expert presents a cloud isolation bypass case honored at Russian Pentest Award 2026. Learn how vulnerabilities in Kubernetes, Konnectivity, and the overlay network lead to RCE and compromise of other tenants' services.",
-   "published": "2026-10-27T12:00:19Z",
-   "tags": [
-    "malware",
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "dc39db0185706a70",
-   "title": "From industry concern to practical action: the value of working with regulators",
-   "link": "https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators",
-   "source": "NCSC UK",
-   "type": "government",
-   "summary": "How industry, the NCSC and the FCA worked together to help organisations share information while protecting market integrity",
-   "published": "2026-10-27T12:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "9cfdf1956af8dc08",
-   "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information…",
-   "published": "2026-10-27T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "531d14aa47c04aa3",
-   "title": "EPICS Base",
-   "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS…",
-   "published": "2026-10-27T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "c99aa3fd55df8bb9",
-   "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
-   "link": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones. The post iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18 appeared first on SecurityWeek .",
-   "published": "2026-10-27T11:49:57Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "3fba9192c9254a71",
-   "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-   "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a…",
-   "published": "2026-10-27T11:46:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "1ce9ccf10a03fa0a",
-   "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-   "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond…",
-   "published": "2026-10-27T11:32:46Z",
-   "tags": [
-    "phishing"
-   ]
-  },
-  {
-   "id": "cf5c346fcefd62e8",
-   "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-   "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to…",
-   "published": "2026-10-27T11:32:31Z",
-   "tags": [
-    "malware",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "e4968dee36081988",
-   "title": "From Arbitrary File Read to Shell: Yet Another RCE in Telerik",
-   "link": "https://www.reddit.com/r/netsec/comments/1xgpz1q/from_arbitrary_file_read_to_shell_yet_another_rce/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/Gallus [link] [comments]",
-   "published": "2026-10-27T11:28:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6c05e107bb76f251",
-   "title": "Hiding Capabilities in AI Models",
-   "link": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this…",
-   "published": "2026-10-27T11:01:26Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "71d1cf22ea0ac401",
-   "title": "Samsung TVs without mics may listen through soundbars, researcher says",
-   "link": "https://www.malwarebytes.com/blog/privacy/2026/10/samsung-tvs-without-mics-may-listen-through-soundbars-researcher-says",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "TVs without a built-in microphone may use a connected soundbar or Bluetooth microphone to listen to the room.",
-   "published": "2026-10-27T10:44:40Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "60e8b957385d011f",
-   "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
-   "link": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses. The post Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI appeared first on SecurityWeek .",
-   "published": "2026-10-27T10:44:20Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "18137863896126e0",
-   "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-   "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-   "published": "2026-10-27T10:36:12Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "177d2de823fdddf4",
-   "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
-   "link": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us About the New Normal appeared first on SecurityWeek .",
-   "published": "2026-10-27T10:02:24Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "aa36d77dd524cea8",
-   "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
-   "link": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "What does it mean to be \"blue collar\" for the blue team? Ryan Fetterman discusses the realities of detection engineering, and shares his philosophy on building a career in security without burning out.",
-   "published": "2026-10-27T10:00:21Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "b7087025de0e153d",
-   "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
-   "link": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover appeared first on SecurityWeek .",
-   "published": "2026-10-27T09:44:50Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "1da67faa3c4aabfe",
-   "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-   "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and…",
-   "published": "2026-10-27T09:33:06Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "4b38edd6123c947d",
-   "title": "Energy giant ENGIE discloses data breach affecting customers",
-   "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-   "published": "2026-10-27T09:25:50Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "9a837322eb6fa1d2",
-   "title": "Cybercrime ring busted over AI-powered data theft targeting hospitals, businesses",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgna4q/cybercrime_ring_busted_over_aipowered_data_theft/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-27T08:51:29Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "232430175eeaf3f1",
-   "title": "unthemidator: An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgn8so/unthemidator_an_automated_themida_code/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-27T08:48:57Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "e66ec9132bdd66bc",
-   "title": "Generic.Detection.Yara.PHP2Shell for Velociraptor",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgn8bu/genericdetectionyaraphp2shell_for_velociraptor/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-27T08:47:58Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "863a21fb55d45c4e",
-   "title": "A community translation can run attacker-chosen code in an exported Godot game",
-   "link": "https://www.reddit.com/r/netsec/comments/1xgn2l1/a_community_translation_can_run_attackerchosen/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/bitbutter [link] [comments]",
-   "published": "2026-10-27T08:37:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ea5496feaca5e846",
-   "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-   "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service…",
-   "published": "2026-10-27T08:22:43Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "4537c20242cb8c53",
-   "title": "Kernel eviction notice: What wesp.sys reveals about the Windows Endpoint Security Platform",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xgmuey/kernel_eviction_notice_what_wespsys_reveals_about/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-27T08:22:20Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "77d8f32442c0c1ee",
-   "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-   "published": "2026-10-27T08:20:54Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "46ee8b886dbe8aca",
-   "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
-   "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek .",
-   "published": "2026-10-27T07:14:27Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "843f0669e299ae9e",
-   "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-   "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-   "source": "Google Project Zero",
-   "type": "vendor-research",
-   "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep…",
-   "published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "ad878331961700a5",
-   "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-   "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration…",
-   "published": "2026-10-27T06:34:47Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "fcf73e5bf1ff649d",
-   "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
-   "link": "https://www.reddit.com/r/netsec/comments/1xgjs4s/choose_your_backend_three_tls_bugs_in_goahead/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/LordAlfredo [link] [comments]",
-   "published": "2026-10-27T05:07:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "968629f0ead301ae",
-   "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-   "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring…",
-   "published": "2026-10-27T04:37:59Z",
-   "tags": [
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
@@ -9932,7 +9812,7 @@
    "type": "vendor-research",
    "home": "https://googleprojectzero.blogspot.com",
    "status": "ok",
-   "count": 1
+   "count": 0
   },
   {
    "name": "CrowdStrike Blog",
@@ -9953,7 +9833,7 @@
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 7
+   "count": 6
   },
   {
    "name": "SentinelOne Labs",
@@ -9967,7 +9847,7 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 8
+   "count": 9
   },
   {
    "name": "ESET WeLiveSecurity",
@@ -9996,7 +9876,7 @@
    "home": "https://news.sophos.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed?cat=647533221&mc-rss-cache-bypass=2026110906&mc-rss-cache-bypass=2026110906%3F"
+   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed"
   },
   {
    "name": "Malwarebytes Labs",
@@ -10024,14 +9904,14 @@
    "type": "government",
    "home": "https://www.cisa.gov",
    "status": "ok",
-   "count": 16
+   "count": 13
   },
   {
    "name": "NCSC UK",
    "type": "government",
    "home": "https://www.ncsc.gov.uk",
    "status": "ok",
-   "count": 3
+   "count": 2
   },
   {
    "name": "SANS Internet Storm Center",

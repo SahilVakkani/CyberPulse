@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T15:55:05Z",
+ "generated_at": "2026-11-11T22:31:40Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "cloud-identity"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,7 +117,178 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T15:54:59Z",
+   "published": "2026-11-11T22:31:34Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "bcbd3a3cc80301d2",
+   "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+   "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
+   "published": "2026-11-11T21:44:04Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "a4a34375ee4e181d",
+   "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+   "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+   "published": "2026-11-11T21:27:40Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c5c797f8dc8751d8",
+   "title": "AI Raises the Stakes for Cyber Resilience",
+   "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
+   "published": "2026-11-11T21:20:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4555dea146472ff7",
+   "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+   "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+   "published": "2026-11-11T20:54:20Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e2b7ebdc245e2a53",
+   "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+   "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover.",
+   "published": "2026-11-11T20:05:18Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "3c5e2d75ed5c2a87",
+   "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how threat actors are weaponizing GSocket for…",
+   "published": "2026-11-11T19:49:57Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "035672de8061b251",
+   "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
+   "link": "https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "Vanderbilt University is restoring campus technology, but has not confirmed the attackers’ claims of stolen student and employee data.",
+   "published": "2026-11-11T18:29:01Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "6da26adf46a9e43c",
+   "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
+   "link": "https://isc.sans.edu/diary/rss/33508",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.",
+   "published": "2026-11-11T18:28:43Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8cdc4a0f74c83bb2",
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "source": "Krebs on Security",
+   "type": "news",
+   "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a…",
+   "published": "2026-11-11T18:06:01Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "d62040292e654f68",
+   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+   "link": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+   "source": "The Record",
+   "type": "news",
+   "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
+   "published": "2026-11-11T16:57:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e564f8c523137479",
+   "title": "Lessons from 59 Linux Kernel Bug Reports",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the…",
+   "published": "2026-11-11T16:55:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f9a315b088957672",
+   "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
+   "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 Day 2 – Join…",
+   "published": "2026-11-11T16:29:42Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4c32248b415f7e41",
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+   "published": "2026-11-11T16:24:18Z",
+   "tags": [
+    "ransomware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "8b35f69eac704b22",
+   "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+   "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper…",
+   "published": "2026-11-11T16:12:46Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -128,10 +299,22 @@
    "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
    "source": "SecurityWeek",
    "type": "news",
-   "summary": "The authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .",
+   "summary": "A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .",
    "published": "2026-11-11T15:42:47Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "63cbf25606a5b49a",
+   "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+   "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed…",
+   "published": "2026-11-11T15:34:27Z",
+   "tags": [
+    "cloud-identity"
    ]
   },
   {
@@ -197,6 +380,18 @@
    ]
   },
   {
+   "id": "8b20203d4372d618",
+   "title": "Defender’s hidden flight recorder: decrypting mpenginedb.db",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xtjb9a/defenders_hidden_flight_recorder_decrypting/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/radkawar [link] [comments]",
+   "published": "2026-11-11T14:35:28Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "fbdada287a14a18d",
    "title": "ScriptBlock Smuggling - AMSI Evasion",
    "link": "https://www.reddit.com/r/netsec/comments/1xtj92s/scriptblock_smuggling_amsi_evasion/",
@@ -218,6 +413,19 @@
    "published": "2026-11-11T14:12:37Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "fadeddcaa58da487",
+   "title": "New Kimsuki (APT-43) active infrastructure and campaign discovered",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xtir00/new_kimsuki_apt43_active_infrastructure_and/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Stormshield's Cyber Threat Intelligence team has uncovered the Trigram campaign, targeting the AI, blockchain, and logistics sectors across Europe and the United States. The Bait: Threat actors impersonate 50 companies using fake job offers, invitations, and package tracking…",
+   "published": "2026-11-11T14:12:06Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
    ]
   },
   {
@@ -538,6 +746,18 @@
    ]
   },
   {
+   "id": "020f6ea96f547522",
+   "title": "ENISA reveals the State of Cybersecurity in the Union",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xtc3vm/enisa_reveals_the_state_of_cybersecurity_in_the/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T08:01:43Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "890bd5d68a0ae55b",
    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
    "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
@@ -583,6 +803,220 @@
    "published": "2026-11-11T06:04:02Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "b501ef37afcfe0e5",
+   "title": "Beyond ValleyRAT: inside a China-nexus Silver Fox operation",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xta09j/beyond_valleyrat_inside_a_chinanexus_silver_fox/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:55:35Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "ec44145366335d46",
+   "title": "2083449 - eMudhra: Private key compromise of Intermediate Certificates - Full Incident Report",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9yw9/2083449_emudhra_private_key_compromise_of/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:53:24Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "e56a9cc6a92fe106",
+   "title": "CVE-2026-123158_sshole_lab: Secure-coding laboratory: Docker reproduction of CVE-2026-123158 (sshole)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9wkg/cve2026123158_sshole_lab_securecoding_laboratory/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:49:41Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9df339bd7561f085",
+   "title": "Quick-Shift: Crapy Lnk Files Alter to dump your NTLM hashes to your responder listener upon user interaction",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9ved/quickshift_crapy_lnk_files_alter_to_dump_your/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:47:49Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "b3af526cd2f6bc3c",
+   "title": "Tokyo Police Arrest Chinese National Using SMS Blaster to Scam Tourists",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9tvf/tokyo_police_arrest_chinese_national_using_sms/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:45:26Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "5eff006e859e0a87",
+   "title": "Cold Chain Attack: Unpatched Danfoss Controllers Exploited",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9te5/cold_chain_attack_unpatched_danfoss_controllers/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:44:39Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e491c7db05d7cb60",
+   "title": "Multi-Architecture Linux Botnet: Divergent Scanners and DDoS Control",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9s9z/multiarchitecture_linux_botnet_divergent_scanners/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:42:50Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "e6eee0e812b34b78",
+   "title": "Identifying Yutek-NN Personnel Linked to Past Cyber Campaigns Serving Russian State Interests",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9rgx/identifying_yuteknn_personnel_linked_to_past/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:41:32Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "cef345e047670302",
+   "title": "Turla CerealLoader-Style Custom Mixed-Mode DLL POC",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9qym/turla_cerealloaderstyle_custom_mixedmode_dll_poc/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:40:45Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "4d2497263aec2c6a",
+   "title": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9q1s/ghostframe_a_new_esxi_implant_linked_to_settra/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:39:17Z",
+   "tags": [
+    "threat-hunting",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "0e496cb639f23b23",
+   "title": "インシデント調査報告書チェックリスト -Incident Investigation Report Checklist",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9po8/インシデント調査報告書チェックリスト_incident_investigation_report/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:38:39Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "6d55e931bedc0b1a",
+   "title": "Office Party: Vulnerability in Anthropic's Office Skills",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9mut/office_party_vulnerability_in_anthropics_office/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:34:27Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "998a54768b22d765",
+   "title": "Pre-Authentication Authorization Bypass and Command Injection Vulnerabilities in Certain Barracuda Products",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9mij/preauthentication_authorization_bypass_and/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:33:56Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8ade3fceb09d6d09",
+   "title": "Microsoft Outlook Spoofing Vulnerability",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9liz/microsoft_outlook_spoofing_vulnerability/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:32:23Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "86fe22b056b8a343",
+   "title": "LAST HEIST: New APT-C-36 infection wave in LATAM",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9jtg/last_heist_new_aptc36_infection_wave_in_latam/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:29:41Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "6c16d6b77d5bb6de",
+   "title": "Not All That Glitters Is Gold: Tracking CopperDragon’s Sparrow Framework Around the Globe",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9igd/not_all_that_glitters_is_gold_tracking/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:27:30Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "25afb57e3c10e06f",
+   "title": "BluePhishing: Initial Access via Third-Party Agent Blueprint Consent",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xt9i5a/bluephishing_initial_access_via_thirdparty_agent/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-11T05:27:00Z",
+   "tags": [
+    "threat-hunting",
+    "phishing"
    ]
   },
   {
@@ -755,6 +1189,18 @@
    ]
   },
   {
+   "id": "9c319be73b0aee05",
+   "title": "Exchange for breakfast: Turla’s Cereal tricks are not for kids",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xsxvne/exchange_for_breakfast_turlas_cereal_tricks_are/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-10T20:34:06Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "d6fe2bb7d3316c8f",
    "title": "How to Assess OT Incident Response Preparedness",
    "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
@@ -842,18 +1288,6 @@
    ]
   },
   {
-   "id": "6da26adf46a9e43c",
-   "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33508",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.",
-   "published": "2026-11-10T19:09:32Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
    "id": "50eb1dccf495275b",
    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
@@ -922,6 +1356,19 @@
    "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America,…",
    "published": "2026-11-10T17:43:23Z",
    "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "6c1ec1557b89dcea",
+   "title": "KongTuke ClickFix comes for a Canadian treasure: Canada Dry",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xssqyr/kongtuke_clickfix_comes_for_a_canadian_treasure/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "On 10 November 2026 four Canadian drinks sites from the same parent company were carrying KongTuke: canadadry[.]ca, mottsclamato[.]ca, drinknestea[.]ca and hydratewithcore[.]com. Three of them serve the loader from `/asset-cache/fjs` on their own domain. A planted WordPress…",
+   "published": "2026-11-10T17:19:25Z",
+   "tags": [
+    "threat-hunting",
     "malware"
    ]
   },
@@ -1070,18 +1517,6 @@
    "published": "2026-11-10T15:01:11Z",
    "tags": [
     "ransomware"
-   ]
-  },
-  {
-   "id": "f9a315b088957672",
-   "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
-   "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 – Join Global…",
-   "published": "2026-11-10T15:00:00Z",
-   "tags": [
-    "general"
    ]
   },
   {
@@ -1507,6 +1942,18 @@
    "published": "2026-11-10T06:31:42Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "906b4f7f85aa9283",
+   "title": "velociraptor/artifacts: Installs and runs Sysinternals Autoruns for Linux to enumerate autostart and persistence mechanisms.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xsfrog/velociraptorartifacts_installs_and_runs/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-10T06:29:05Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -9314,238 +9761,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "a4a98e0e7ba86643",
-   "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
-   "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorized access to affected systems to deploy KeyDrift.",
-   "published": "2026-10-28T21:32:02Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "66d728b46d6b27f3",
-   "title": "Turning the Valve - Exploiting RCE and LPE in the Steam Platform",
-   "link": "https://www.reddit.com/r/netsec/comments/1xi11fq/turning_the_valve_exploiting_rce_and_lpe_in_the/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/FILLABUSTA [link] [comments]",
-   "published": "2026-10-28T21:24:39Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "bf65784fd277bccf",
-   "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
-   "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
-   "source": "The Record",
-   "type": "news",
-   "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
-   "published": "2026-10-28T20:50:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6369b7f8877cd3df",
-   "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-   "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-   "published": "2026-10-28T20:47:22Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6297f1390dfad249",
-   "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
-   "link": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
-   "published": "2026-10-28T20:33:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "89379326868d8969",
-   "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
-   "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-   "published": "2026-10-28T19:39:00Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "c1e23c8d3f17f215",
-   "title": "An attacker can crash a Godot game server using DTLS with an unauthenticated UDP datagram",
-   "link": "https://www.reddit.com/r/netsec/comments/1xhxfh0/an_attacker_can_crash_a_godot_game_server_using/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/bitbutter [link] [comments]",
-   "published": "2026-10-28T19:09:42Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d9b49b7f0de254da",
-   "title": "Discord to let search engines index public server messages",
-   "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-   "published": "2026-10-28T18:44:16Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "10e92bd49867d2da",
-   "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-   "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating…",
-   "published": "2026-10-28T18:08:33Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "d949b1e38983bf5c",
-   "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
-   "link": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.",
-   "published": "2026-10-28T18:02:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "682371bfbe60c494",
-   "title": "Unwrapping Retail Peak Season Cyber Threats",
-   "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 .",
-   "published": "2026-10-28T18:00:10Z",
-   "tags": [
-    "threat-actors",
-    "ransomware"
-   ]
-  },
-  {
-   "id": "22278c0bc2499d51",
-   "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
-   "link": "https://therecord.media/north-korea-russia-sanctions",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.",
-   "published": "2026-10-28T17:45:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b057f3381d273763",
-   "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-   "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with…",
-   "published": "2026-10-28T17:08:09Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "516ab6192d2090b0",
-   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-   "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-   "published": "2026-10-28T16:45:47Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ddb9d5f06fc0baa9",
-   "title": "Moldova investigates possible foreign involvement in major government cyberattack",
-   "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports.",
-   "published": "2026-10-28T16:37:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "bce30872ee07ee09",
-   "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-   "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the…",
-   "published": "2026-10-28T16:23:34Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "eb73651e36eef1c5",
-   "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-   "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was…",
-   "published": "2026-10-28T16:02:45Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "6e5b341998e91733",
-   "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-   "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-   "published": "2026-10-28T16:00:00Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "02f39348974c3f63",
-   "title": "The CISO’s evolving role: Protecting and defending in the agentic era",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The…",
-   "published": "2026-10-28T16:00:00Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -9706,7 +9921,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 3
+   "count": 4
   },
   {
    "name": "SecurityWeek",
@@ -9778,14 +9993,14 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "Cisco Talos",
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 7
+   "count": 6
   },
   {
    "name": "SentinelOne Labs",
@@ -9876,16 +10091,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 25
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

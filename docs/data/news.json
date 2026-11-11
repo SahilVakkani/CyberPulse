@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T19:57:48Z",
+ "generated_at": "2026-11-11T00:32:32Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
    "tags": [
     "cloud-identity"
    ]
@@ -117,7 +117,165 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-10T19:57:38Z",
+   "published": "2026-11-11T00:32:28Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f91527c7bf888616",
+   "title": "Detecting sleeper agents hiding in AI model neurons",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which…",
+   "published": "2026-11-10T23:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "95f883361cdc02d1",
+   "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+   "published": "2026-11-10T22:26:51Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "549a822a72f8ad8c",
+   "title": "Supabase Security findings why RLS is only 25% of the issues",
+   "link": "https://www.reddit.com/r/netsec/comments/1xt0jrg/supabase_security_findings_why_rls_is_only_25_of/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/1thirteenthirtyseven [link] [comments]",
+   "published": "2026-11-10T22:21:14Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "16367edd00b63500",
+   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+   "published": "2026-11-10T22:20:19Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "9364f9baac682a40",
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+   "source": "Krebs on Security",
+   "type": "news",
+   "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and…",
+   "published": "2026-11-10T21:55:03Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "15da1f8e31d6aed9",
+   "title": "US Army member arrested in UK over allegations of spying for Russia",
+   "link": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
+   "published": "2026-11-10T21:13:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c9d200a425c20993",
+   "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+   "published": "2026-11-10T21:01:14Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "612ae5f08dba0aa0",
+   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
+   "link": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
+   "source": "The Record",
+   "type": "news",
+   "summary": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
+   "published": "2026-11-10T20:55:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "230bcad0faf39354",
+   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+   "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+   "published": "2026-11-10T20:54:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6922144e7a8d86cd",
+   "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+   "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
+   "published": "2026-11-10T20:41:45Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8ec6ef10a10ae8e7",
+   "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+   "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
+   "published": "2026-11-10T20:35:34Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d6fe2bb7d3316c8f",
+   "title": "How to Assess OT Incident Response Preparedness",
+   "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
+   "published": "2026-11-10T20:18:43Z",
+   "tags": [
+    "cloud-identity",
+    "dfir"
+   ]
+  },
+  {
+   "id": "9814f0299437ed94",
+   "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+   "published": "2026-11-10T20:04:36Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -598,6 +756,18 @@
    ]
   },
   {
+   "id": "193a689f6d043f7f",
+   "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks…",
+   "published": "2026-11-10T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
    "id": "3badf33b9e63c916",
    "title": "Beyond the Alert: The Case for Rich Network Data",
    "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
@@ -1065,7 +1235,7 @@
    "link": "https://www.reddit.com/r/netsec/comments/1xry7z3/ip_snowshoeing_under_us_gov_email_via_a/",
    "source": "Reddit r/netsec",
    "type": "community",
-   "summary": "I run a small email security consultancy and this is our research. A typo of AmazonSES in US government DNS whitelisted 32,066 IPs to pass DMARC p=quarantine as milivcounty[.]gov, with the IP set rotating every 3-8 days. Attackers are snowshoeing the IPs, and once they get…",
+   "summary": "UPDATE: Livingston County, MI, has removed amzonses[.]com from its SPF record. It had been there since at least November 2023, and when we checked, it authorized 32,066 IPs to send email as milivcounty[.]gov Since our research on US government domains went public, several…",
    "published": "2026-11-09T17:41:19Z",
    "tags": [
     "general"
@@ -9606,146 +9776,63 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "5246b1272668680e",
-   "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-   "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-   "published": "2026-10-27T23:35:51Z",
-   "tags": [
-    "ransomware",
-    "cloud-identity",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "3a61969c4b25ea51",
-   "title": "New Kerberos Abuse Path Discovery - Constrained Delegation without Protocol Transition against SPN-less accounts",
-   "link": "https://www.reddit.com/r/netsec/comments/1xh7v6y/new_kerberos_abuse_path_discovery_constrained/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "I've recently released a blog covering how I discovered a new Kerberos delegation abuse path! By combining Elad Shamir's Reflective RBCD with James Forshaw's U2U sacrificial user technique, Constrained Delegation without Protocol Transition can now be abused against SPN-less…",
-   "published": "2026-10-27T23:09:33Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "dcb43c85897c7b35",
-   "title": "Alleged Israeli spy company heavily targeted Starlink users, sources say",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xh7r5o/alleged_israeli_spy_company_heavily_targeted/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-27T23:04:48Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "3c9b73ea1c97e5d6",
-   "title": "Ukrainian National Sentenced for Role in Hacking Hospitals, Businesses, and Governments as Part of Ransomware Conspiracies Causing Over $100 Million in Losses",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xh7api/ukrainian_national_sentenced_for_role_in_hacking/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-27T22:45:26Z",
-   "tags": [
-    "threat-hunting",
-    "ransomware"
-   ]
-  },
-  {
-   "id": "dedf00d647271589",
-   "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
-   "published": "2026-10-27T22:43:27Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "78275c0ac59e70a5",
-   "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-   "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
-   "published": "2026-10-27T22:07:34Z",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "id": "2db299f6a19064cf",
-   "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
-   "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
-   "published": "2026-10-27T21:15:03Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "7477a331e67ff22c",
-   "title": "Hackers hijack Convertr analytics script to steal payment card data",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
-   "published": "2026-10-27T20:57:25Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "e7767410559634bd",
-   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-   "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-   "published": "2026-10-27T20:42:40Z",
-   "tags": [
-    "malware",
-    "ransomware",
-    "phishing"
-   ]
-  },
-  {
-   "id": "2f6663d0ce966b03",
-   "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
-   "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
-   "published": "2026-10-27T20:40:00Z",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "id": "67aef7e7b7c4c14f",
-   "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
-   "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
-   "published": "2026-10-27T19:58:06Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-124194",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+   "added": "2026-11-10",
+   "due": "2026-11-24",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-111793",
+   "vendor": "Openwave Messaging Limited",
+   "product": "Webtop Media Transcoder",
+   "name": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+   "added": "2026-11-10",
+   "due": "2026-11-24",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-20320",
+   "vendor": "Cisco",
+   "product": "BroadWorks",
+   "name": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+   "added": "2026-11-10",
+   "due": "2026-11-24",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-111560",
+   "vendor": "Barracuda Networks",
+   "product": "Multiple Products",
+   "name": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+   "added": "2026-11-10",
+   "due": "2026-11-13",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-116606",
+   "vendor": "Barracuda Networks",
+   "product": "Barracuda Email Security Gateway (ESG)",
+   "name": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+   "added": "2026-11-10",
+   "due": "2026-11-13",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-125350",
+   "vendor": "Google",
+   "product": "Chromium",
+   "name": "Google Chromium Use-After-Free Vulnerability",
+   "added": "2026-11-10",
+   "due": "2026-11-24",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2026-102895",
    "vendor": "GPUStack",
@@ -9826,60 +9913,6 @@
    "added": "2026-10-30",
    "due": "2026-11-02",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-97229",
-   "vendor": "GitLab",
-   "product": "Community Edition and Enterprise Edition",
-   "name": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
-   "added": "2026-10-29",
-   "due": "2026-11-01",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-76418",
-   "vendor": "Cisco",
-   "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
-   "name": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference…",
-   "added": "2026-10-29",
-   "due": "2026-11-01",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-41709",
-   "vendor": "Broadcom",
-   "product": "VMware ESX",
-   "name": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
-   "added": "2026-10-28",
-   "due": "2026-11-11",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-46300",
-   "vendor": "Linux",
-   "product": "Kernel",
-   "name": "Linux Kernel Missing Initialization of a Variable Vulnerability",
-   "added": "2026-10-28",
-   "due": "2026-10-31",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-48356",
-   "vendor": "Adobe",
-   "product": "Commerce and Magento",
-   "name": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
-   "added": "2026-10-27",
-   "due": "2026-11-10",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-111497",
-   "vendor": "Google",
-   "product": "Brotli",
-   "name": "Google Brotli Unchecked Return Value Vulnerability",
-   "added": "2026-10-27",
-   "due": "2026-11-10",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -9903,7 +9936,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 2
+   "count": 3
   },
   {
    "name": "SecurityWeek",
@@ -10053,7 +10086,7 @@
    "type": "government",
    "home": "https://www.cisa.gov",
    "status": "ok",
-   "count": 13
+   "count": 14
   },
   {
    "name": "NCSC UK",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T00:32:32Z",
+ "generated_at": "2026-11-11T07:33:34Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T00:32:28Z",
+   "published": "2026-11-11T07:33:30Z",
    "tags": [
     "general"
    ]
@@ -21,9 +21,153 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T00:32:28Z",
+   "published": "2026-11-11T07:33:30Z",
    "tags": [
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "914eba08ce82050c",
+   "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-11T07:33:30Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8370513f76c751de",
+   "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-11T07:33:30Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c398452d61b2b595",
+   "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-11T07:33:30Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4be5b1b33e187ea6",
+   "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-11T07:33:30Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a4af9871b7ba054b",
+   "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-11T07:33:30Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "261b8d4aff9d4765",
+   "title": "New Falcon Cloud Security Innovations Secure the Cloud AI Runs On",
+   "link": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-11T07:33:30Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "f3ef8a4b5dc168c1",
+   "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+   "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-11T07:33:30Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "eb3fc971b476db8d",
+   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-11T07:33:30Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ddf3562d4ef5b368",
+   "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+   "link": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appeared first on SecurityWeek .",
+   "published": "2026-11-11T07:00:17Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "cd6455aacef58794",
+   "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+   "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of…",
+   "published": "2026-11-11T06:04:02Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d339073a9f0b18a9",
+   "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
+   "link": "https://isc.sans.edu/diary/rss/33510",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-11T02:00:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c3c6570192bbc54d",
+   "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities",
+   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "Microsoft has released its monthly security update for November 2026, which includes 1328 vulnerabilities affecting a range of products, including 60 that Microsoft marked as \"critical.\" Out of 60 \"critical\" vulnerabilities, 45 are remote code execution (RCE) vulnerabilities.",
+   "published": "2026-11-11T01:41:17Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -36,90 +180,6 @@
    "published": "2026-11-11T00:32:28Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "914eba08ce82050c",
-   "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-11T00:32:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "8370513f76c751de",
-   "title": "CrowdStrike Secures AI Agents Inside Claude Cowork",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-11T00:32:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "c398452d61b2b595",
-   "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-11T00:32:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "4be5b1b33e187ea6",
-   "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-11T00:32:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a4af9871b7ba054b",
-   "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-11T00:32:28Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "261b8d4aff9d4765",
-   "title": "New Falcon Cloud Security Innovations Secure the Cloud AI Runs On",
-   "link": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-11T00:32:28Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "f3ef8a4b5dc168c1",
-   "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
-   "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-11T00:32:28Z",
-   "tags": [
-    "vulnerabilities"
    ]
   },
   {
@@ -853,6 +913,18 @@
    ]
   },
   {
+   "id": "a731319ae302ffd3",
+   "title": "Exchange for breakfast: Turla’s Cereal tricks are not for kids",
+   "link": "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "ESET Research describes Turla’s Cereal toolset, featuring a novel Exchange email collection module, a unique C&C mechanism, and sophisticated .NET execution tricks",
+   "published": "2026-11-10T09:57:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "1f6bc1af5305b1b9",
    "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
    "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
@@ -967,7 +1039,7 @@
    "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
    "source": "The Hacker News",
    "type": "news",
-   "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free…",
+   "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free…",
    "published": "2026-11-10T06:52:54Z",
    "tags": [
     "vulnerabilities"
@@ -9642,140 +9714,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "f092096f0f6395a7",
-   "title": "IR 8547, Transition to Post-Quantum Cryptography Standards",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhhhko/ir_8547_transition_to_postquantum_cryptography/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-28T07:25:36Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "8dc7a61989acefab",
-   "title": "NSM hever det nasjonale cyberrisikonivået til HØYT - NSM raises the national cyber risk level to HIGH",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhhe7r/nsm_hever_det_nasjonale_cyberrisikonivået_til/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-28T07:19:19Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "697aeb2243e0ec4e",
-   "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-   "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an…",
-   "published": "2026-10-28T07:13:21Z",
-   "tags": [
-    "ransomware",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "3dba8edef86126f3",
-   "title": "The 2025-26 Annual Cyber Threat Report highlights key threats, responses and security advice for Australians.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhhayg/the_202526_annual_cyber_threat_report_highlights/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-28T07:13:13Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "345dc53c49102d11",
-   "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-   "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the…",
-   "published": "2026-10-28T06:20:37Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f01e6eed4371d339",
-   "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-   "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side…",
-   "published": "2026-10-28T06:04:58Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "ef3a25c289a42d12",
-   "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
-   "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-10-28T06:03:45Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "271b83601f0c5aec",
-   "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-   "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
-   "published": "2026-10-28T06:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "dc166c047f571359",
-   "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-   "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The…",
-   "published": "2026-10-28T05:42:26Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "a3bdc8af973e74a8",
-   "title": "php2shell in Practice: Exploitable, Conditional, and Hard to Mass-Exploit",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xhddfw/php2shell_in_practice_exploitable_conditional_and/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/radkawar [link] [comments]",
-   "published": "2026-10-28T03:23:29Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "8e015ae66abc3975",
-   "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33464",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-10-28T02:30:11Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -10015,7 +9953,7 @@
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 6
+   "count": 7
   },
   {
    "name": "SentinelOne Labs",
@@ -10036,7 +9974,7 @@
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "Check Point Research",

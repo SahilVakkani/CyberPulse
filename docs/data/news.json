@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T22:31:40Z",
+ "generated_at": "2026-11-12T03:39:11Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "general"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "cloud-identity"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,9 +117,93 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-11T22:31:34Z",
+   "published": "2026-11-12T03:39:05Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f4c0f4da808ed92d",
+   "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
+   "link": "https://isc.sans.edu/diary/rss/33512",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-12T02:00:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "09b90dc11a1c3ebf",
+   "title": "History of Password Cracking",
+   "link": "https://www.reddit.com/r/netsec/comments/1xtz6sk/history_of_password_cracking/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/netmux [link] [comments]",
+   "published": "2026-11-12T01:02:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d9fc7bca781a0c50",
+   "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+   "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
+   "published": "2026-11-12T01:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "09ebecc42123bff9",
+   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+   "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+   "published": "2026-11-12T00:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7f241c94ac846596",
+   "title": "Baker Tilly notifies clients of data breach at third-party provider",
+   "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+   "published": "2026-11-11T23:01:31Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ee8b1c5bd7a18200",
+   "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
+   "link": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks. The post ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know appeared first on Unit 42 .",
+   "published": "2026-11-11T23:00:53Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "ccdd6c7f3ffe5679",
+   "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+   "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+   "published": "2026-11-11T22:56:21Z",
+   "tags": [
+    "malware"
    ]
   },
   {
@@ -9725,42 +9809,6 @@
     "vulnerabilities",
     "threat-actors"
    ]
-  },
-  {
-   "id": "971ff11eb5e154b8",
-   "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
-   "link": "https://isc.sans.edu/diary/rss/33468",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-10-29T03:10:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6da15508e5e8b26d",
-   "title": "XML Signature Wrapping authentication bypass in Moldova's MPass SAML NuGet library, fixed in 10.0.4 (CVE requested, CAN-2026-2041077)",
-   "link": "https://www.reddit.com/r/netsec/comments/1xi65vs/xml_signature_wrapping_authentication_bypass_in/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "Egov.Integrations.MPass.Saml, the ASP.NET Core handler that relying parties use to verify MPass SAML 2.0 responses, verified signatures like this in every version before 10.0.4: signedXml.LoadXml(signatureElement); return signedXml.CheckSignature(publicCertificate,…",
-   "published": "2026-10-29T01:00:22Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "cd96a1792e01bd26",
-   "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-   "link": "https://isc.sans.edu/diary/rss/33466",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Introduction",
-   "published": "2026-10-29T00:42:15Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -9993,7 +10041,7 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "Cisco Talos",
@@ -10091,16 +10139,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "status": "ok",
+   "count": 25
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:39:43Z",
+ "generated_at": "2026-11-14T09:53:25Z",
  "demo": false,
  "items": [
   {
@@ -9,21 +9,9 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T02:39:38Z",
+   "published": "2026-11-14T09:53:17Z",
    "tags": [
     "cloud-identity"
-   ]
-  },
-  {
-   "id": "914eba08ce82050c",
-   "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-14T02:39:38Z",
-   "tags": [
-    "general"
    ]
   },
   {
@@ -33,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T02:39:38Z",
+   "published": "2026-11-14T09:53:17Z",
    "tags": [
     "general"
    ]
@@ -45,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T02:39:38Z",
+   "published": "2026-11-14T09:53:17Z",
    "tags": [
     "general"
    ]
@@ -57,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T02:39:38Z",
+   "published": "2026-11-14T09:53:17Z",
    "tags": [
     "general"
    ]
@@ -69,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T02:39:38Z",
+   "published": "2026-11-14T09:53:17Z",
    "tags": [
     "cloud-identity"
    ]
@@ -81,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T02:39:38Z",
+   "published": "2026-11-14T09:53:17Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -93,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T02:39:38Z",
+   "published": "2026-11-14T09:53:17Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -105,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T02:39:38Z",
+   "published": "2026-11-14T09:53:17Z",
    "tags": [
     "general"
    ]
@@ -114,6 +102,189 @@
    "id": "72cace5c82fd439f",
    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-14T09:53:17Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "74c03507cc4ed031",
+   "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+   "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-14T09:53:17Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "bf602b395233a12c",
+   "title": "WFX Phantom: The GitHub Actions Secret Stealer That Deletes Its Tracks",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvy2c2/wfx_phantom_the_github_actions_secret_stealer/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T09:14:40Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "dd6e665a22f7d17d",
+   "title": "CTO at NCSC Summary: week ending November 15th",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvy1fx/cto_at_ncsc_summary_week_ending_november_15th/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T09:13:01Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "9cdb1de4d4867300",
+   "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+   "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
+   "published": "2026-11-14T08:40:22Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "3a009a85a8399a0e",
+   "title": "How to Evaluate AI Agent Cybersecurity Capabilities",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvvtz1/how_to_evaluate_ai_agent_cybersecurity/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/radkawar [link] [comments]",
+   "published": "2026-11-14T06:56:55Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "26f1df29b5527fe5",
+   "title": "2026-11-10: Antifox Agentic Pentesting Platform Used to Steal AWS Credentials and Move Laterally in Compromised Environments",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvveej/20261110_antifox_agentic_pentesting_platform_used/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T06:31:03Z",
+   "tags": [
+    "threat-hunting",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "f9c734cde24df3ea",
+   "title": "BloodTrail: Making BloodHound fast",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvvbki/bloodtrail_making_bloodhound_fast/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T06:26:32Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "c5079cc247465190",
+   "title": "APT-C-35（肚脑虫）组织使用节日主题诱饵对巴基斯坦的攻击活动分析 - Analysis of APT-C-35 (Brain Worm) attacks in Pakistan using holiday-themed bait",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuwnw/aptc35肚脑虫组织使用节日主题诱饵对巴基斯坦的攻击活动分析_analysis_of/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T06:03:07Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "3db2525aab1a4a9d",
+   "title": "Large Language Models for Cybersecurity: A Survey of Data, Training, Models, Agent Systems, Evaluation, and Applications",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuvv0/large_language_models_for_cybersecurity_a_survey/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T06:01:45Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "ae6a5a31560b0eb9",
+   "title": "Seep-Reverse-Lab: Multi-platform client reverse engineering for AI agents; authorization flow auditing (CWE-602); automated security workbench.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuv0n/seepreverselab_multiplatform_client_reverse/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T06:00:40Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "3d4fc346be883df6",
+   "title": "Beyond ARTEX: 45 Autonomous Attack Frameworks, Their Search Targets, and Discovery Methods",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuuaz/beyond_artex_45_autonomous_attack_frameworks/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T05:59:43Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "5ab4bdc87838ab18",
+   "title": "[2610.02869] AgentTrap: Stateful Feedback Deception against Autonomous Penetration Testing Agents",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvutsv/261002869_agenttrap_stateful_feedback_deception/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T05:58:55Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "48f2284f50d5f6ed",
+   "title": "Still in the Meeting: BlueNoroff Six Months On",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuicw/still_in_the_meeting_bluenoroff_six_months_on/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T05:40:42Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "c93c9bc5b5e3d103",
+   "title": "Justice Department Announces Actions to Disrupt North Korea’s Massive Theft of Cryptocurrency",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuhsi/justice_department_announces_actions_to_disrupt/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-14T05:39:50Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "914eba08ce82050c",
+   "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
@@ -183,6 +354,19 @@
    ]
   },
   {
+   "id": "38575ed02d46dab0",
+   "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvk2y2/amazon_threat_intelligence_observes_threat_actors/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-13T21:19:34Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
+   ]
+  },
+  {
    "id": "3c3eab5ceb3d840c",
    "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
    "link": "https://blog.talosintelligence.com/artex-and-beyond/",
@@ -204,6 +388,18 @@
    "published": "2026-11-13T20:20:27Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "a261c05fe24e739a",
+   "title": "Threat Overview of ARTEX Autonomous Penetration Testing Framework",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvhquo/threat_overview_of_artex_autonomous_penetration/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-13T19:48:06Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -240,6 +436,31 @@
    "published": "2026-11-13T18:35:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "7eace54a07ebf0b7",
+   "title": "GeoVision Camera Software Abused to Deploy XMRig Cryptominer",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvf90r/geovision_camera_software_abused_to_deploy_xmrig/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-13T18:13:54Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "813152d34a035ee2",
+   "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xves09/the_global_socket_how_threat_actors_are/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-13T17:56:45Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
    ]
   },
   {
@@ -311,6 +532,19 @@
    "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
    "published": "2026-11-13T16:21:43Z",
    "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "8f1a3f686c863b93",
+   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvbts7/lazare_veni_foras_reprogramming_dormant_neurons/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-13T16:07:06Z",
+   "tags": [
+    "threat-hunting",
     "malware"
    ]
   },
@@ -398,6 +632,19 @@
    "published": "2026-11-13T15:01:11Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "deb14564dbffecb9",
+   "title": "CyberStrikeAI hit AWS: 56 API calls in 141 milliseconds",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xv9g54/cyberstrikeai_hit_aws_56_api_calls_in_141/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/radkawar [link] [comments]",
+   "published": "2026-11-13T14:33:45Z",
+   "tags": [
+    "threat-hunting",
+    "cloud-identity"
    ]
   },
   {
@@ -733,6 +980,18 @@
    ]
   },
   {
+   "id": "5c0d260779012520",
+   "title": "Open Sourced my automated Inventory Agent for POSIX/UNIX systems",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xv1s47/open_sourced_my_automated_inventory_agent_for/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/cookiengineer [link] [comments]",
+   "published": "2026-11-13T07:43:03Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "d9f7469060c3fa0d",
    "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
    "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
@@ -758,6 +1017,20 @@
    ]
   },
   {
+   "id": "7df2d206bb931c5f",
+   "title": "Honey Configs: Measuring The Emerging Exploitation of Cloud IP Address Reuse",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xv03uk/honey_configs_measuring_the_emerging_exploitation/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-13T06:01:43Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
    "id": "9e0cc84d062dbe41",
    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
    "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
@@ -768,6 +1041,42 @@
    "tags": [
     "vulnerabilities",
     "cloud-identity"
+   ]
+  },
+  {
+   "id": "fbb3d653911d79b3",
+   "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xuzlbg/attackers_use_autonomous_ai_to_target/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-13T05:32:51Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "128a8c9999a3dd8a",
+   "title": "Analysis of Wpcdoor Attack Cases Spread via Korea-Based DVR Management Software",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xuzko3/analysis_of_wpcdoor_attack_cases_spread_via/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-13T05:31:49Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "21ce4564b4432e8b",
+   "title": "First SMS Blaster Found in Hungary; Chinese Driver Arrested",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xuzk7j/first_sms_blaster_found_in_hungary_chinese_driver/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-13T05:31:06Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -902,6 +1211,19 @@
    "published": "2026-11-12T21:18:52Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "0ec7075cab77843e",
+   "title": "On the hunt for ARTEX: understanding agentic attacks in AWS environments",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xuom99/on_the_hunt_for_artex_understanding_agentic/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-12T21:02:04Z",
+   "tags": [
+    "threat-hunting",
+    "cloud-identity"
    ]
   },
   {
@@ -9533,279 +9855,6 @@
    "tags": [
     "threat-hunting"
    ]
-  },
-  {
-   "id": "4387f4bd1394ae6b",
-   "title": "Commerce Core - Highly critical - Access bypass",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk5w8f/commerce_core_highly_critical_access_bypass/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T09:36:20Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "4a3beb5aa5ff5440",
-   "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-   "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below -…",
-   "published": "2026-10-31T08:27:43Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "6d96d9f14e931f7a",
-   "title": "Mythos Linux kernel 0day feed",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk4rd8/mythos_linux_kernel_0day_feed/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T08:24:06Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "6404b798a5d4317f",
-   "title": "Arad-Code: AI-powered SAST agent for security research",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk4l0i/aradcode_aipowered_sast_agent_for_security/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T08:12:37Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "e3e63f5f1c40905b",
-   "title": "Generating Precise Format Specification for Network Protocols Through Adversarial LLM Interactions",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk4iqa/generating_precise_format_specification_for/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T08:08:40Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "cfd5fb70b9cbead0",
-   "title": "Vulnerabilities in Supermicro BMC firmware, October 26, 2026 (1)",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk4h59/vulnerabilities_in_supermicro_bmc_firmware/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T08:05:48Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "7db65b093e6ee1f0",
-   "title": "cve-2026-111497-wordpress-poc: CVE-2026-111497 RCE PoC for one pinned Docker Official Image for WordPress",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3lso/cve2026111497wordpresspoc_cve2026111497_rce_poc/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T07:09:51Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "5d784aa2f1d6db64",
-   "title": "Sandbox Flipped to ‘Danger-Full-Access’: Unauthorized AI Relays Create Risk for Organizations",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3km0/sandbox_flipped_to_dangerfullaccess_unauthorized/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T07:07:46Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "ac26084cee857fbf",
-   "title": "Load/Mine: A Hugging Face Malware Campaign Returns After Takedown",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3fhf/loadmine_a_hugging_face_malware_campaign_returns/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:59:41Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
-  },
-  {
-   "id": "63b094f25a1575d1",
-   "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3ewv/securing_internetcritical_software_how_we_could/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:58:41Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
-  },
-  {
-   "id": "427f1488ecb3eac5",
-   "title": "Amatera: How the prolific infostealer works and spreads",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3dpy/amatera_how_the_prolific_infostealer_works_and/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:56:34Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
-  },
-  {
-   "id": "ef033300cd4ca079",
-   "title": "Detecting & Responding to AI-aided or Agentic Attacks",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3cqf/detecting_responding_to_aiaided_or_agentic_attacks/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:54:50Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "cc00f165c7e51c8c",
-   "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3c6t/gitlab_security_incident_attempted_exploitation/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:53:50Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "bce32edf71032e5b",
-   "title": "Controlled Unclassified Information in GSA’s Google Drive Was Improperly Exposed",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk3bs1/controlled_unclassified_information_in_gsas/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:53:07Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "8c4e79de877042e7",
-   "title": "dragon-tales: A binary analysis library for disassembling, assembling, and analyzing machine code across multiple architectures. Built on LLVM 21.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk394y/dragontales_a_binary_analysis_library_for/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:48:25Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "0748f47cc3e973dc",
-   "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk380n/from_help_desk_impersonation_to_ad_cs_abuse/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:46:26Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "cfe4c944b9fbe418",
-   "title": "Picking apart PHP2Shell",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk2x6d/picking_apart_php2shell/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:27:40Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "2aa7441535410f52",
-   "title": "CVE-2026-112445: CVE-2026-112445: The Simplest macOS Local Privilege Escalation to Date",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk2w5i/cve2026112445_cve2026112445_the_simplest_macos/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:25:46Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "b9d031d9966cbc08",
-   "title": "MANTIS: Multi-Sources Analysis & Threat Intelligence Search",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk2por/mantis_multisources_analysis_threat_intelligence/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-10-31T06:14:24Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "8a3f8408fd352cdd",
-   "title": "New Volatility 3 Plugin: MCPTrace - Carving Model Context Protocol (MCP) Artifacts from Memory Dumps",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xk26b2/new_volatility_3_plugin_mcptrace_carving_model/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "Hello! I just created this Volatility plugin for MCP analysis. Since English is not my native language, I would deeply appreciate any feedback on the tool, documentation, or code. If you find MCPTrace useful for your DFIR workflow or AI security research, please consider…",
-   "published": "2026-10-31T05:41:05Z",
-   "tags": [
-    "threat-hunting",
-    "dfir"
-   ]
-  },
-  {
-   "id": "e8eb82345a00ebfc",
-   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-   "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty…",
-   "published": "2026-10-31T05:33:41Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "21ad2182a1367363",
-   "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-   "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion…",
-   "published": "2026-10-31T04:56:12Z",
-   "tags": [
-    "cloud-identity",
-    "threat-actors"
-   ]
   }
  ],
  "kev": [
@@ -10136,16 +10185,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 25
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

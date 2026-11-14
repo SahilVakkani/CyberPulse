@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T22:29:46Z",
+ "generated_at": "2026-11-14T02:39:43Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "cloud-identity"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "cloud-identity"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,19 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-13T22:29:39Z",
+   "published": "2026-11-14T02:39:38Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "799f0cf77e42dbd3",
+   "title": "Helping Developers Writing Code Analyzer Queries",
+   "link": "https://www.reddit.com/r/netsec/comments/1xvqwd5/helping_developers_writing_code_analyzer_queries/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/Agile_Pangolin_7021 [link] [comments]",
+   "published": "2026-11-14T02:27:30Z",
    "tags": [
     "general"
    ]
@@ -180,6 +192,18 @@
    "published": "2026-11-13T20:57:13Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e12779d5806a7d26",
+   "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+   "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.",
+   "published": "2026-11-13T20:20:27Z",
+   "tags": [
+    "malware"
    ]
   },
   {
@@ -9782,18 +9806,6 @@
     "cloud-identity",
     "threat-actors"
    ]
-  },
-  {
-   "id": "d6c6367093755380",
-   "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog .",
-   "published": "2026-10-31T01:02:57Z",
-   "tags": [
-    "malware"
-   ]
   }
  ],
  "kev": [
@@ -9968,7 +9980,7 @@
    "type": "news",
    "home": "https://www.darkreading.com",
    "status": "ok",
-   "count": 48
+   "count": 49
   },
   {
    "name": "The Record",

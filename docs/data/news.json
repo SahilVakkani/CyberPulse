@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:52:19Z",
+ "generated_at": "2026-11-15T00:50:02Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "cloud-identity"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "cloud-identity"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-14T20:52:12Z",
+   "published": "2026-11-15T00:49:52Z",
    "tags": [
     "general"
    ]
@@ -9757,18 +9757,6 @@
    "type": "community",
    "summary": "submitted by /u/digicat [link] [comments]",
    "published": "2026-11-01T06:56:23Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "18c0062bc8513887",
-   "title": "I built a free tool that finds the one AD change that breaks every attack path (HorusEye v2.3)",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkp5ev/i_built_a_free_tool_that_finds_the_one_ad_change/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "Hey all, I’m a pentester and I kept ending AD engagements with the same client question: “OK, but what do we fix first?” So I built HorusEye. It ingests AD data, maps the attack paths, and finds the choke point: the single change that breaks every route to DA. In the demo, an…",
-   "published": "2026-11-01T00:03:11Z",
    "tags": [
     "threat-hunting"
    ]

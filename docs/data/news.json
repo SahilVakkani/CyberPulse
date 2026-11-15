@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T00:50:02Z",
+ "generated_at": "2026-11-15T07:37:41Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "cloud-identity"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "cloud-identity"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "general"
    ]
@@ -117,9 +117,245 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T00:49:52Z",
+   "published": "2026-11-15T07:37:34Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "3a7ddbe9323cdc10",
+   "title": "BinQL: a CodeQL extension for binary formats",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwpcbh/binql_a_codeql_extension_for_binary_formats/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T07:24:01Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "2ca7d291f624646f",
+   "title": "APEC hacked: Was it China or is it a false-flag ?",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwou6j/apec_hacked_was_it_china_or_is_it_a_falseflag/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:53:38Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "9e2c154fa5a94c36",
+   "title": "SignDrop: Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwoobf/signdrop_windows_common_log_filesystem/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:43:46Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e763d601afd1acef",
+   "title": "Implementation of the assembly loader in .NET Framework v4 can be abused to load a file from a flat memory buffer resulting in bypass of WDAC policy and code injection into a Protected Process Light…",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwonva/implementation_of_the_assembly_loader_in_net/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:43:03Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "3170c8bfac1ef498",
+   "title": "🔎 𝗞𝗤𝗟 𝗼𝗳 𝘁𝗵𝗲 𝗪𝗲𝗲𝗸 | 𝗛𝘂𝗻𝘁𝗶𝗻𝗴 𝗳𝗼𝗿 𝗦𝘂𝘀𝗽𝗶𝗰𝗶𝗼𝘂𝘀 𝗖𝗹𝗶𝗲𝗻𝘁 𝗦𝗲𝗰𝗿𝗲𝘁 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗔𝘁𝘁𝗲𝗺𝗽𝘁𝘀",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwoj2x/𝗞𝗤𝗟_𝗼𝗳_𝘁𝗵𝗲_𝗪𝗲𝗲𝗸_𝗛𝘂𝗻𝘁𝗶𝗻𝗴_𝗳𝗼𝗿_𝗦𝘂𝘀𝗽𝗶𝗰𝗶𝗼𝘂𝘀_𝗖𝗹𝗶𝗲𝗻𝘁/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:34:57Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "b99086d01ddf69bd",
+   "title": "Fake Google Meet Updates, Abused RMM Tools, the AgtaBackup RAT Ecosystem & Campaign",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwoima/fake_google_meet_updates_abused_rmm_tools_the/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:34:13Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "c0898f291ddafd87",
+   "title": "From Job Offer to Ring 0: Lazarus, CVE-2026-68820 and FudModule 3.1",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwoi9n/from_job_offer_to_ring_0_lazarus_cve202668820_and/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:33:36Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "964660b2fffc9ae8",
+   "title": "NTLM signing security improvements in Windows",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwohhv/ntlm_signing_security_improvements_in_windows/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:32:17Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "d986709a00c66dd4",
+   "title": "Tendril: C# & Beacon Object File Based Persistence Tool",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwog9e/tendril_c_beacon_object_file_based_persistence/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:30:15Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "67d62b2a7cc547dd",
+   "title": "s1l3nc3r: MDE (EDR) for Linux Silencer",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwofob/s1l3nc3r_mde_edr_for_linux_silencer/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:29:15Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "d5d43f34f7a25fea",
+   "title": "idasignwriter: IDA Pro Plugin for pattern creation",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwoecq/idasignwriter_ida_pro_plugin_for_pattern_creation/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:27:02Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "fd74fc29e527de17",
+   "title": "nukerat: A post exploitation framework / C2 for advanced Red Team operations",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwod4k/nukerat_a_post_exploitation_framework_c2_for/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:24:59Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "b4f08ad9056e44d2",
+   "title": "Mi Scusi, My SCSI: Abusing iSCSI Target Server",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwocpz/mi_scusi_my_scsi_abusing_iscsi_target_server/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:24:19Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "cc4b7d359914c4f9",
+   "title": "North Korea is minting meme coins to launder the Binance hack",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwoc40/north_korea_is_minting_meme_coins_to_launder_the/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:23:19Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "08ab7b16f3b5245a",
+   "title": "Proof of concept for Admin to SYSTEM on Windows via HTTP.sys NTLM token capture.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwob8t/proof_of_concept_for_admin_to_system_on_windows/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:21:55Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "62b6e4017994eefc",
+   "title": "If you download something from a dotless website in Windows, you will NOT get a MotW. And as such, everything from the site is trusted as if it were a local file.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwoaqo/if_you_download_something_from_a_dotless_website/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:21:06Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "514df339e6f89437",
+   "title": "Hunting Lazarus Part X: DEV#POPPER Returns, Stealing Browser Credentials (Technical Record)",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwo95y/hunting_lazarus_part_x_devpopper_returns_stealing/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:18:39Z",
+   "tags": [
+    "threat-hunting",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "6f3163683d561b80",
+   "title": "North Korean Hackers Use Secretly Recorded Webcam Library of900+ Tech Workers in $400M “FaceStealer” Crypto Theft Scheme",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwo8eh/north_korean_hackers_use_secretly_recorded_webcam/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:17:23Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "04ed60ebf0733bb8",
+   "title": "Joint Advisory on the Use of Frontier AI Models for Code Review",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwo5tl/joint_advisory_on_the_use_of_frontier_ai_models/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T06:13:25Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -9712,54 +9948,6 @@
     "threat-hunting",
     "vulnerabilities"
    ]
-  },
-  {
-   "id": "2a3e4a8e199c95ac",
-   "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-   "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about…",
-   "published": "2026-11-01T07:25:40Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6e20a9798345e8f5",
-   "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-   "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and…",
-   "published": "2026-11-01T07:03:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "be08e34bf976a574",
-   "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-   "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government…",
-   "published": "2026-11-01T07:02:58Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "1babbaa4de1b78ec",
-   "title": "North Korea Responsible for $6 Billion+ Binance Attack",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xkwfo5/north_korea_responsible_for_6_billion_binance/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-01T06:56:23Z",
-   "tags": [
-    "threat-hunting"
-   ]
   }
  ],
  "kev": [
@@ -10090,16 +10278,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 25
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

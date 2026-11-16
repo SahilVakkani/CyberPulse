@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:30:38Z",
+ "generated_at": "2026-11-16T00:49:13Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "cloud-identity"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "general"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "cloud-identity"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,19 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-15T20:30:32Z",
+   "published": "2026-11-16T00:49:08Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "aacb733acffb6d3e",
+   "title": "Dry Soup: this holiday season you need to choose a family code word",
+   "link": "https://www.reddit.com/r/netsec/comments/1xx6e0s/dry_soup_this_holiday_season_you_need_to_choose_a/",
+   "source": "Reddit r/netsec",
+   "type": "community",
+   "summary": "submitted by /u/coldBlock73 [link] [comments]",
+   "published": "2026-11-15T20:50:37Z",
    "tags": [
     "general"
    ]
@@ -9808,31 +9820,6 @@
    "published": "2026-11-02T02:00:03Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "12da054872ab3bd9",
-   "title": "Synology urges users to update DSM following ransomware attacks on outdated DSM versions| Synology Inc.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xlecms/synology_urges_users_to_update_dsm_following/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/campuscodi [link] [comments]",
-   "published": "2026-11-01T21:02:10Z",
-   "tags": [
-    "threat-hunting",
-    "ransomware"
-   ]
-  },
-  {
-   "id": "96a1ea5d9a807571",
-   "title": "gpu-instance-fingerprint: Fingerprint the exact GPU you're running on, even among identical GPUs, from the order its atomic adds land in. 99.1% accuracy, survives reboots, can't be faked, and a…",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xle9c1/gpuinstancefingerprint_fingerprint_the_exact_gpu/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-01T20:58:44Z",
-   "tags": [
-    "threat-hunting"
    ]
   }
  ],

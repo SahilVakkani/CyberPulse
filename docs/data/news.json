@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T01:57:20Z",
+ "generated_at": "2026-11-17T10:29:15Z",
  "demo": false,
  "items": [
   {
@@ -15,13 +15,25 @@
    ]
   },
   {
+   "id": "c6273e63d3e47815",
+   "title": "Why threat hunting should matter to every board",
+   "link": "https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board",
+   "source": "NCSC UK",
+   "type": "government",
+   "summary": "Monitoring alone cannot detect every threat. Proactive threat hunting can expose gaps in defences and help organisations learn from others facing common threats.",
+   "published": "2026-11-17T12:00:00Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "44254febdab375da",
    "title": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/",
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "cloud-identity"
    ]
@@ -33,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "general"
    ]
@@ -45,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "general"
    ]
@@ -57,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "general"
    ]
@@ -69,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "cloud-identity"
    ]
@@ -81,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -93,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -105,7 +117,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "general"
    ]
@@ -117,7 +129,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "general"
    ]
@@ -129,9 +141,208 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-17T01:57:13Z",
+   "published": "2026-11-17T10:29:10Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "10eb36112f400437",
+   "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+   "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+   "published": "2026-11-17T09:44:22Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "3ad387c63ed54320",
+   "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+   "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+   "published": "2026-11-17T08:35:42Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e8de38078ddac041",
+   "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2",
+   "link": "https://securelist.com/operation-shadowcloud-graphdoor/122005/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "In part 2 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the GraphDoor backdoor, additional plug-ins, and technical attribution.",
+   "published": "2026-11-17T08:00:43Z",
+   "tags": [
+    "malware",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "319b78cde3f8d11c",
+   "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1",
+   "link": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "In part 1 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the initial infection stage, the GitDoor backdoor using GitHub as a C2, and the shellcode families it loads.",
+   "published": "2026-11-17T08:00:37Z",
+   "tags": [
+    "malware",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "a6c27b18ebce9751",
+   "title": "Reject Direct Send now Generally Available in Exchange Online",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xye8km/reject_direct_send_now_generally_available_in/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-17T07:30:16Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "009c8b9704d8fdd5",
+   "title": "CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xye7a1/cve202684869_in_screenconnect_exploited_to_run/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-17T07:28:03Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8a8bf877661b77e4",
+   "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xye6t2/quic_and_covert_novel_http3powered_rats_target/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-17T07:27:13Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "d51a92f2bc9a5405",
+   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+   "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+   "published": "2026-11-17T07:25:44Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "5ce307855c426eb6",
+   "title": "Poisoned Scripts on BBC, Zoom and Other Major Websites Linked to iPhone Exploit Loaders",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xye0sq/poisoned_scripts_on_bbc_zoom_and_other_major/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-17T07:16:44Z",
+   "tags": [
+    "threat-hunting",
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "50868e3a64c24731",
+   "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+   "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom,…",
+   "published": "2026-11-17T07:12:13Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e5f38235f3265c65",
+   "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+   "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting…",
+   "published": "2026-11-17T06:29:27Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "1ef65dbe395dfcb3",
+   "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+   "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the…",
+   "published": "2026-11-17T05:00:34Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "8f4fb02a47c0d99a",
+   "title": "[2610.14180] Unconstrained CTI-REALM with Open-Weights",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xybmu6/261014180_unconstrained_ctirealm_with_openweights/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-17T04:58:54Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "3c1639e4b8ecd8e6",
+   "title": "CVE-2026-119618: mod_http2 race condition in Apache 2.4.55 to 2.4.70 (unauthenticated RCE, fixed in 2.4.71). Check how your distro backports it.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xyaxfc/cve2026119618_mod_http2_race_condition_in_apache/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "Quick rundown for anyone running Apache with HTTP/2 enabled: → Race condition in mod_http2, affecting 2.4.55 through 2.4.70 when h2 or h2c is enabled → Fixed upstream in 2.4.71 (released November 11) → Red Hat scores it CVSS 9.8 but rates its RHEL 9 and 10 packages Important.…",
+   "published": "2026-11-17T04:20:27Z",
+   "tags": [
+    "threat-hunting",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "50204565d4ff3ec5",
+   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+   "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and…",
+   "published": "2026-11-17T02:12:17Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "e65b54b96a122d5a",
+   "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
+   "link": "https://isc.sans.edu/diary/rss/33524",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-17T02:05:15Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -278,6 +489,42 @@
    "published": "2026-11-16T19:10:03Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "c7ddd535e033f3fa",
+   "title": "ARTEX Unmasked | The Rise of AI-Powered ARTEX in Cybercrime & Espionage",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xxxuo0/artex_unmasked_the_rise_of_aipowered_artex_in/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-16T18:58:20Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "183d12b6ee82324a",
+   "title": "ClickFix lures, from blockchain contract to pasted command",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xxxomo/clickfix_lures_from_blockchain_contract_to_pasted/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "We're now sharing over 240 blockchain contracts and 380 unique clickfix commands and the hosts they decide to on ohey every day. submitted by /u/ectkirk [link] [comments]",
+   "published": "2026-11-16T18:51:36Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "9635ba8025515d31",
+   "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xxxc5z/gtig_ai_threat_tracker_agentic_threat_activity/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/jnazario [link] [comments]",
+   "published": "2026-11-16T18:38:44Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -683,6 +930,18 @@
    ]
   },
   {
+   "id": "3b1ebac31945534a",
+   "title": "Is it safe to upload my passport or ID online?",
+   "link": "https://www.welivesecurity.com/en/privacy/is-it-safe-upload-passport-id-online/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "Sometimes we have no choice but to share some of our most sensitive identification documents and biometrics with third-party services. Here’s how to minimize the risk.",
+   "published": "2026-11-16T09:55:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "f0b3319bef6277d6",
    "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
    "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
@@ -756,6 +1015,18 @@
    ]
   },
   {
+   "id": "95146185bd4f9571",
+   "title": "Ahead of the Threat Podcast: Season 3, Episode 2 – Stan Duijf and Paul Foster",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xxjhe0/ahead_of_the_threat_podcast_season_3_episode_2/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-16T07:44:46Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "710937bcc980018a",
    "title": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
@@ -765,6 +1036,19 @@
    "published": "2026-11-16T07:42:57Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "3d108817ca566bf2",
+   "title": "Five Years Chasing Gootloader – ⌛☃❀✵Gootloader Details ✵❀☃⌛",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xxjg41/five_years_chasing_gootloader_gootloader_details/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-16T07:42:21Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
    ]
   },
   {
@@ -816,6 +1100,31 @@
    ]
   },
   {
+   "id": "ba29730fcdd369c6",
+   "title": "Inside the AI-Powered Marketplace Turning Infected Computers Into Searchable Profiles",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xxgurs/inside_the_aipowered_marketplace_turning_infected/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "A new AI-powered infostealer marketplace investigated by Hudson Rock turns infected computers into searchable profiles, revealing who the victims are, what they do, and what valuable information their computers might contain. submitted by /u/Malwarebeasts [link] [comments]",
+   "published": "2026-11-16T05:07:37Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
+   ]
+  },
+  {
+   "id": "ee89a69b3102f294",
+   "title": "Barracuda XDR Integration Credentials",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xxgp5m/barracuda_xdr_integration_credentials/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-16T04:59:49Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "201de7464188baf4",
    "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
    "link": "https://isc.sans.edu/diary/rss/33520",
@@ -840,6 +1149,18 @@
    ]
   },
   {
+   "id": "2c03608b01c679a9",
+   "title": "Top Command and Control Tools of 2026",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xx600n/top_command_and_control_tools_of_2026/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/____none____ [link] [comments]",
+   "published": "2026-11-15T20:34:30Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "4201db3ac6828cb2",
    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
@@ -859,6 +1180,18 @@
    "type": "community",
    "summary": "YARA-X&#;x26;#;39;s 1.23.0 release brings 4 improvements and 16 bugfixes.",
    "published": "2026-11-15T18:17:27Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "dbff9ca7e21deb04",
+   "title": "Sharing ARTEX detection signature pack - from IOC w/playbook process",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xx24yn/sharing_artex_detection_signature_pack_from_ioc/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/mmd0xFF [link] [comments]",
+   "published": "2026-11-15T18:00:54Z",
    "tags": [
     "threat-hunting"
    ]
@@ -889,6 +1222,66 @@
    ]
   },
   {
+   "id": "a314255af5a6e093",
+   "title": "GhostShares 2: Grok Apps Exposed xAI’s Business Secrets and People’s Private Data",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwttpd/ghostshares_2_grok_apps_exposed_xais_business/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T12:03:04Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "92a6fcfc8cf396aa",
+   "title": "When Everything Becomes Open-Source",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwtqm8/when_everything_becomes_opensource/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T11:59:13Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "061d9a9a4913f620",
+   "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwtoer/artex_and_beyond_aienabled_penetration_testing/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T11:55:36Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "3806f6b9d9aa233d",
+   "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwtnp5/adapting_to_ai_penetration_testing_orchestrators/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T11:54:23Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
+   "id": "178358d6982033df",
+   "title": "An update on our recent security incident · Cursor",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwtm6h/an_update_on_our_recent_security_incident_cursor/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T11:51:51Z",
+   "tags": [
+    "threat-hunting"
+   ]
+  },
+  {
    "id": "04c1c102f5a737e8",
    "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
    "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
@@ -898,6 +1291,19 @@
    "published": "2026-11-15T11:27:31Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "2393b6dba995f2dd",
+   "title": "WILKINS and his co-conspirators embedded malware into several video games, which were in turn downloaded by thousands of individuals.",
+   "link": "https://www.reddit.com/r/blueteamsec/comments/1xwruhn/wilkins_and_his_coconspirators_embedded_malware/",
+   "source": "Reddit r/blueteamsec",
+   "type": "community",
+   "summary": "submitted by /u/digicat [link] [comments]",
+   "published": "2026-11-15T10:02:59Z",
+   "tags": [
+    "threat-hunting",
+    "malware"
    ]
   },
   {
@@ -9444,262 +9850,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "185636633dfd84f4",
-   "title": "A primer on TETRA mission-critical radio network authentication flaws",
-   "link": "https://www.reddit.com/r/netsec/comments/1xmpbzm/a_primer_on_tetra_missioncritical_radio_network/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "tl:dr; Contrary to popular belief among vendors, system integrators, and asset owners: network authentication in TETRA mission-critical radio networks does not provide authenticity & integrity guarantees at the individual message level. To make matters worse: base stations…",
-   "published": "2026-11-03T10:19:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "face46920f5fd2a7",
-   "title": "MLEP in KICS for Networks 5.0: how machine learning helps track network behavior of OT devices",
-   "link": "https://securelist.com/tr/machine-learning-event-processor-in-kics-for-networks/121794/",
-   "source": "Securelist (Kaspersky)",
-   "type": "vendor-research",
-   "summary": "We explain how Kaspersky Industrial CyberSecurity for Networks uses Machine Learning Event Processor (MLEP) technology to help take inventory of assets and detect anomalies in industrial networks.",
-   "published": "2026-11-03T10:00:07Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "9327bd5edc120368",
-   "title": "Gorbag: Orcs at the border harvesting intelligence from Ukraine",
-   "link": "https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/",
-   "source": "ESET WeLiveSecurity",
-   "type": "vendor-research",
-   "summary": "ESET researchers uncover Gorbag, a Russia-aligned group using simple infostealers to harvest data from Ukrainian organizations near the front line",
-   "published": "2026-11-03T09:50:00Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "5e74da19f3eb8376",
-   "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
-   "link": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028…",
-   "published": "2026-11-03T09:49:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "35fce7e8672a8835",
-   "title": "Slaiclind: The blockchain is now a covert communication channel",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xmoo9y/slaiclind_the_blockchain_is_now_a_covert/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/StormshieldArgos [link] [comments]",
-   "published": "2026-11-03T09:38:43Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "402458e4dacc5a5a",
-   "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
-   "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek .",
-   "published": "2026-11-03T09:22:09Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "0658f100b664de2a",
-   "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
-   "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek .",
-   "published": "2026-11-03T08:49:03Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "07d9937fab38293a",
-   "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-   "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found…",
-   "published": "2026-11-03T08:31:48Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "d3665dfb7b137097",
-   "title": "SpikeStrip: Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xmn4up/spikestrip_reversible_html_and_javascript_prompt/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-03T08:00:54Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "f9c39fb133ac3831",
-   "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
-   "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek .",
-   "published": "2026-11-03T07:43:24Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d108c8cad61e3a76",
-   "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-   "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target…",
-   "published": "2026-11-03T07:43:07Z",
-   "tags": [
-    "ransomware",
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "36d509a3e525d356",
-   "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-   "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to…",
-   "published": "2026-11-03T07:27:07Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "5962d84443393627",
-   "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-   "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-03T06:31:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d96bed8f956667e3",
-   "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-   "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-03T06:31:51Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f87ec6e8be1b0324",
-   "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-03T06:31:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a82de8dc19f5002f",
-   "title": "When AI Guardrails Expose Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-03T06:31:51Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "e4cd27c3f55bd938",
-   "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
-   "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-03T06:31:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "3e6bc640da57c0d4",
-   "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-   "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that…",
-   "published": "2026-11-03T05:34:41Z",
-   "tags": [
-    "malware",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "d4042f8de11d05d6",
-   "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-   "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful…",
-   "published": "2026-11-03T05:34:37Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "3b6a51103bfae25b",
-   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-   "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-   "source": "Krebs on Security",
-   "type": "news",
-   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts…",
-   "published": "2026-11-03T02:24:31Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "d67f6a348091431b",
-   "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
-   "link": "https://isc.sans.edu/diary/rss/33484",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-11-03T02:00:02Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -9860,7 +10010,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 4
+   "count": 3
   },
   {
    "name": "SecurityWeek",
@@ -9953,7 +10103,7 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 9
+   "count": 10
   },
   {
    "name": "ESET WeLiveSecurity",
@@ -10017,7 +10167,7 @@
    "type": "government",
    "home": "https://www.ncsc.gov.uk",
    "status": "ok",
-   "count": 3
+   "count": 4
   },
   {
    "name": "SANS Internet Storm Center",
@@ -10030,16 +10180,16 @@
    "name": "Reddit r/netsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "ok",
-   "count": 23
+   "status": "error",
+   "count": 0,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
    "type": "community",
    "home": "https://www.reddit.com",
-   "status": "error",
-   "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "status": "ok",
+   "count": 24
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

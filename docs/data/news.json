@@ -1,7 +1,19 @@
 {
- "generated_at": "2026-11-16T18:02:08Z",
+ "generated_at": "2026-11-17T01:57:20Z",
  "demo": false,
  "items": [
+  {
+   "id": "9409189d8358b1c8",
+   "title": "Uber says nearly 150,000 impacted by third-party breach",
+   "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+   "source": "The Record",
+   "type": "news",
+   "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+   "published": "2026-11-18T01:20:00Z",
+   "tags": [
+    "general"
+   ]
+  },
   {
    "id": "44254febdab375da",
    "title": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
@@ -9,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "cloud-identity"
    ]
@@ -21,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "general"
    ]
@@ -33,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "general"
    ]
@@ -45,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "general"
    ]
@@ -57,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "cloud-identity"
    ]
@@ -69,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -81,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -93,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "general"
    ]
@@ -105,7 +117,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "general"
    ]
@@ -117,9 +129,167 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-16T18:02:03Z",
+   "published": "2026-11-17T01:57:13Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "3099ffeb8eda387c",
+   "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors…",
+   "published": "2026-11-17T00:08:41Z",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
+   "id": "ccf02002c5acae85",
+   "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+   "link": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "We uncover a Southeast Asian cyberespionage campaign deploying PerfectPioneer RAT, modular KUKURAT and stealth HTTP/3 C2 communication channels. The post QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments appeared first on Unit 42 .",
+   "published": "2026-11-16T23:00:55Z",
+   "tags": [
+    "threat-actors",
+    "malware"
+   ]
+  },
+  {
+   "id": "60f99194645fc286",
+   "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+   "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+   "published": "2026-11-16T22:54:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "99636bab8a5ad1d9",
+   "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+   "published": "2026-11-16T22:08:20Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a9e3754443636956",
+   "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
+   "link": "https://therecord.media/california-sues-openai-hugging-face",
+   "source": "The Record",
+   "type": "news",
+   "summary": "\"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,” California alleges in a new lawsuit.",
+   "published": "2026-11-16T21:40:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6cd4bc50c4facab1",
+   "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+   "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+   "published": "2026-11-16T21:31:44Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f7229d91014fb235",
+   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+   "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks…",
+   "published": "2026-11-16T20:59:44Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "460686b6b1c6fef0",
+   "title": "Match fined $10 million for alleged Tinder privacy violations",
+   "link": "https://therecord.media/ireland-tinder-privacy-fine",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Ireland’s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their personal data held by the company upon request.",
+   "published": "2026-11-16T20:15:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6fd5298e49bad549",
+   "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+   "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From Indirect Access to American AI Technology appeared first on…",
+   "published": "2026-11-16T20:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f66e964ba9d367ad",
+   "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+   "published": "2026-11-16T19:57:13Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "9899fc2c80e3e1c6",
+   "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+   "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+   "published": "2026-11-16T19:56:05Z",
+   "tags": [
+    "ransomware",
+    "phishing"
+   ]
+  },
+  {
+   "id": "9c11c754eaec73eb",
+   "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
+   "published": "2026-11-16T19:10:03Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "4b4b8357bb6643a1",
+   "title": "Italian regulator fines Meta $886 million for violating data privacy law",
+   "link": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The crackdown on Meta’s Facebook platform involved the company’s alleged use of its “camera roll” suggestions option, launched in 2023, to browse Android users’ photo galleries to recommend posts they could enhance with personal photos and videos.",
+   "published": "2026-11-16T18:05:00Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -9530,153 +9700,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "266b3df3272b7461",
-   "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
-   "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
-   "source": "The Record",
-   "type": "news",
-   "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
-   "published": "2026-11-03T00:01:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "96d161c7d0e81fc4",
-   "title": "CPGuard / OPSSHIELD LLP Breach",
-   "link": "https://www.reddit.com/r/netsec/comments/1xmcr4e/cpguard_opsshield_llp_breach/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "Had a subscription in the past with them and received the following e-mail: Doesn't look like many sites have have picked up on this: Dear cPGuard customers and partners, An unidentified attacker targeted OPSSHIELD, gained unauthorized access to our licensing and update…",
-   "published": "2026-11-02T23:15:36Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "c033741926089d1a",
-   "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
-   "link": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appeared first on Unit 42 .",
-   "published": "2026-11-02T23:00:45Z",
-   "tags": [
-    "threat-actors",
-    "ransomware"
-   ]
-  },
-  {
-   "id": "8158b1dc74164a8a",
-   "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
-   "published": "2026-11-02T22:27:24Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d32892baf1f533f7",
-   "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
-   "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
-   "published": "2026-11-02T21:42:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f6edbcaffade5370",
-   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-   "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
-   "published": "2026-11-02T21:40:14Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "73b73a4735183c93",
-   "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis…",
-   "published": "2026-11-02T20:20:59Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "18836a2757c3c624",
-   "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
-   "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
-   "source": "The Record",
-   "type": "news",
-   "summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.",
-   "published": "2026-11-02T19:54:00Z",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "id": "4b8019f92984e448",
-   "title": "Jailbreaking my car's navigation system just so I can change the time",
-   "link": "https://www.reddit.com/r/netsec/comments/1xm6ks2/jailbreaking_my_cars_navigation_system_just_so_i/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/nns_ee [link] [comments]",
-   "published": "2026-11-02T19:16:42Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b9a8fe94cb9b69e7",
-   "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
-   "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
-   "published": "2026-11-02T19:00:45Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "464c8ebae46c1339",
-   "title": "n0n Ransomware: Inside an AI-Assisted Extortion Operation",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xm5tfd/n0n_ransomware_inside_an_aiassisted_extortion/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-02T18:49:33Z",
-   "tags": [
-    "threat-hunting",
-    "ransomware"
-   ]
-  },
-  {
-   "id": "f8e64d371b0e6032",
-   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-   "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
-   "published": "2026-11-02T18:16:34Z",
-   "tags": [
-    "malware"
-   ]
   }
  ],
  "kev": [
@@ -9851,7 +9874,7 @@
    "type": "news",
    "home": "https://www.darkreading.com",
    "status": "ok",
-   "count": 48
+   "count": 50
   },
   {
    "name": "The Record",

@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-11-17T19:18:54Z",
+ "generated_at": "2026-11-18T01:47:47Z",
  "demo": false,
  "items": [
+  {
+   "id": "44254febdab375da",
+   "title": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "c398452d61b2b595",
+   "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4be5b1b33e187ea6",
+   "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a4af9871b7ba054b",
+   "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "261b8d4aff9d4765",
+   "title": "New Falcon Cloud Security Innovations Secure the Cloud AI Runs On",
+   "link": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "f3ef8a4b5dc168c1",
+   "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+   "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "eb3fc971b476db8d",
+   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "72cace5c82fd439f",
+   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "74c03507cc4ed031",
+   "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+   "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "963228c15b1d2e3e",
+   "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
+   "link": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-18T01:47:41Z",
+   "tags": [
+    "malware"
+   ]
+  },
   {
    "id": "9409189d8358b1c8",
    "title": "Uber says nearly 150,000 impacted by third-party breach",
@@ -15,123 +135,124 @@
    ]
   },
   {
-   "id": "44254febdab375da",
-   "title": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "c398452d61b2b595",
-   "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "4be5b1b33e187ea6",
-   "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a4af9871b7ba054b",
-   "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "261b8d4aff9d4765",
-   "title": "New Falcon Cloud Security Innovations Secure the Cloud AI Runs On",
-   "link": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "f3ef8a4b5dc168c1",
-   "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
-   "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
+   "id": "126567e065a77521",
+   "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+   "published": "2026-11-17T23:04:21Z",
    "tags": [
     "vulnerabilities"
    ]
   },
   {
-   "id": "eb3fc971b476db8d",
-   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "72cace5c82fd439f",
-   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "74c03507cc4ed031",
-   "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
-   "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "963228c15b1d2e3e",
-   "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
-   "link": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-17T19:18:51Z",
+   "id": "46a6b0b05c4e07c0",
+   "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+   "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+   "published": "2026-11-17T22:34:22Z",
    "tags": [
     "malware"
+   ]
+  },
+  {
+   "id": "ddec81ba80b1014f",
+   "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+   "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+   "published": "2026-11-17T21:27:17Z",
+   "tags": [
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "8f75784be3f3eae9",
+   "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+   "link": "https://therecord.media/optimizely-malicious-code-customer-sites",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.",
+   "published": "2026-11-17T21:20:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ba36bcaaae494012",
+   "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+   "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+   "published": "2026-11-17T20:58:13Z",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
+   "id": "1dff6dd6c93a2fcc",
+   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+   "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+   "published": "2026-11-17T20:51:21Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "918174e4844d2ee2",
+   "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+   "link": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation. The post Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us appeared first on Unit 42 .",
+   "published": "2026-11-17T20:43:14Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "6b530aaeb2caeb63",
+   "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+   "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the…",
+   "published": "2026-11-17T19:34:20Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "6b76a35deee9b607",
+   "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "published": "2026-11-17T19:24:07Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "1e05409f353fa51b",
+   "title": "Kazakh ransomware hacking suspect extradited from Italy",
+   "link": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx.",
+   "published": "2026-11-17T19:09:00Z",
+   "tags": [
+    "ransomware"
    ]
   },
   {
@@ -212,10 +333,10 @@
    "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
    "source": "BleepingComputer",
    "type": "news",
-   "summary": "[...]",
+   "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
    "published": "2026-11-17T18:04:15Z",
    "tags": [
-    "general"
+    "vulnerabilities"
    ]
   },
   {
@@ -622,6 +743,30 @@
    "source": "CISA Cybersecurity Advisories",
    "type": "government",
    "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for…",
+   "published": "2026-11-17T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "04fced3604e31ac8",
+   "title": "Critical Java Vulnerability Requires Immediate Patching",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM),…",
+   "published": "2026-11-17T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f49e9f798bfe645f",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack…",
    "published": "2026-11-17T12:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -7820,18 +7965,6 @@
    ]
   },
   {
-   "id": "c776d35c062b8b00",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector…",
-   "published": "2026-11-06T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
    "id": "6625b8a777d1a389",
    "title": "The Flood is Coming And The Pipes Were Already Full",
    "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
@@ -9750,115 +9883,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "5ce5c8d2c37fde75",
-   "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
-   "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing an important authentication gap. Plus: post-quantum YubiKey beta.",
-   "published": "2026-11-04T01:05:40Z",
-   "tags": [
-    "phishing"
-   ]
-  },
-  {
-   "id": "fe2f58fadfc9d2f1",
-   "title": "When trust becomes the payload: Inside the threats, etc quarterly report",
-   "link": "https://www.elastic.co/security-labs/reports/threats-etc-report-november-2026-trouble-with-trust",
-   "source": "Elastic Security Labs",
-   "type": "vendor-research",
-   "summary": "The newest threats, etc report details how adversaries are weaponizing trust across the entire enterprise stack, abusing everything from AI assistants and npm supply chains to identity flows and legitimate management tools.",
-   "published": "2026-11-04T00:00:00Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "b0a8ea5b69867de6",
-   "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-   "published": "2026-11-03T22:18:50Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "df7c4721e4f5e937",
-   "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
-   "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
-   "published": "2026-11-03T22:16:49Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "699d6dc9b64e8dd7",
-   "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-   "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.",
-   "published": "2026-11-03T21:57:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "27b11b6379190f00",
-   "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-   "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-   "published": "2026-11-03T21:28:44Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "8d53dcb94bd2b85b",
-   "title": "PHP2Shell Exploits: What 859 Public Repos Contain",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xn5h7y/php2shell_exploits_what_859_public_repos_contain/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-03T21:17:22Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "317e8557e095955c",
-   "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-   "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
-   "published": "2026-11-03T20:05:50Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "2698ecd844a4176a",
-   "title": "Google dismantles massive botnet hidden in Android TV boxes",
-   "link": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth devices, karaoke machines and digital signage devices.",
-   "published": "2026-11-03T19:48:00Z",
-   "tags": [
-    "malware"
-   ]
   }
  ],
  "kev": [
@@ -10033,7 +10057,7 @@
    "type": "news",
    "home": "https://www.darkreading.com",
    "status": "ok",
-   "count": 50
+   "count": 49
   },
   {
    "name": "The Record",
@@ -10091,7 +10115,7 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 5
+   "count": 6
   },
   {
    "name": "Cisco Talos",
@@ -10133,7 +10157,7 @@
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "Sophos News",
@@ -10169,7 +10193,7 @@
    "type": "government",
    "home": "https://www.cisa.gov",
    "status": "ok",
-   "count": 23
+   "count": 25
   },
   {
    "name": "NCSC UK",

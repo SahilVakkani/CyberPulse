@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:48:08Z",
+ "generated_at": "2026-11-20T08:10:27Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,7 +117,69 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T00:48:04Z",
+   "published": "2026-11-20T08:10:24Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "009f6643a8548564",
+   "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+   "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek .",
+   "published": "2026-11-20T07:35:46Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "ba74506a96acc2d3",
+   "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+   "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and…",
+   "published": "2026-11-20T07:11:39Z",
+   "tags": [
+    "malware",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "dc6901c8a6d8ff52",
+   "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+   "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score:…",
+   "published": "2026-11-20T06:33:31Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "fa700a4eb8ceffe8",
+   "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+   "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted…",
+   "published": "2026-11-20T05:30:01Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e60f53cef3c69b10",
+   "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
+   "link": "https://isc.sans.edu/diary/rss/33538",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-20T02:00:02Z",
    "tags": [
     "general"
    ]
@@ -415,14 +477,14 @@
   },
   {
    "id": "7008c485fa38b4e8",
-   "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+   "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
    "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
    "source": "The Hacker News",
    "type": "news",
    "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no…",
    "published": "2026-11-19T15:11:06Z",
    "tags": [
-    "general"
+    "vulnerabilities"
    ]
   },
   {
@@ -732,7 +794,7 @@
   },
   {
    "id": "ef3cecb6fd503aee",
-   "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+   "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
    "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
    "source": "The Hacker News",
    "type": "news",
@@ -9548,141 +9610,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "6facdf5f94dfdf61",
-   "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-   "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data…",
-   "published": "2026-11-06T08:04:49Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "cfc827a06554ef80",
-   "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xp6tgt/slippynunchucks_hijacks_sogou_input_methods_brand/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-06T07:28:53Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
-  },
-  {
-   "id": "a8986d9667cde3d3",
-   "title": "HostBadger -> Win hardening auditor / now with small GUI + enforcing profiles",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xp6ol7/hostbadger_win_hardening_auditor_now_with_small/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "Hello! Some new features on HostBadger, a free, open-source Windows hardening auditor, now with a (not so) fancy GUI & remediation profiles . Nothing to install & in a few clicks, you'll see: -> 223 checks, each mapped to MITRE ATT&CK and explained : - Credentials (LSA,…",
-   "published": "2026-11-06T07:19:56Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "e88705f93d921ea1",
-   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xp6l4n/us_government_partners_urge_hardening_industrial/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-06T07:13:40Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "e9e9825a913d390f",
-   "title": "How to detect fileless attacks exploiting ToolShell: analyzing the Storm-2603 incident",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xp5g2p/how_to_detect_fileless_attacks_exploiting/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-06T06:02:57Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "ed60ea7fa41262b4",
-   "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-   "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those…",
-   "published": "2026-11-06T05:58:54Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "a382c3d13c65e931",
-   "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-   "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on…",
-   "published": "2026-11-06T05:39:10Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "5d7c1511e0dda8d0",
-   "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-   "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .",
-   "published": "2026-11-06T03:03:29Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "449fb56315dc537c",
-   "title": "Broken access control in Facer (10M+ installs): premium watch faces downloadable from a public CDN with zero authentication",
-   "link": "https://www.reddit.com/r/netsec/comments/1xp11p7/broken_access_control_in_facer_10m_installs/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/FrozenCocomo [link] [comments]",
-   "published": "2026-11-06T02:08:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6ed44c5da57ea2dc",
-   "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
-   "link": "https://isc.sans.edu/diary/rss/33494",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-11-06T02:00:02Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "97d7db0e7e4a0b1e",
-   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-   "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
-   "published": "2026-11-06T00:56:44Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -10015,7 +9942,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
@@ -10023,7 +9950,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

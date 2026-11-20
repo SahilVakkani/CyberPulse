@@ -1,23 +1,277 @@
 {
- "generated_at": "2026-11-19T18:00:22Z",
+ "generated_at": "2026-11-20T00:48:08Z",
  "demo": false,
  "items": [
   {
-   "id": "c398452d61b2b595",
-   "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
+   "id": "4be5b1b33e187ea6",
+   "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-19T18:00:18Z",
+   "published": "2026-11-20T00:48:04Z",
    "tags": [
     "general"
    ]
   },
   {
-   "id": "4be5b1b33e187ea6",
-   "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
+   "id": "f3ef8a4b5dc168c1",
+   "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+   "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "eb3fc971b476db8d",
+   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "72cace5c82fd439f",
+   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "74c03507cc4ed031",
+   "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+   "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "963228c15b1d2e3e",
+   "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
+   "link": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "aee65bc8ab681b47",
+   "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f0ed0fdc40d96a21",
+   "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6efc22951138a3c2",
+   "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8236f5eb74b094df",
+   "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-20T00:48:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c5e24a06d3952b8f",
+   "title": "VMware patches vCenter zero-day exploited in attacks since September",
+   "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+   "published": "2026-11-20T00:26:25Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5e65458c080e9126",
+   "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+   "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+   "published": "2026-11-19T22:40:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "df29d71aedcbd867",
+   "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+   "published": "2026-11-19T22:25:42Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8dfce1d63ad40fde",
+   "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
+   "link": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.",
+   "published": "2026-11-19T21:19:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "3797ecb529a51da9",
+   "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+   "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+   "published": "2026-11-19T21:15:59Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "150f8fb5544609cd",
+   "title": "Second Norwegian Energy Company Breached in Two Days",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+   "published": "2026-11-19T20:14:15Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7cf301393d67c629",
+   "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+   "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+   "published": "2026-11-19T19:57:31Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "dfb731a444878dea",
+   "title": "Navigating Vulnerability Hysteria in the AI Era",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
+   "published": "2026-11-19T19:46:44Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "bd2996802132899d",
+   "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+   "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .",
+   "published": "2026-11-19T19:21:06Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "d0c7e186c7e0b5aa",
+   "title": "The internet needs a nap (and you do, too)",
+   "link": "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "Bill takes a break from the non-stop breaking news to promote prioritizing environmental awareness and team stability over reactive patching.",
+   "published": "2026-11-19T19:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "53e4a59238e8a8ae",
+   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+   "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data,…",
+   "published": "2026-11-19T18:47:58Z",
+   "tags": [
+    "malware",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "1977168802e46550",
+   "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+   "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+   "published": "2026-11-19T18:20:01Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c398452d61b2b595",
+   "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
@@ -36,90 +290,6 @@
    "published": "2026-11-19T18:00:18Z",
    "tags": [
     "cloud-identity"
-   ]
-  },
-  {
-   "id": "f3ef8a4b5dc168c1",
-   "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
-   "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-19T18:00:18Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "eb3fc971b476db8d",
-   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-19T18:00:18Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "72cace5c82fd439f",
-   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-19T18:00:18Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "74c03507cc4ed031",
-   "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
-   "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-19T18:00:18Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "963228c15b1d2e3e",
-   "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
-   "link": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-19T18:00:18Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "aee65bc8ab681b47",
-   "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-19T18:00:18Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f0ed0fdc40d96a21",
-   "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-19T18:00:18Z",
-   "tags": [
-    "general"
    ]
   },
   {
@@ -9513,325 +9683,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "0da6cf00fb542a34",
-   "title": "EU accuses TikTok of trapping users in harmful ‘rabbit holes’",
-   "link": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.",
-   "published": "2026-11-06T00:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "e2845eccbac1628b",
-   "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s…",
-   "published": "2026-11-05T23:46:50Z",
-   "tags": [
-    "cloud-identity",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "e72e56e8b9796677",
-   "title": "Phone return scams: where a real delivery and a fake return end up in a bill for you",
-   "link": "https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Phone return scams are part of a very convincing social engineering method where the criminals get a phone and you get billed.",
-   "published": "2026-11-05T22:18:22Z",
-   "tags": [
-    "malware",
-    "phishing"
-   ]
-  },
-  {
-   "id": "7bee44827e17e9d7",
-   "title": "Operação de influência russa tem como alvo generalizado a América Latina",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
-   "published": "2026-11-05T22:13:23Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "3189ce2b4e22a207",
-   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
-   "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
-   "published": "2026-11-05T22:08:00Z",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "id": "7fcc03515e6414fc",
-   "title": "DigiCert: Unauthorized access to business system",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xovtsq/digicert_unauthorized_access_to_business_system/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-05T22:07:56Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "2bb9d54dbd089635",
-   "title": "NIKKE PC launcher compromise put players’ passwords and personal files at risk",
-   "link": "https://www.malwarebytes.com/blog/news/2026/11/nikke-pc-launcher-compromise-put-players-passwords-and-personal-files-at-risk",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Players of Goddess of Victory: NIKKE are being urged to check their PCs after attackers tampered with files used by the game’s Windows launcher.",
-   "published": "2026-11-05T22:06:59Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "0ac96cd02b1a87f3",
-   "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xovnce/new_lindnor_backdoor_and_glut_of_security_killers/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-05T22:00:28Z",
-   "tags": [
-    "threat-hunting",
-    "malware",
-    "ransomware"
-   ]
-  },
-  {
-   "id": "47747dc745a2e21a",
-   "title": "Barracuda Networks is your new best friend (Barracuda Email Security Gateway Pre-Auth Remote Root RCE CVE-2026-116606 / CVE-2026-111560)",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xovhio/barracuda_networks_is_your_new_best_friend/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-05T21:53:58Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "c5d8bcb2d0573a49",
-   "title": "US Government Email Systems Open to Abuse Thanks to Typos",
-   "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
-   "published": "2026-11-05T21:35:05Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "835ec2056e4411d1",
-   "title": "Scammers use AI-generated images of missing pets to extort owners",
-   "link": "https://www.malwarebytes.com/blog/ai/2026/11/scammers-use-ai-generated-images-of-missing-pets-to-extort-owners",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Scammers are using AI images to enhance their \"I've found your missing pet and want money to return it to you\" schemes.",
-   "published": "2026-11-05T21:34:14Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "886e9406677fab21",
-   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-   "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
-   "published": "2026-11-05T21:30:30Z",
-   "tags": [
-    "phishing"
-   ]
-  },
-  {
-   "id": "3da2c4855b54aef0",
-   "title": "Barracuda Networks is your new best friend (Barracuda Email Security Gateway Pre-Auth Remote Root RCE CVE-2026-116606 / CVE-2026-111560) - watchTowr Labs",
-   "link": "https://www.reddit.com/r/netsec/comments/1xouqpj/barracuda_networks_is_your_new_best_friend/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/dx7r__ [link] [comments]",
-   "published": "2026-11-05T21:24:03Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "68112e0d9edca851",
-   "title": "TraderTraitor vs Contagious Interview - A Look at Binance's Initial Incident Report",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xouerc/tradertraitor_vs_contagious_interview_a_look_at/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-05T21:10:51Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "4188eb1d13bc2352",
-   "title": "Want to Rent an Internet Address at the White House?",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xoue4c/want_to_rent_an_internet_address_at_the_white/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-05T21:10:08Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "989ad00bcb52084d",
-   "title": "An Ivanti Zero-Day Operation Where the Dead Proxy Was Named in the Operator's Notes",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xoudgd/an_ivanti_zeroday_operation_where_the_dead_proxy/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-05T21:09:23Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "6ae54b5becb8074a",
-   "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-   "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
-   "published": "2026-11-05T21:00:47Z",
-   "tags": [
-    "phishing"
-   ]
-  },
-  {
-   "id": "835e42a20ded7d60",
-   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
-   "link": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
-   "published": "2026-11-05T20:48:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f7a9cf6cc267faa0",
-   "title": "[ Removed by Reddit ]",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xot2us/removed_by_reddit/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-05T20:17:22Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "58f4053a1bb932db",
-   "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-   "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-   "published": "2026-11-05T20:15:08Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "8b7832becd89f665",
-   "title": "US issues more sanctions against Prince Group scam center affiliates",
-   "link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
-   "published": "2026-11-05T20:11:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "8c41ea53568673e3",
-   "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-   "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-   "published": "2026-11-05T20:05:39Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "7e637a2f9fd70ec8",
-   "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-   "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-   "published": "2026-11-05T19:24:26Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "dd39564224715dd3",
-   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
-   "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
-   "published": "2026-11-05T19:15:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "235c91400cfbaf46",
-   "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
-   "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side.",
-   "published": "2026-11-05T19:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d94b4991c1aadca6",
-   "title": "Sogou Input Method update hijack installs DarkVigil backdoor; update to 16.10 (CVE-2026-120422)",
-   "link": "https://www.reddit.com/r/netsec/comments/1xoq81f/sogou_input_method_update_hijack_installs/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/glatisantbeast [link] [comments]",
-   "published": "2026-11-05T18:26:37Z",
-   "tags": [
-    "malware",
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
@@ -10164,7 +10015,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/netsec/.rss"
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
@@ -10172,7 +10023,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

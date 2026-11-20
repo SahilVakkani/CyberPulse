@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:08:05Z",
+ "generated_at": "2026-11-20T23:16:09Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,9 +117,194 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T17:08:00Z",
+   "published": "2026-11-20T23:16:04Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "d20cb913632d0a35",
+   "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+   "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "This is the story of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+   "published": "2026-11-20T22:04:12Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "ec3643e6e571f139",
+   "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+   "link": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance. The post Dialing for Data: Inside the Com’s High-Profile Heists appeared first on Unit 42 .",
+   "published": "2026-11-20T22:00:25Z",
+   "tags": [
+    "threat-actors",
+    "ransomware",
+    "cloud-identity",
+    "phishing"
+   ]
+  },
+  {
+   "id": "f0b8696c25c4c4a7",
+   "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+   "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+   "source": "The Record",
+   "type": "news",
+   "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
+   "published": "2026-11-20T21:34:36Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a9aa37ceddf16814",
+   "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+   "published": "2026-11-20T21:03:27Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e010061a1eb7f0ca",
+   "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+   "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+   "source": "The Record",
+   "type": "news",
+   "summary": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
+   "published": "2026-11-20T20:25:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "edfeced150c6a6c3",
+   "title": "Container Store restores systems after cyberattack",
+   "link": "https://therecord.media/container-store-restores-systems-cyberattack",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”",
+   "published": "2026-11-20T19:32:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6c623452a14a6d23",
+   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+   "published": "2026-11-20T18:51:43Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "95e1986b820d2a34",
+   "title": "In Security, Words Matter as Much as Tools, Maybe More",
+   "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+   "published": "2026-11-20T18:35:40Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "6cc616c5c6e76f97",
+   "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+   "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of…",
+   "published": "2026-11-20T17:57:20Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "0abe4221510a96d0",
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+   "published": "2026-11-20T17:30:00Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "cd038ca0a29b9504",
+   "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+   "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+   "source": "The Record",
+   "type": "news",
+   "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
+   "published": "2026-11-20T17:30:00Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "35aed7f27fbb0710",
+   "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+   "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+   "published": "2026-11-20T17:04:04Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "705577b57ecf22bf",
+   "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM). The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM appeared first on Microsoft…",
+   "published": "2026-11-20T17:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9dbbebdeb6a3a85d",
+   "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+   "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the…",
+   "published": "2026-11-20T16:58:16Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "4727638392dd0c1d",
+   "title": "Mapping the AI threat landscape: MITRE ATLAS comes to Elastic Security",
+   "link": "https://www.elastic.co/security-labs/blog/mitre-atlas-elastic-security-detection-coverage",
+   "source": "Elastic Security Labs",
+   "type": "vendor-research",
+   "summary": "Elastic Security 9.6 adds MITRE ATLAS to our detection rules and the tools you use to manage them, so you can see which AI attacks your rules already cover.",
+   "published": "2026-11-20T16:30:00Z",
+   "tags": [
+    "threat-hunting"
    ]
   },
   {
@@ -304,6 +489,18 @@
    "published": "2026-11-20T12:00:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "925f615d574112f7",
+   "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway…",
+   "published": "2026-11-20T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -527,7 +724,7 @@
   },
   {
    "id": "150f8fb5544609cd",
-   "title": "Second Norwegian Energy Company Breached in Two Days",
+   "title": "Second Norwegian Energy Company Breached in 2 Days",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
    "source": "Dark Reading",
    "type": "news",
@@ -539,7 +736,7 @@
   },
   {
    "id": "7cf301393d67c629",
-   "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+   "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
    "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
    "source": "Dark Reading",
    "type": "news",
@@ -1123,6 +1320,18 @@
    ]
   },
   {
+   "id": "de81157016f8e474",
+   "title": "My IoT devices are no longer supported – is my smart home safe?",
+   "link": "https://www.welivesecurity.com/en/internet-of-things/iot-devices-no-longer-supported-smart-home-safe/",
+   "source": "ESET WeLiveSecurity",
+   "type": "vendor-research",
+   "summary": "End-of-life smart devices can be a security risk if left unmanaged – here’s what to do instead",
+   "published": "2026-11-19T08:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
    "id": "e2e32d524f45d098",
    "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
    "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
@@ -1617,18 +1826,6 @@
    "published": "2026-11-18T12:00:00Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "122413bd849f4f44",
-   "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM…",
-   "published": "2026-11-18T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
    ]
   },
   {
@@ -9334,204 +9531,45 @@
     "vulnerabilities",
     "cloud-identity"
    ]
-  },
-  {
-   "id": "b99b441690fc8bf8",
-   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-   "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
-   "published": "2026-11-06T22:27:25Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "46c76064dfebbdab",
-   "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-   "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally…",
-   "published": "2026-11-06T22:05:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "dc7bcf362128f821",
-   "title": "SonicWall SonicOS Affected By Multiple Vulnerabilities - CVE-2026-77708, CVE-2026-77709, CVE-2026-82308, CVE-2026-107154, CVE-2026-107155, CVE-2026-19703, CVE-2026-19868",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpouoe/sonicwall_sonicos_affected_by_multiple/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-06T21:34:10Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "2cc472ecd8789fed",
-   "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpopsf/threat_actors_use_agentic_ai_tooling_to_find_and/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-06T21:28:45Z",
-   "tags": [
-    "threat-hunting",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "41d1e96fea423ff1",
-   "title": "ARTEX: Agentic Asbestos",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpop5k/artex_agentic_asbestos/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-06T21:27:59Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "b63212099f3b82aa",
-   "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-   "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
-   "published": "2026-11-06T21:27:36Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ce2362fa272a2dc2",
-   "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems",
-   "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems appeared first on Unit 42 .",
-   "published": "2026-11-06T21:15:09Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "ba147c5fc5c98202",
-   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-   "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-   "published": "2026-11-06T20:24:19Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "ae585271a1bcaf66",
-   "title": "Joint statement on cyber incidents in refrigeration systems across the EU | ENISA",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xplwru/joint_statement_on_cyber_incidents_in/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-06T19:33:06Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "ea6b9d64cfe5f3ca",
-   "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
-   "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
-   "published": "2026-11-06T19:06:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "c5532d0fb1f05c44",
-   "title": "Certificate authority DigiCert reports data breach involving business customer info",
-   "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
-   "source": "The Record",
-   "type": "news",
-   "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
-   "published": "2026-11-06T18:56:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "a97be9095b72e1db",
-   "title": "Fake security tools on GitHub push backdoors and infostealers",
-   "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-   "published": "2026-11-06T18:46:52Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "28ac7417dd20947f",
-   "title": "Siemens expands the device list for a 10.0-rated Node-RED flaw",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpkhnu/siemens_expands_the_device_list_for_a_100rated/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "Siemens expanded the affected-product list for CVE-2026-58115 on November 4, adding three SIMATIC IoT2050 products to its advisory. The missing-authentication vulnerability affects specified devices running Industrial OS with Node-RED installed. It can allow an unauthenticated…",
-   "published": "2026-11-06T18:37:27Z",
-   "tags": [
-    "threat-hunting",
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "d9a0f8bfa397c301",
-   "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-   "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks…",
-   "published": "2026-11-06T18:28:41Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "3c3dad9eec40e4f3",
-   "title": "AI Gave Your Incident Archive a Second Job",
-   "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
-   "published": "2026-11-06T18:27:30Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "9b5b01b37353494e",
-   "title": "Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpk5b8/free_the_model_sell_the_gateway_prompt_adware/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-06T18:24:11Z",
-   "tags": [
-    "threat-hunting"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-129448",
+   "vendor": "Apache",
+   "product": "Roller",
+   "name": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+   "added": "2026-11-20",
+   "due": "2026-11-23",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-123890",
+   "vendor": "Broadcom",
+   "product": "VMware vCenter",
+   "name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+   "added": "2026-11-20",
+   "due": "2026-11-23",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2025-42884",
+   "vendor": "SAP",
+   "product": "NetWeaver",
+   "name": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+   "added": "2026-11-20",
+   "due": "2026-11-23",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-76466",
+   "vendor": "Cisco",
+   "product": "Expressway Series",
+   "name": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+   "added": "2026-11-20",
+   "due": "2026-11-23",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2024-10441",
    "vendor": "Synology",
@@ -9630,42 +9668,6 @@
    "added": "2026-11-10",
    "due": "2026-11-13",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-116606",
-   "vendor": "Barracuda Networks",
-   "product": "Barracuda Email Security Gateway (ESG)",
-   "name": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-   "added": "2026-11-10",
-   "due": "2026-11-13",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-125350",
-   "vendor": "Google",
-   "product": "Chromium",
-   "name": "Google Chromium Use-After-Free Vulnerability",
-   "added": "2026-11-10",
-   "due": "2026-11-24",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-102895",
-   "vendor": "GPUStack",
-   "product": "GPUStack",
-   "name": "GPUStack Improper Authentication Vulnerability",
-   "added": "2026-11-09",
-   "due": "2026-11-12",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-123158",
-   "vendor": "OpenBSD",
-   "product": "OpenSSH",
-   "name": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
-   "added": "2026-11-09",
-   "due": "2026-11-12",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -9703,7 +9705,7 @@
    "type": "news",
    "home": "https://www.darkreading.com",
    "status": "ok",
-   "count": 49
+   "count": 50
   },
   {
    "name": "The Record",
@@ -9789,7 +9791,7 @@
    "type": "vendor-research",
    "home": "https://www.welivesecurity.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "Check Point Research",
@@ -9803,7 +9805,7 @@
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 5
+   "count": 6
   },
   {
    "name": "Sophos News",
@@ -9839,7 +9841,7 @@
    "type": "government",
    "home": "https://www.cisa.gov",
    "status": "ok",
-   "count": 25
+   "count": 26
   },
   {
    "name": "NCSC UK",

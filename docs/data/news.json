@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:16:09Z",
+ "generated_at": "2026-11-21T04:10:27Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,9 +117,21 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-20T23:16:04Z",
+   "published": "2026-11-21T04:10:24Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "93138fbb4db250e2",
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "source": "Krebs on Security",
+   "type": "news",
+   "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply…",
+   "published": "2026-11-21T00:36:39Z",
+   "tags": [
+    "ransomware"
    ]
   },
   {
@@ -9506,31 +9518,6 @@
    "tags": [
     "threat-hunting"
    ]
-  },
-  {
-   "id": "e115b44724e254be",
-   "title": "ARTEX abuse expands as cybercriminals target financial sector",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector appeared first on Microsoft Security…",
-   "published": "2026-11-07T02:44:34Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "ca1a9396bb6596ea",
-   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-   "published": "2026-11-07T00:00:55Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
   }
  ],
  "kev": [
@@ -9691,7 +9678,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 3
+   "count": 4
   },
   {
    "name": "SecurityWeek",

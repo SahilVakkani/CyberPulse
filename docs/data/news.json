@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:10:27Z",
+ "generated_at": "2026-11-21T12:55:09Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,9 +117,82 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-21T04:10:24Z",
+   "published": "2026-11-21T12:55:04Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "6231e48f3bee97e2",
+   "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+   "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
+   "published": "2026-11-21T12:08:50Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "0ad755f2681c3730",
+   "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+   "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected…",
+   "published": "2026-11-21T11:53:07Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "761885e6c02d6550",
+   "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+   "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released…",
+   "published": "2026-11-21T11:05:53Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "16765aea3bd9ae9d",
+   "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+   "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account…",
+   "published": "2026-11-21T11:03:17Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "9da47b8efcbbfaa0",
+   "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+   "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on…",
+   "published": "2026-11-21T08:49:20Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a3eac34b29cf4ec4",
+   "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The…",
+   "published": "2026-11-21T08:49:13Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -239,7 +312,7 @@
    "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
    "source": "The Hacker News",
    "type": "news",
-   "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of…",
+   "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of…",
    "published": "2026-11-20T17:57:20Z",
    "tags": [
     "vulnerabilities"
@@ -9395,128 +9468,6 @@
    "published": "2026-11-07T14:10:19Z",
    "tags": [
     "vulnerabilities"
-   ]
-  },
-  {
-   "id": "1dbb32a3e5b4977a",
-   "title": "unlocking any car from X brand in most of the world",
-   "link": "https://www.reddit.com/r/netsec/comments/1xq3xin/unlocking_any_car_from_x_brand_in_most_of_the/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/Mempodipper [link] [comments]",
-   "published": "2026-11-07T11:10:50Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "986edfc864db12c6",
-   "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-   "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
-   "published": "2026-11-07T10:16:23Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "167e26f3d167711b",
-   "title": "The Exploit Was the Bottleneck",
-   "link": "https://www.reddit.com/r/netsec/comments/1xq2ix1/the_exploit_was_the_bottleneck/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/kygyty [link] [comments]",
-   "published": "2026-11-07T09:38:30Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "6a801a4de8d0e4ee",
-   "title": "CTO at NCSC Summary: week ending November 8th",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xq2gd0/cto_at_ncsc_summary_week_ending_november_8th/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-07T09:33:43Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "67e46d8ffeb6e44b",
-   "title": "Reproducing the GhostMap APK crash loop on Android 16/17, plus an offline check for the ZIP parser mismatch",
-   "link": "https://www.reddit.com/r/netsec/comments/1xq1jwj/reproducing_the_ghostmap_apk_crash_loop_on/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/ImL1s [link] [comments]",
-   "published": "2026-11-07T08:34:20Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "e058c875cf34f81d",
-   "title": "Residential Proxies Detected on White House Network",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xq1enq/residential_proxies_detected_on_white_house/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-07T08:24:58Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "33b6885ceba72687",
-   "title": "The Tipping Point: When Cyber Attacks Stop Being Limited by People",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xq0sy7/the_tipping_point_when_cyber_attacks_stop_being/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-07T07:46:48Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "804a43c3361e7807",
-   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-   "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word,…",
-   "published": "2026-11-07T06:44:17Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "1aad25f89f519587",
-   "title": "[2611.03774] What Malware Actually Does: An Empirical Analysis of Post-Infection Behavior Across Malware Families",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpziw8/261103774_what_malware_actually_does_an_empirical/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-07T06:27:25Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
-  },
-  {
-   "id": "5028f1d115a70369",
-   "title": "ARES: ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls, encrypted vault, and reporting.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xpz74a/ares_ares_authorized_redteam_engagement/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-07T06:07:49Z",
-   "tags": [
-    "threat-hunting"
    ]
   }
  ],

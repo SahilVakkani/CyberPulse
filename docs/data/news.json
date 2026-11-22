@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T00:14:45Z",
+ "generated_at": "2026-11-22T07:17:19Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,7 +117,43 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T00:14:41Z",
+   "published": "2026-11-22T07:17:13Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "78074d39dfa2deb1",
+   "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+   "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is…",
+   "published": "2026-11-22T05:06:55Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "0be8ff22df4a77bf",
+   "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+   "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other…",
+   "published": "2026-11-22T05:03:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "aeb7ef21f8ed11a6",
+   "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+   "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
+   "published": "2026-11-22T00:53:02Z",
    "tags": [
     "general"
    ]
@@ -167,6 +203,18 @@
    "type": "news",
    "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
    "published": "2026-11-21T14:26:04Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "45e8d2f82c3e3e03",
+   "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+   "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
+   "published": "2026-11-21T13:00:00Z",
    "tags": [
     "general"
    ]
@@ -9470,30 +9518,6 @@
    "tags": [
     "threat-hunting"
    ]
-  },
-  {
-   "id": "43914ed316f11eae",
-   "title": "ARTEX attack",
-   "link": "https://www.reddit.com/r/netsec/comments/1xqmhgk/artex_attack/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "Has anyone heard of this? https://blog.gitguardian.com/the-agents-have-now-found-your-secrets-on-github-artex-is-abusing-public-secrets-right-now/ submitted by /u/Important_Market961 [link] [comments]",
-   "published": "2026-11-08T01:31:04Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "8ba77aca6c81ab0d",
-   "title": "I spent countless nights digging into PHP2Shell. Here's a deep dive into how it actually works, from memory to PHP internals to a real exploit.",
-   "link": "https://www.reddit.com/r/netsec/comments/1xqlw37/i_spent_countless_nights_digging_into_php2shell/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "When the PHP vulnerabilities were first announced, I spent a HUGE amount of time trying to figure out the logic behind them. As many others who tried investigating them probably noticed, there was barely any technical information available at the time. We had a few basic hints:…",
-   "published": "2026-11-08T01:00:49Z",
-   "tags": [
-    "vulnerabilities"
-   ]
   }
  ],
  "kev": [
@@ -9826,7 +9850,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/netsec/.rss"
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
@@ -9834,7 +9858,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:33:37Z",
+ "generated_at": "2026-11-22T21:35:59Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,7 +117,45 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T15:33:34Z",
+   "published": "2026-11-22T21:35:53Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "e84afceb005f0d48",
+   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+   "published": "2026-11-22T18:45:37Z",
+   "tags": [
+    "malware",
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "f6ee8bdc262f5053",
+   "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
+   "link": "https://isc.sans.edu/diary/rss/33530",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.",
+   "published": "2026-11-22T18:40:18Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "855a50efe0f3bb9d",
+   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+   "published": "2026-11-22T15:43:04Z",
    "tags": [
     "general"
    ]
@@ -9237,90 +9275,6 @@
    "published": "2026-11-09T00:20:58Z",
    "tags": [
     "general"
-   ]
-  },
-  {
-   "id": "1c16ac98bb2410d9",
-   "title": "Dissecting WerFault",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xr5nmg/dissecting_werfault/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-08T18:42:25Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "0d1793f07d1236de",
-   "title": "[WorkOS] Update for October 30th, 2026 Data Security Incident",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xr57go/workos_update_for_october_30th_2026_data_security/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-08T18:23:52Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "d2d1efb09b3ea999",
-   "title": "Pwning Home Assistant Green: Pre-Auth RCE in Eclipse Mosquitto",
-   "link": "https://www.reddit.com/r/netsec/comments/1xr33yo/pwning_home_assistant_green_preauth_rce_in/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/parzel [link] [comments]",
-   "published": "2026-11-08T16:58:09Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b9d4acf1a4ff0436",
-   "title": "Tricking Deepseek Into Not Hacking Your Website",
-   "link": "https://www.reddit.com/r/netsec/comments/1xr332o/tricking_deepseek_into_not_hacking_your_website/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/utku1337 [link] [comments]",
-   "published": "2026-11-08T16:57:11Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ca1a58e6fb5b9114",
-   "title": "email encryption",
-   "link": "https://www.reddit.com/r/netsec/comments/1xr1qpe/email_encryption/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/fagnerbrack [link] [comments]",
-   "published": "2026-11-08T16:00:58Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "4c6744ea789bbdc8",
-   "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
-   "link": "https://isc.sans.edu/diary/rss/33498",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only the first 255 characters of…",
-   "published": "2026-11-08T15:44:33Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "840fc9184c683327",
-   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-   "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-   "published": "2026-11-08T15:43:08Z",
-   "tags": [
-    "cloud-identity"
    ]
   }
  ],

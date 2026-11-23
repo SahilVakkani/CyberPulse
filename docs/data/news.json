@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T02:20:58Z",
+ "generated_at": "2026-11-23T11:03:24Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,9 +117,96 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-23T02:20:54Z",
+   "published": "2026-11-23T11:03:19Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "ca72045b083c31c9",
+   "title": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
+   "link": "https://securelist.com/black-friday-threat-report-2026/122061/",
+   "source": "Securelist (Kaspersky)",
+   "type": "vendor-research",
+   "summary": "How cybercriminals prepare for Black Friday: phishing, scams and malware targeting online shoppers and gamers, GTA VI- and wellness-related schemes, and fake sales spam.",
+   "published": "2026-11-23T10:00:43Z",
+   "tags": [
+    "malware",
+    "phishing"
+   ]
+  },
+  {
+   "id": "31afdc96e80bb016",
+   "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as…",
+   "published": "2026-11-23T09:11:56Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "d0dd2916cf583a59",
+   "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+   "published": "2026-11-23T09:11:15Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "791422e9c3235070",
+   "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+   "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed…",
+   "published": "2026-11-23T09:04:08Z",
+   "tags": [
+    "malware",
+    "vulnerabilities",
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "80927b607c9d99a7",
+   "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in…",
+   "published": "2026-11-23T08:24:15Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "de68de01a828e34f",
+   "title": "A week in security (November 16 – November 22)",
+   "link": "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-16-november-22",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "A list of topics we covered in the week of November 16 to November 22 of 2026",
+   "published": "2026-11-23T08:01:00Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "5d81d8091009c293",
+   "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+   "published": "2026-11-23T07:44:19Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -352,6 +439,18 @@
    "published": "2026-11-21T08:49:13Z",
    "tags": [
     "vulnerabilities"
+   ]
+  },
+  {
+   "id": "a03f51601e713e60",
+   "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+   "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Identity, runtime and development controls are converging as enterprises are tasked with keeping agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+   "published": "2026-11-21T01:31:23Z",
+   "tags": [
+    "general"
    ]
   },
   {
@@ -9154,128 +9253,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "a02fb0af291601b9",
-   "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-   "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both…",
-   "published": "2026-11-09T10:56:25Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "3c0c651efea81480",
-   "title": "Over 3 Million People Hit by Frontline Education Data Breach",
-   "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek .",
-   "published": "2026-11-09T10:09:02Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "62af4291e17cf20f",
-   "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-   "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator…",
-   "published": "2026-11-09T10:01:21Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "e8082cc54dfbdb4b",
-   "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-   "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and…",
-   "published": "2026-11-09T09:01:50Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "33c824e207021f77",
-   "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
-   "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on SecurityWeek .",
-   "published": "2026-11-09T08:35:50Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "4da17d4d6362a4aa",
-   "title": "A week in security (November 2 – November 8)",
-   "link": "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-2-november-8",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "A list of topics we covered in the week of November 2 to November 8 of 2026",
-   "published": "2026-11-09T08:01:00Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "a2c922a06d73cc00",
-   "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-   "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal…",
-   "published": "2026-11-09T07:05:48Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "df6a1e5a88d8a5b7",
-   "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-   "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or…",
-   "published": "2026-11-09T06:15:10Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "3d5dfb277e1d458f",
-   "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-   "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The…",
-   "published": "2026-11-09T06:05:24Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "33a8699ca81c1df1",
-   "title": "A Boolean PII Flag Is Not Enough",
-   "link": "https://www.reddit.com/r/netsec/comments/1xrht5t/a_boolean_pii_flag_is_not_enough/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/fagnerbrack [link] [comments]",
-   "published": "2026-11-09T04:00:51Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -9529,7 +9506,7 @@
    "type": "vendor-research",
    "home": "https://securelist.com",
    "status": "ok",
-   "count": 9
+   "count": 10
   },
   {
    "name": "ESET WeLiveSecurity",
@@ -9599,8 +9576,9 @@
    "name": "SANS Internet Storm Center",
    "type": "community",
    "home": "https://isc.sans.edu",
-   "status": "ok",
-   "count": 10
+   "status": "error",
+   "count": 0,
+   "error": "feed has no entries"
   },
   {
    "name": "Reddit r/netsec",

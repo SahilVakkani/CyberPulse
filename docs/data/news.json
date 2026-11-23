@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:35:59Z",
+ "generated_at": "2026-11-23T02:20:58Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -117,7 +117,19 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-22T21:35:53Z",
+   "published": "2026-11-23T02:20:54Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4a7e4b34034f604c",
+   "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+   "link": "https://isc.sans.edu/diary/rss/33548",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-23T02:00:04Z",
    "tags": [
     "general"
    ]
@@ -620,6 +632,18 @@
    "type": "news",
    "summary": "Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor.",
    "published": "2026-11-20T14:24:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "d5ce378b68b4fc31",
+   "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+   "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+   "published": "2026-11-20T13:51:30Z",
    "tags": [
     "general"
    ]
@@ -9249,30 +9273,6 @@
    "type": "community",
    "summary": "submitted by /u/fagnerbrack [link] [comments]",
    "published": "2026-11-09T04:00:51Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "95a81488e3cdcea6",
-   "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
-   "link": "https://isc.sans.edu/diary/rss/33500",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-11-09T02:05:10Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "26e0882f4427bc8d",
-   "title": "17 offensive AI packages defenders should watch, starting with PentAGI and Cairn",
-   "link": "https://www.reddit.com/r/netsec/comments/1xrdgba/17_offensive_ai_packages_defenders_should_watch/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/ryanmerket [link] [comments]",
-   "published": "2026-11-09T00:20:58Z",
    "tags": [
     "general"
    ]

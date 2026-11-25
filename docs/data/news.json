@@ -1,19 +1,7 @@
 {
- "generated_at": "2026-11-24T18:42:09Z",
+ "generated_at": "2026-11-25T02:57:21Z",
  "demo": false,
  "items": [
-  {
-   "id": "4be5b1b33e187ea6",
-   "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-24T18:42:04Z",
-   "tags": [
-    "general"
-   ]
-  },
   {
    "id": "f3ef8a4b5dc168c1",
    "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
@@ -21,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-24T18:42:04Z",
+   "published": "2026-11-25T02:57:18Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -33,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-24T18:42:04Z",
+   "published": "2026-11-25T02:57:18Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -45,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-24T18:42:04Z",
+   "published": "2026-11-25T02:57:18Z",
    "tags": [
     "general"
    ]
@@ -57,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-24T18:42:04Z",
+   "published": "2026-11-25T02:57:18Z",
    "tags": [
     "general"
    ]
@@ -69,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-24T18:42:04Z",
+   "published": "2026-11-25T02:57:18Z",
    "tags": [
     "malware"
    ]
@@ -81,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-24T18:42:04Z",
+   "published": "2026-11-25T02:57:18Z",
    "tags": [
     "general"
    ]
@@ -93,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-24T18:42:04Z",
+   "published": "2026-11-25T02:57:18Z",
    "tags": [
     "general"
    ]
@@ -105,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-24T18:42:04Z",
+   "published": "2026-11-25T02:57:18Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -114,6 +102,164 @@
    "id": "8236f5eb74b094df",
    "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T02:57:18Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "cbf383c5a42e1074",
+   "title": "Reprioritizing Automated Leads with CrowdStrike Signal",
+   "link": "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T02:57:18Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f3fa36a7a7e1a1fe",
+   "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+   "link": "https://isc.sans.edu/diary/rss/33554",
+   "source": "SANS Internet Storm Center",
+   "type": "community",
+   "summary": "",
+   "published": "2026-11-25T02:00:03Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5a7ed17eceba38be",
+   "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+   "link": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance. The post NGINX HTTP/2 Use-After-Free: CVE-2026-123633 appeared first on Unit 42 .",
+   "published": "2026-11-24T23:00:14Z",
+   "tags": [
+    "threat-actors",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "ae79bb5847a54156",
+   "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+   "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
+   "published": "2026-11-24T22:41:58Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6a6218931c47e3bc",
+   "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+   "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+   "published": "2026-11-24T22:05:34Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "7f8f5938b05b8fb0",
+   "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+   "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+   "published": "2026-11-24T21:48:06Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "6c270107d3982041",
+   "title": "Rackspace shuts down Spot cloud platform after security breach",
+   "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+   "published": "2026-11-24T21:37:30Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "3b8d0a7e0d039061",
+   "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+   "published": "2026-11-24T21:36:11Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "2f99e3ac2673fbf0",
+   "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+   "link": "https://therecord.media/mycolorado-app-down-data-breach",
+   "source": "The Record",
+   "type": "news",
+   "summary": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
+   "published": "2026-11-24T20:52:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "0bc0f9692115f3dd",
+   "title": "New Inception extortion gang launches large-scale vishing campaign",
+   "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+   "published": "2026-11-24T20:21:20Z",
+   "tags": [
+    "ransomware",
+    "phishing"
+   ]
+  },
+  {
+   "id": "8a279dc693833480",
+   "title": "California privacy agency director Kemp to leave after two-year tenure",
+   "link": "https://therecord.media/california-privacy-agency-kemp",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.",
+   "published": "2026-11-24T19:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5f76ac4f7ca9daa3",
+   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+   "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+   "published": "2026-11-24T18:59:52Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "4be5b1b33e187ea6",
+   "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
@@ -531,6 +677,18 @@
    "source": "NCSC UK",
    "type": "government",
    "summary": "How to protect your organisation from cyber attacks created using ‘agentic offensive frameworks’.",
+   "published": "2026-11-24T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "a0ae3cb09c406305",
+   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution…",
    "published": "2026-11-24T12:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -8827,286 +8985,6 @@
     "threat-hunting",
     "phishing"
    ]
-  },
-  {
-   "id": "d339073a9f0b18a9",
-   "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
-   "link": "https://isc.sans.edu/diary/rss/33510",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-11-11T02:00:03Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "c3c6570192bbc54d",
-   "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities",
-   "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "Microsoft has released its monthly security update for November 2026, which includes 1095 vulnerabilities affecting a range of products, including 64 that Microsoft marked as \"critical.\" Out of 64 \"critical\" vulnerabilities, 48 are remote code execution (RCE) vulnerabilities.",
-   "published": "2026-11-11T01:41:17Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f91527c7bf888616",
-   "title": "Detecting sleeper agents hiding in AI model neurons",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which…",
-   "published": "2026-11-10T23:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "95f883361cdc02d1",
-   "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
-   "published": "2026-11-10T22:26:51Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "549a822a72f8ad8c",
-   "title": "Supabase Security findings why RLS is only 25% of the issues",
-   "link": "https://www.reddit.com/r/netsec/comments/1xt0jrg/supabase_security_findings_why_rls_is_only_25_of/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/1thirteenthirtyseven [link] [comments]",
-   "published": "2026-11-10T22:21:14Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "16367edd00b63500",
-   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-   "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
-   "published": "2026-11-10T22:20:19Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "9364f9baac682a40",
-   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-   "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-   "source": "Krebs on Security",
-   "type": "news",
-   "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and…",
-   "published": "2026-11-10T21:55:03Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "15da1f8e31d6aed9",
-   "title": "US Army member arrested in UK over allegations of spying for Russia",
-   "link": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
-   "published": "2026-11-10T21:13:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "c9d200a425c20993",
-   "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
-   "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
-   "published": "2026-11-10T21:01:14Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "612ae5f08dba0aa0",
-   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
-   "link": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
-   "source": "The Record",
-   "type": "news",
-   "summary": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
-   "published": "2026-11-10T20:55:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "230bcad0faf39354",
-   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-   "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-   "published": "2026-11-10T20:54:55Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6922144e7a8d86cd",
-   "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
-   "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
-   "published": "2026-11-10T20:41:45Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "8ec6ef10a10ae8e7",
-   "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
-   "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
-   "published": "2026-11-10T20:35:34Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "9c319be73b0aee05",
-   "title": "Exchange for breakfast: Turla’s Cereal tricks are not for kids",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xsxvne/exchange_for_breakfast_turlas_cereal_tricks_are/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-10T20:34:06Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "d6fe2bb7d3316c8f",
-   "title": "How to Assess OT Incident Response Preparedness",
-   "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
-   "published": "2026-11-10T20:18:43Z",
-   "tags": [
-    "cloud-identity",
-    "dfir"
-   ]
-  },
-  {
-   "id": "9814f0299437ed94",
-   "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-   "published": "2026-11-10T20:04:36Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "c6e200f7b333a0e6",
-   "title": "Cracking Server 2022 NTLMv1-SSP Hashes with Rainbow Tables",
-   "link": "https://www.reddit.com/r/netsec/comments/1xswu2e/cracking_server_2022_ntlmv1ssp_hashes_with/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "A while back, I had released a blog showing that NTLMv1 downgrade attacks still work on Windows Server 2022! While it isn't a default setting, it's still a misconfiguration to potentially look for. If a DC’s LmCompatibilityLevel is set to 0-2, you can coerce authentication,…",
-   "published": "2026-11-10T19:53:18Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "09de80ae0aa44cee",
-   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
-   "published": "2026-11-10T19:31:11Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "b86930e18372a4de",
-   "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-   "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1,…",
-   "published": "2026-11-10T19:23:10Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "008f66d06450b9b0",
-   "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
-   "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .",
-   "published": "2026-11-10T19:19:46Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "b958c227209529b5",
-   "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-   "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in…",
-   "published": "2026-11-10T19:19:39Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "50eb1dccf495275b",
-   "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-   "published": "2026-11-10T19:07:36Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "80496ac2144fe73b",
-   "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-   "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
-   "published": "2026-11-10T18:46:22Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -9267,7 +9145,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 4
+   "count": 3
   },
   {
    "name": "SecurityWeek",
@@ -9281,7 +9159,7 @@
    "type": "news",
    "home": "https://www.darkreading.com",
    "status": "ok",
-   "count": 50
+   "count": 47
   },
   {
    "name": "The Record",
@@ -9302,7 +9180,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 9
+   "count": 8
   },
   {
    "name": "Microsoft Security Response Center",
@@ -9339,14 +9217,14 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "Cisco Talos",
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 7
+   "count": 6
   },
   {
    "name": "SentinelOne Labs",
@@ -9417,7 +9295,7 @@
    "type": "government",
    "home": "https://www.cisa.gov",
    "status": "ok",
-   "count": 28
+   "count": 29
   },
   {
    "name": "NCSC UK",

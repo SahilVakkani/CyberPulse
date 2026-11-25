@@ -1,7 +1,320 @@
 {
- "generated_at": "2026-11-25T12:30:22Z",
+ "generated_at": "2026-11-25T22:10:45Z",
  "demo": false,
  "items": [
+  {
+   "id": "eb3fc971b476db8d",
+   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "72cace5c82fd439f",
+   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "74c03507cc4ed031",
+   "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+   "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "963228c15b1d2e3e",
+   "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
+   "link": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "aee65bc8ab681b47",
+   "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "f0ed0fdc40d96a21",
+   "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "6efc22951138a3c2",
+   "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "8236f5eb74b094df",
+   "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "cbf383c5a42e1074",
+   "title": "Reprioritizing Automated Leads with CrowdStrike Signal",
+   "link": "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "55a04ecbb2dbf7c5",
+   "title": "CrowdStrike Accelerates the Shift to the Agentic SOC",
+   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "50a53afadcff1570",
+   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+   "published": "2026-11-25T22:05:09Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "70f66acc3de798b1",
+   "title": "1Password customer data stolen after employee GitHub account breach",
+   "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+   "published": "2026-11-25T21:33:33Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "17a805c0d69ce858",
+   "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+   "link": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+   "source": "The Record",
+   "type": "news",
+   "summary": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
+   "published": "2026-11-25T21:18:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "dbfa2402c895a28e",
+   "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
+   "link": "https://therecord.media/fifa-data-breach-limited",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.",
+   "published": "2026-11-25T20:40:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "63da0c2dc0919fd6",
+   "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "published": "2026-11-25T19:39:31Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "50b8b790f8a4be80",
+   "title": "Oh, is it Thanksgiving? I hadn’t noticed!",
+   "link": "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/",
+   "source": "Cisco Talos",
+   "type": "vendor-research",
+   "summary": "In true Thanksgiving fashion, David has a few thank-yous to give to the cybersecurity community (and a few choice words for threat actors).",
+   "published": "2026-11-25T19:00:00Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "fc1fe5cb80de4b70",
+   "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web…",
+   "published": "2026-11-25T18:09:06Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "4fcf01c31362b2a5",
+   "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
+   "link": "https://therecord.media/ransomware-doj-indictment-recovery",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
+   "published": "2026-11-25T17:30:00Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "2bc53ab48fabfa98",
+   "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security",
+   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/",
+   "source": "Microsoft Security Blog",
+   "type": "vendor-research",
+   "summary": "We're honored to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security, for the second consecutive year. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security appeared first on Microsoft Security…",
+   "published": "2026-11-25T17:15:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "b93540ef2a5b4c4c",
+   "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
+   "link": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+   "source": "The Record",
+   "type": "news",
+   "summary": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause significant harms.",
+   "published": "2026-11-25T17:07:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "97df8d95478773eb",
+   "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+   "published": "2026-11-25T16:13:40Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "75d3be5138a98021",
+   "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+   "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+   "published": "2026-11-25T15:48:04Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "b2ec86257c9b955b",
+   "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+   "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer Vulnerabilities Under Attack appeared first on SecurityWeek .",
+   "published": "2026-11-25T15:27:36Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "5265d3f089dfd72e",
+   "title": "It's a Bot World. We're Just Living in It",
+   "link": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+   "published": "2026-11-25T15:20:27Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "a3b682ce25929f59",
+   "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+   "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own…",
+   "published": "2026-11-25T15:00:10Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "cf58cd9a4a424f82",
+   "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
+   "link": "https://unit42.paloaltonetworks.com/ai-threat-horizon/",
+   "source": "Unit 42 (Palo Alto Networks)",
+   "type": "vendor-research",
+   "summary": "Unit 42 examines the evolution of AI-driven cyberattacks and outlines proactive defense strategies for security teams. The post The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense appeared first on Unit 42 .",
+   "published": "2026-11-25T15:00:09Z",
+   "tags": [
+    "threat-actors"
+   ]
+  },
   {
    "id": "57a9de6dd6412718",
    "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
@@ -12,6 +325,104 @@
    "published": "2026-11-25T15:00:00Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "5d8223f882df7625",
+   "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+   "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+   "published": "2026-11-25T15:00:00Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "2ecf424fe11b7763",
+   "title": "AI agents found an unpatched flaw after being told to “break in”",
+   "link": "https://www.malwarebytes.com/blog/ai/2026/11/ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in",
+   "source": "Malwarebytes Labs",
+   "type": "vendor-research",
+   "summary": "AI agents discovered a previously unknown vulnerability and later used it to take control of a university server.",
+   "published": "2026-11-25T14:24:16Z",
+   "tags": [
+    "malware",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "e13089d7b52c9b0a",
+   "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+   "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties appeared first on SecurityWeek .",
+   "published": "2026-11-25T14:15:25Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "7c0a3009349718ce",
+   "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
+   "published": "2026-11-25T14:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "bb4d635f16b764f2",
+   "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+   "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek .",
+   "published": "2026-11-25T13:39:21Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "5aac1dca0d010c41",
+   "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+   "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+   "source": "SecurityWeek",
+   "type": "news",
+   "summary": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on SecurityWeek .",
+   "published": "2026-11-25T13:30:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "fa1f50764b02803d",
+   "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+   "link": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
+   "source": "The Record",
+   "type": "news",
+   "summary": "France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cancer treatments and revert to pen and paper.",
+   "published": "2026-11-25T13:30:00Z",
+   "tags": [
+    "ransomware"
+   ]
+  },
+  {
+   "id": "92db407f26f0f4fe",
+   "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read…",
+   "published": "2026-11-25T12:48:54Z",
+   "tags": [
+    "vulnerabilities",
+    "threat-actors"
    ]
   },
   {
@@ -27,111 +438,27 @@
    ]
   },
   {
-   "id": "eb3fc971b476db8d",
-   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "72cace5c82fd439f",
-   "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
+   "id": "851806c24f2db9ae",
+   "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+   "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The…",
+   "published": "2026-11-25T12:30:08Z",
    "tags": [
     "general"
    ]
   },
   {
-   "id": "74c03507cc4ed031",
-   "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
-   "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
-   "source": "CrowdStrike Blog",
+   "id": "3437a64cab1b4a66",
+   "title": "Two exposed databases held over 3.5 billion records",
+   "link": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
+   "source": "Malwarebytes Labs",
    "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "963228c15b1d2e3e",
-   "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
-   "link": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
+   "summary": "Researchers found stolen passwords, session cookies and children's school records sitting in two open databases.",
+   "published": "2026-11-25T12:27:36Z",
    "tags": [
     "malware"
-   ]
-  },
-  {
-   "id": "aee65bc8ab681b47",
-   "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f0ed0fdc40d96a21",
-   "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "6efc22951138a3c2",
-   "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "8236f5eb74b094df",
-   "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "cbf383c5a42e1074",
-   "title": "Reprioritizing Automated Leads with CrowdStrike Signal",
-   "link": "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T12:30:17Z",
-   "tags": [
-    "general"
    ]
   },
   {
@@ -144,6 +471,18 @@
    "published": "2026-11-25T12:07:21Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "b368c84bce94ed6c",
+   "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation…",
+   "published": "2026-11-25T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -630,6 +969,18 @@
    "type": "news",
    "summary": "Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.",
    "published": "2026-11-24T16:00:00Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "53b9a53ef0e17be9",
+   "title": "How Southeastern University Got a Handle on Its Data",
+   "link": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
+   "published": "2026-11-24T15:46:46Z",
    "tags": [
     "general"
    ]
@@ -8331,413 +8682,99 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "bcbd3a3cc80301d2",
-   "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
-   "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
-   "published": "2026-11-11T21:44:04Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "a4a34375ee4e181d",
-   "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-   "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
-   "published": "2026-11-11T21:27:40Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "c5c797f8dc8751d8",
-   "title": "AI Raises the Stakes for Cyber Resilience",
-   "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
-   "published": "2026-11-11T21:20:41Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "4555dea146472ff7",
-   "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-   "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-   "published": "2026-11-11T20:54:20Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "e2b7ebdc245e2a53",
-   "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
-   "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The RMM provider also released a hotfix as a recommended mitigation to address public exploits for the alleged zero-days, which allow for attacker takeover.",
-   "published": "2026-11-11T20:05:18Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "3c5e2d75ed5c2a87",
-   "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how threat actors are weaponizing GSocket for…",
-   "published": "2026-11-11T19:49:57Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "035672de8061b251",
-   "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
-   "link": "https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Vanderbilt University is restoring campus technology, but has not confirmed the attackers’ claims of stolen student and employee data.",
-   "published": "2026-11-11T18:29:01Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "6da26adf46a9e43c",
-   "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
-   "link": "https://isc.sans.edu/diary/rss/33508",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.",
-   "published": "2026-11-11T18:28:43Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "8cdc4a0f74c83bb2",
-   "title": "Who Runs the Ransomware Group Qilin?",
-   "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-   "source": "Krebs on Security",
-   "type": "news",
-   "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a…",
-   "published": "2026-11-11T18:06:01Z",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "id": "d62040292e654f68",
-   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
-   "link": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
-   "source": "The Record",
-   "type": "news",
-   "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
-   "published": "2026-11-11T16:57:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "e564f8c523137479",
-   "title": "Lessons from 59 Linux Kernel Bug Reports",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the…",
-   "published": "2026-11-11T16:55:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "f9a315b088957672",
-   "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
-   "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 Day 2 – Join…",
-   "published": "2026-11-11T16:29:42Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "4c32248b415f7e41",
-   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-   "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-   "published": "2026-11-11T16:24:18Z",
-   "tags": [
-    "ransomware",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "8b35f69eac704b22",
-   "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-   "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper…",
-   "published": "2026-11-11T16:12:46Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "d62ab9694fcc03e3",
-   "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
-   "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .",
-   "published": "2026-11-11T15:42:47Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "63cbf25606a5b49a",
-   "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-   "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed…",
-   "published": "2026-11-11T15:34:27Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "4b19adb36389b5ce",
-   "title": "Hide and Stream: Ambient Aircraft-DopplerGeolocation of Live Audio, and a Defense",
-   "link": "https://www.reddit.com/r/netsec/comments/1xtkb4y/hide_and_stream_ambient/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "Working draft (potential DEFCON publication). critique welcome submitted by /u/lymn [link] [comments]",
-   "published": "2026-11-11T15:15:12Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "9c9df925add3b480",
-   "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
-   "published": "2026-11-11T15:12:59Z",
-   "tags": [
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "a9021fd4336250c7",
-   "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-   "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits…",
-   "published": "2026-11-11T15:01:11Z",
-   "tags": [
-    "malware",
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "ceba7551bef304a7",
-   "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
-   "link": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "We uncover Falcon C2, a browser-based threat framework targeting governments via malicious scripts, extensions, and the Antino implant. The post The XG Files: Falcon C2 Flying Under The (Browser) Radar appeared first on Unit 42 .",
-   "published": "2026-11-11T15:00:23Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "738ecb7445b72d24",
-   "title": "Qlik Sense Servers Hit With PowerShell Reverse Shells; Attacker Server Holds ActiveMQ and Veeam Exploits",
-   "link": "https://www.reddit.com/r/netsec/comments/1xtjslt/qlik_sense_servers_hit_with_powershell_reverse/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/Much-Television-9449 [link] [comments]",
-   "published": "2026-11-11T14:55:07Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "8b20203d4372d618",
-   "title": "Defender’s hidden flight recorder: decrypting mpenginedb.db",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xtjb9a/defenders_hidden_flight_recorder_decrypting/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/radkawar [link] [comments]",
-   "published": "2026-11-11T14:35:28Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "fbdada287a14a18d",
-   "title": "ScriptBlock Smuggling - AMSI Evasion",
-   "link": "https://www.reddit.com/r/netsec/comments/1xtj92s/scriptblock_smuggling_amsi_evasion/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/netbiosX [link] [comments]",
-   "published": "2026-11-11T14:33:04Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b7f6cd76a1a61d1f",
-   "title": "2.4% of AFRINIC’s IPv4 addresses answer from outside Africa, and about 81% of those sit in one company’s four blocks",
-   "link": "https://www.reddit.com/r/netsec/comments/1xtirgl/24_of_afrinics_ipv4_addresses_answer_from_outside/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "I work at IPinfo and this one started with a simple question: if a registry says an address is African, is it actually in Africa? This started as work for a paper by our research team (WHEREIS, IMC 2026). We tested it with ping times. Light in fiber only travels so far in a…",
-   "published": "2026-11-11T14:12:37Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "fadeddcaa58da487",
-   "title": "New Kimsuki (APT-43) active infrastructure and campaign discovered",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xtir00/new_kimsuki_apt43_active_infrastructure_and/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "Stormshield's Cyber Threat Intelligence team has uncovered the Trigram campaign, targeting the AI, blockchain, and logistics sectors across Europe and the United States. The Bait: Threat actors impersonate 50 companies using fake job offers, invitations, and package tracking…",
-   "published": "2026-11-11T14:12:06Z",
-   "tags": [
-    "threat-hunting",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "35097ca3a4484717",
-   "title": "New Kimsuki (APT-43) active infrastructure and campaign discovered",
-   "link": "https://www.reddit.com/r/netsec/comments/1xtioog/new_kimsuki_apt43_active_infrastructure_and/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "Stormshield's Cyber Threat Intelligence team has uncovered the Trigram campaign, targeting the AI, blockchain, and logistics sectors across Europe and the United States. The Bait: Threat actors impersonate 50 companies using fake job offers, invitations, and package tracking…",
-   "published": "2026-11-11T14:09:28Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "7fc0ff6aee2afbb4",
-   "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-   "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several…",
-   "published": "2026-11-11T14:01:00Z",
-   "tags": [
-    "vulnerabilities",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "7ba871700f2534f8",
-   "title": "Asus, Zoom Release Security Patches",
-   "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .",
-   "published": "2026-11-11T13:58:38Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "1f290a6b3041fac5",
-   "title": "Remus malware claims Gmail access even after you change your password",
-   "link": "https://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "Developers of the infostealer Remus claim their malware can retain access to a victim’s Gmail even after a password reset.",
-   "published": "2026-11-11T13:42:10Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "60ccd3ca4d451df2",
-   "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
-   "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .",
-   "published": "2026-11-11T13:37:19Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "2b63f8aad1bf2186",
-   "title": "Poland shuts down government services platform ePUAP following cyberattack",
-   "link": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
-   "published": "2026-11-11T13:18:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "424f8e5ef5ac7fc4",
-   "title": "Britain, France set out first guidelines for commercial hacking firms",
-   "link": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.",
-   "published": "2026-11-11T13:11:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "693679885746ae3d",
-   "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-   "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
-   "published": "2026-11-11T12:32:27Z",
-   "tags": [
-    "vulnerabilities",
-    "cloud-identity"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-103406",
+   "vendor": "Hewlett Packard Enterprise (HPE)",
+   "product": "Juniper Session Smart Conductor and Session Smart Router",
+   "name": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection…",
+   "added": "2026-11-25",
+   "due": "2026-11-28",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-133469",
+   "vendor": "Vates",
+   "product": "Xen Orchestra",
+   "name": "Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-11-28",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2025-41450",
+   "vendor": "Danfoss",
+   "product": "AK-SM 800A Series",
+   "name": "Danfoss AK-SM 800A Series Improper Authentication Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-12-09",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2023-25914",
+   "vendor": "Danfoss",
+   "product": "AK-SM 800A Series",
+   "name": "Danfoss AK-SM 800A Series Path Traversal Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-11-28",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2023-25915",
+   "vendor": "Danfoss",
+   "product": "AK-SM 800A Series",
+   "name": "Danfoss AK-SM 800A Series Improper Input Validation Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-11-28",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-133324",
+   "vendor": "Mitel",
+   "product": "MiCollab",
+   "name": "Mitel MiCollab Not Failing Securely Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-11-28",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-133275",
+   "vendor": "Mitel",
+   "product": "MiCollab",
+   "name": "Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-11-28",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-133311",
+   "vendor": "Mitel",
+   "product": "MiCollab",
+   "name": "Mitel MiCollab Weak Authentication Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-12-09",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-133303",
+   "vendor": "Mitel",
+   "product": "MiCollab",
+   "name": "Mitel MiCollab XML Injection Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-11-28",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-133323",
+   "vendor": "Mitel",
+   "product": "MiCollab",
+   "name": "Mitel MiCollab OS Command Injection Vulnerability",
+   "added": "2026-11-25",
+   "due": "2026-11-28",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2026-132224",
    "vendor": "Optimizely",
@@ -8782,96 +8819,6 @@
    "added": "2026-11-23",
    "due": "2026-11-26",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-129448",
-   "vendor": "Apache",
-   "product": "Roller",
-   "name": "Apache Roller Deserialization of Untrusted Data Vulnerability",
-   "added": "2026-11-20",
-   "due": "2026-11-23",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-123890",
-   "vendor": "Broadcom",
-   "product": "VMware vCenter",
-   "name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-   "added": "2026-11-20",
-   "due": "2026-11-23",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2025-42884",
-   "vendor": "SAP",
-   "product": "NetWeaver",
-   "name": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
-   "added": "2026-11-20",
-   "due": "2026-11-23",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-76466",
-   "vendor": "Cisco",
-   "product": "Expressway Series",
-   "name": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
-   "added": "2026-11-20",
-   "due": "2026-11-23",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2024-10441",
-   "vendor": "Synology",
-   "product": "DiskStation Manager (DSM)",
-   "name": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
-   "added": "2026-11-18",
-   "due": "2026-11-21",
-   "ransomware": true
-  },
-  {
-   "cve": "CVE-2026-40217",
-   "vendor": "BerriAI",
-   "product": "LiteLLM",
-   "name": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
-   "added": "2026-11-18",
-   "due": "2026-12-02",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-90817",
-   "vendor": "Vanderbilt University",
-   "product": "Research Electronic Data Capture (REDCap)",
-   "name": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
-   "added": "2026-11-18",
-   "due": "2026-11-21",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-90436",
-   "vendor": "Apache",
-   "product": "Axis",
-   "name": "Apache Axis Unsafe Reflection Vulnerability",
-   "added": "2026-11-18",
-   "due": "2026-11-21",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-115731",
-   "vendor": "Perforce",
-   "product": "Puppet Enterprise",
-   "name": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
-   "added": "2026-11-17",
-   "due": "2026-12-01",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-114713",
-   "vendor": "UnrealIRCd",
-   "product": "UnrealIRCd",
-   "name": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
-   "added": "2026-11-13",
-   "due": "2026-11-16",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -8895,7 +8842,7 @@
    "type": "news",
    "home": "https://krebsonsecurity.com",
    "status": "ok",
-   "count": 3
+   "count": 2
   },
   {
    "name": "SecurityWeek",
@@ -8909,7 +8856,7 @@
    "type": "news",
    "home": "https://www.darkreading.com",
    "status": "ok",
-   "count": 48
+   "count": 49
   },
   {
    "name": "The Record",
@@ -8974,7 +8921,7 @@
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 8
+   "count": 9
   },
   {
    "name": "SentinelOne Labs",
@@ -9017,7 +8964,7 @@
    "home": "https://news.sophos.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed"
+   "error": "404 Client Error: Not Found for url: https://www.sophos.com/en-us/blog/en-us/feed?utm_source=perplexity%3Futm_source%3Dperplexity"
   },
   {
    "name": "Malwarebytes Labs",
@@ -9045,7 +8992,7 @@
    "type": "government",
    "home": "https://www.cisa.gov",
    "status": "ok",
-   "count": 29
+   "count": 30
   },
   {
    "name": "NCSC UK",
@@ -9067,7 +9014,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
+   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
@@ -9075,7 +9022,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

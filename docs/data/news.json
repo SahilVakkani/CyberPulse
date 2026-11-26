@@ -1,19 +1,7 @@
 {
- "generated_at": "2026-11-25T22:10:45Z",
+ "generated_at": "2026-11-26T04:16:24Z",
  "demo": false,
  "items": [
-  {
-   "id": "eb3fc971b476db8d",
-   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
-   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-25T22:10:41Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
   {
    "id": "72cace5c82fd439f",
    "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
@@ -21,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "general"
    ]
@@ -33,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "general"
    ]
@@ -45,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "malware"
    ]
@@ -57,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "general"
    ]
@@ -69,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "general"
    ]
@@ -81,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -93,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "general"
    ]
@@ -105,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "general"
    ]
@@ -117,9 +105,45 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-25T22:10:41Z",
+   "published": "2026-11-26T04:16:18Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "f6f7fcdada17bb3c",
+   "title": "Securing Employees’ AI Use Requires a Unified Architecture",
+   "link": "https://www.crowdstrike.com/en-us/blog/securing-employees-ai-use-requires-unified-architecture/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-26T04:16:18Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "98bf0c432201829a",
+   "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+   "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket…",
+   "published": "2026-11-26T03:48:52Z",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "id": "eb3fc971b476db8d",
+   "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+   "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+   "source": "CrowdStrike Blog",
+   "type": "vendor-research",
+   "summary": "",
+   "published": "2026-11-25T22:10:41Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -8549,139 +8573,6 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "b4a4900d73486af7",
-   "title": "CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-12T03:39:05Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "5ca00f3aa60da803",
-   "title": "The Enemy Within. Tracking LIMINAL PANDA and SilentAir through Mobile Networks",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xu24s8/the_enemy_within_tracking_liminal_panda_and/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-12T03:24:19Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "14b8606455db464f",
-   "title": "MCPTrace follow-up: validating Node/.NET HTTP traces in Linux process memory",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xu0i2u/mcptrace_followup_validating_nodenet_http_traces/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "Following my earlier MCPTrace Volatility 3 plugin post, I tested official Node and .NET MCP clients over Streamable HTTP on Linux. I paused each process and scanned two separate virtual-memory snapshots, with a Content-Length-framed LSP control. Distinct logged messages found:…",
-   "published": "2026-11-12T02:04:48Z",
-   "tags": [
-    "threat-hunting",
-    "dfir"
-   ]
-  },
-  {
-   "id": "f4c0f4da808ed92d",
-   "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
-   "link": "https://isc.sans.edu/diary/rss/33512",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-11-12T02:00:03Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "09b90dc11a1c3ebf",
-   "title": "History of Password Cracking",
-   "link": "https://www.reddit.com/r/netsec/comments/1xtz6sk/history_of_password_cracking/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/netmux [link] [comments]",
-   "published": "2026-11-12T01:02:04Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d9fc7bca781a0c50",
-   "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
-   "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
-   "published": "2026-11-12T01:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "09ebecc42123bff9",
-   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-   "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
-   "published": "2026-11-12T00:00:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "7f241c94ac846596",
-   "title": "Baker Tilly notifies clients of data breach at third-party provider",
-   "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
-   "published": "2026-11-11T23:01:31Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ee8b1c5bd7a18200",
-   "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
-   "link": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
-   "source": "Unit 42 (Palo Alto Networks)",
-   "type": "vendor-research",
-   "summary": "Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks. The post ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know appeared first on Unit 42 .",
-   "published": "2026-11-11T23:00:53Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "ccdd6c7f3ffe5679",
-   "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-   "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-   "published": "2026-11-11T22:56:21Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "b8f3cb130e069b0b",
-   "title": "AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進",
-   "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
-   "published": "2026-11-11T22:14:44Z",
-   "tags": [
-    "general"
-   ]
   }
  ],
  "kev": [
@@ -8856,7 +8747,7 @@
    "type": "news",
    "home": "https://www.darkreading.com",
    "status": "ok",
-   "count": 49
+   "count": 46
   },
   {
    "name": "The Record",
@@ -8914,7 +8805,7 @@
    "type": "vendor-research",
    "home": "https://unit42.paloaltonetworks.com",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "Cisco Talos",
@@ -9014,7 +8905,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/netsec/.rss"
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/netsec/.rss"
   },
   {
    "name": "Reddit r/blueteamsec",
@@ -9022,7 +8913,7 @@
    "home": "https://www.reddit.com",
    "status": "error",
    "count": 0,
-   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/blueteamsec/.rss"
+   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/blueteamsec/.rss"
   },
   {
    "name": "CISA Known Exploited Vulnerabilities",

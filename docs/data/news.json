@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:11:54Z",
+ "generated_at": "2026-11-27T05:15:05Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "malware"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-26T23:11:49Z",
+   "published": "2026-11-27T05:14:59Z",
    "tags": [
     "general"
    ]
@@ -7840,54 +7840,6 @@
    "published": "2026-11-13T05:31:06Z",
    "tags": [
     "threat-hunting"
-   ]
-  },
-  {
-   "id": "6b2047aad824de08",
-   "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
-   "link": "https://isc.sans.edu/diary/rss/33518",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "Introduction",
-   "published": "2026-11-13T03:41:41Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "589fccee67c25799",
-   "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-   "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance appeared first on…",
-   "published": "2026-11-13T02:28:21Z",
-   "tags": [
-    "phishing"
-   ]
-  },
-  {
-   "id": "34edbf5084ab9164",
-   "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
-   "link": "https://isc.sans.edu/diary/rss/33516",
-   "source": "SANS Internet Storm Center",
-   "type": "community",
-   "summary": "",
-   "published": "2026-11-13T02:00:03Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ed55e5852411ab23",
-   "title": "Massive ‘wfx-loot’ Campaign Probes Over 60,000 GitHub Repositories to Steal CI and Cloud Secrets",
-   "link": "https://www.reddit.com/r/netsec/comments/1xuug3s/massive_wfxloot_campaign_probes_over_60000_github/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/Much-Television-9449 [link] [comments]",
-   "published": "2026-11-13T01:12:20Z",
-   "tags": [
-    "cloud-identity"
    ]
   }
  ],

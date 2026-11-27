@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:27:39Z",
+ "generated_at": "2026-11-27T23:40:17Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "malware"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,79 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T15:27:33Z",
+   "published": "2026-11-27T23:40:12Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "9a5641a98b228a31",
+   "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+   "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
+   "source": "Schneier on Security",
+   "type": "news",
+   "summary": "The two have an interesting history . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+   "published": "2026-11-27T22:01:25Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "c33ac200edb1beb1",
+   "title": "pCloud confirms password manager hack after suspicious login alerts",
+   "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+   "published": "2026-11-27T19:26:04Z",
+   "tags": [
+    "cloud-identity"
+   ]
+  },
+  {
+   "id": "72cf1a5347d22a62",
+   "title": "New Boston Scientific data breach exposes personal, medical info",
+   "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+   "published": "2026-11-27T18:57:42Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "8b62149719af4472",
+   "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+   "source": "BleepingComputer",
+   "type": "news",
+   "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+   "published": "2026-11-27T17:06:13Z",
+   "tags": [
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "f01224df1f54e40b",
+   "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+   "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+   "source": "The Hacker News",
+   "type": "news",
+   "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set,…",
+   "published": "2026-11-27T16:36:11Z",
+   "tags": [
+    "general"
+   ]
+  },
+  {
+   "id": "47ba8e3fb16d19ce",
+   "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+   "link": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+   "source": "Dark Reading",
+   "type": "news",
+   "summary": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments.",
+   "published": "2026-11-27T15:27:20Z",
    "tags": [
     "general"
    ]
@@ -229,6 +301,18 @@
    "published": "2026-11-27T12:02:23Z",
    "tags": [
     "general"
+   ]
+  },
+  {
+   "id": "e66a2e1c8c17bc39",
+   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "link": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+   "source": "CISA Cybersecurity Advisories",
+   "type": "government",
+   "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo GeoServer Incorrect Authorization Vulnerability…",
+   "published": "2026-11-27T12:00:00Z",
+   "tags": [
+    "vulnerabilities"
    ]
   },
   {
@@ -1853,18 +1937,6 @@
    "source": "NCSC UK",
    "type": "government",
    "summary": "How to protect your organisation from cyber attacks created using ‘agentic offensive frameworks’.",
-   "published": "2026-11-24T12:00:00Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "a0ae3cb09c406305",
-   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-   "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-   "source": "CISA Cybersecurity Advisories",
-   "type": "government",
-   "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution…",
    "published": "2026-11-24T12:00:00Z",
    "tags": [
     "vulnerabilities"
@@ -7345,289 +7417,36 @@
    "tags": [
     "general"
    ]
-  },
-  {
-   "id": "2cf87a19124d5e79",
-   "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
-   "link": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "It's hard to detect whether someone is using artificial intelligence to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
-   "published": "2026-11-13T22:27:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "26bc7212e5d9b4f9",
-   "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-   "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-   "source": "Schneier on Security",
-   "type": "news",
-   "summary": "Climate change is the issue . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
-   "published": "2026-11-13T22:00:46Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "11d7cc16194db7a1",
-   "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
-   "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-   "source": "SecurityWeek",
-   "type": "news",
-   "summary": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
-   "published": "2026-11-13T21:33:27Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "f0f23fdb08d7bf54",
-   "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
-   "link": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" the FBI said.",
-   "published": "2026-11-13T21:32:00Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "78498214505c5f31",
-   "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
-   "link": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
-   "source": "Microsoft Security Blog",
-   "type": "vendor-research",
-   "summary": "SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting. The post SCKit abuses ScreenConnect to deploy remote access and target technician sessions appeared first on…",
-   "published": "2026-11-13T21:31:44Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "38575ed02d46dab0",
-   "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvk2y2/amazon_threat_intelligence_observes_threat_actors/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-13T21:19:34Z",
-   "tags": [
-    "threat-hunting",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "3c3eab5ceb3d840c",
-   "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
-   "link": "https://blog.talosintelligence.com/artex-and-beyond/",
-   "source": "Cisco Talos",
-   "type": "vendor-research",
-   "summary": "AI-enabled penetration testing and red team frameworks can automate and chain reconnaissance, vulnerability testing, and follow-on actions, lowering the skill threshold for attackers and accelerating intrusions when the tools are misused.",
-   "published": "2026-11-13T20:57:13Z",
-   "tags": [
-    "vulnerabilities"
-   ]
-  },
-  {
-   "id": "e12779d5806a7d26",
-   "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-   "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-   "source": "Dark Reading",
-   "type": "news",
-   "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
-   "published": "2026-11-13T20:20:27Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "a261c05fe24e739a",
-   "title": "Threat Overview of ARTEX Autonomous Penetration Testing Framework",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvhquo/threat_overview_of_artex_autonomous_penetration/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-13T19:48:06Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "810ecd44c3ac2c42",
-   "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
-   "link": "https://therecord.media/city-of-osaka-japan-email-data-breach",
-   "source": "The Record",
-   "type": "news",
-   "summary": "Osaka, Japan's third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government.",
-   "published": "2026-11-13T19:43:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "ee274201614e1119",
-   "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-   "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-   "published": "2026-11-13T19:38:36Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "cf42b36aeb3f1a4f",
-   "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
-   "link": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
-   "source": "The Record",
-   "type": "news",
-   "summary": "The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.",
-   "published": "2026-11-13T18:35:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "7eace54a07ebf0b7",
-   "title": "GeoVision Camera Software Abused to Deploy XMRig Cryptominer",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvf90r/geovision_camera_software_abused_to_deploy_xmrig/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-13T18:13:54Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "813152d34a035ee2",
-   "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xves09/the_global_socket_how_threat_actors_are/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-13T17:56:45Z",
-   "tags": [
-    "threat-hunting",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "f6f4a6d64aa85b9c",
-   "title": "German military drone operations disrupted by cyberattack",
-   "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-   "published": "2026-11-13T17:31:56Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "4c8fe02bd04ce44e",
-   "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
-   "link": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
-   "source": "The Record",
-   "type": "news",
-   "summary": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.",
-   "published": "2026-11-13T17:26:00Z",
-   "tags": [
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "e05f7a78ce38d83c",
-   "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-   "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-   "source": "The Hacker News",
-   "type": "news",
-   "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the…",
-   "published": "2026-11-13T16:53:08Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "d7bc555715b6841f",
-   "title": "New York City votes to ban surveillance pricing",
-   "link": "https://www.malwarebytes.com/blog/news/2026/11/new-york-city-council-votes-to-ban-surveillance-pricing",
-   "source": "Malwarebytes Labs",
-   "type": "vendor-research",
-   "summary": "The bill would stop companies from using personal data to set individualized prices. Here’s what that means for shoppers.",
-   "published": "2026-11-13T16:52:36Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "f6d06bee472cc946",
-   "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
-   "link": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
-   "source": "The Record",
-   "type": "news",
-   "summary": "In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signed off on the draft.",
-   "published": "2026-11-13T16:32:00Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "b297d876237ef144",
-   "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-   "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-   "source": "BleepingComputer",
-   "type": "news",
-   "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-   "published": "2026-11-13T16:21:43Z",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "id": "8f1a3f686c863b93",
-   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvbts7/lazare_veni_foras_reprogramming_dormant_neurons/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/jnazario [link] [comments]",
-   "published": "2026-11-13T16:07:06Z",
-   "tags": [
-    "threat-hunting",
-    "malware"
-   ]
-  },
-  {
-   "id": "19ad942142494871",
-   "title": "Inside the loop: Five AI attack frameworks that never ask permission",
-   "link": "https://www.elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex",
-   "source": "Elastic Security Labs",
-   "type": "vendor-research",
-   "summary": "Five agentic offensive frameworks act in bursts of two to 25 seconds, and none enforces authorization in code. What ARTEX, CyberStrikeAI, Cairn, PentAGI, and HexStrike leave in your telemetry, and the ES|QL hunt that catches them.",
-   "published": "2026-11-13T16:00:00Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "e4e9606f466dde4a",
-   "title": "DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018",
-   "link": "https://therecord.media/gootloader-ransomware-doj-details",
-   "source": "The Record",
-   "type": "news",
-   "summary": "In a briefing adjacent to European announcements about an international anti-malware operation, U.S. officials detailed the history and impact of the Gootloader ransomware.",
-   "published": "2026-11-13T15:59:00Z",
-   "tags": [
-    "malware",
-    "ransomware"
-   ]
   }
  ],
  "kev": [
+  {
+   "cve": "CVE-2026-120705",
+   "vendor": "OSGeo",
+   "product": "GeoServer",
+   "name": "OSGeo GeoServer XML Injection Vulnerability",
+   "added": "2026-11-27",
+   "due": "2026-11-30",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-129243",
+   "vendor": "OSGeo",
+   "product": "GeoServer",
+   "name": "OSGeo GeoServer Incorrect Authorization Vulnerability",
+   "added": "2026-11-27",
+   "due": "2026-11-30",
+   "ransomware": false
+  },
+  {
+   "cve": "CVE-2026-136716",
+   "vendor": "Drupal",
+   "product": "Core",
+   "name": "Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability",
+   "added": "2026-11-27",
+   "due": "2026-11-30",
+   "ransomware": false
+  },
   {
    "cve": "CVE-2026-103406",
    "vendor": "Hewlett Packard Enterprise (HPE)",
@@ -7735,33 +7554,6 @@
    "added": "2026-11-24",
    "due": "2026-11-27",
    "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-132165",
-   "vendor": "Drupal",
-   "product": "Core",
-   "name": "Drupal Core Remote Code Execution Vulnerability",
-   "added": "2026-11-24",
-   "due": "2026-11-27",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-133968",
-   "vendor": "Project MONAI",
-   "product": "MONAI Label",
-   "name": "Project MONAI MONAI Label Path Traversal Vulnerability",
-   "added": "2026-11-23",
-   "due": "2026-11-26",
-   "ransomware": false
-  },
-  {
-   "cve": "CVE-2026-134624",
-   "vendor": "N-able",
-   "product": "MailAssure",
-   "name": "N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
-   "added": "2026-11-23",
-   "due": "2026-11-26",
-   "ransomware": false
   }
  ],
  "iocs": [],
@@ -7799,7 +7591,7 @@
    "type": "news",
    "home": "https://www.darkreading.com",
    "status": "ok",
-   "count": 42
+   "count": 41
   },
   {
    "name": "The Record",
@@ -7820,7 +7612,7 @@
    "type": "vendor-research",
    "home": "https://www.microsoft.com",
    "status": "ok",
-   "count": 7
+   "count": 6
   },
   {
    "name": "Microsoft Security Response Center",
@@ -7864,7 +7656,7 @@
    "type": "vendor-research",
    "home": "https://blog.talosintelligence.com",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "SentinelOne Labs",
@@ -7899,7 +7691,7 @@
    "type": "vendor-research",
    "home": "https://www.elastic.co",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "Sophos News",
@@ -7935,7 +7727,7 @@
    "type": "government",
    "home": "https://www.cisa.gov",
    "status": "ok",
-   "count": 24
+   "count": 25
   },
   {
    "name": "NCSC UK",

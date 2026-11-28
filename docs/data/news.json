@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:40:17Z",
+ "generated_at": "2026-11-28T06:47:02Z",
  "demo": false,
  "items": [
   {
@@ -9,7 +9,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "general"
    ]
@@ -21,7 +21,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "general"
    ]
@@ -33,7 +33,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "malware"
    ]
@@ -45,7 +45,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "general"
    ]
@@ -57,7 +57,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "general"
    ]
@@ -69,7 +69,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "vulnerabilities"
    ]
@@ -81,7 +81,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "general"
    ]
@@ -93,7 +93,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "general"
    ]
@@ -105,7 +105,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "general"
    ]
@@ -117,7 +117,7 @@
    "source": "CrowdStrike Blog",
    "type": "vendor-research",
    "summary": "",
-   "published": "2026-11-27T23:40:12Z",
+   "published": "2026-11-28T06:46:59Z",
    "tags": [
     "general"
    ]
@@ -7282,140 +7282,6 @@
    "published": "2026-11-14T06:56:55Z",
    "tags": [
     "threat-hunting"
-   ]
-  },
-  {
-   "id": "26f1df29b5527fe5",
-   "title": "2026-11-10: Antifox Agentic Pentesting Platform Used to Steal AWS Credentials and Move Laterally in Compromised Environments",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvveej/20261110_antifox_agentic_pentesting_platform_used/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T06:31:03Z",
-   "tags": [
-    "threat-hunting",
-    "cloud-identity"
-   ]
-  },
-  {
-   "id": "f9c734cde24df3ea",
-   "title": "BloodTrail: Making BloodHound fast",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvvbki/bloodtrail_making_bloodhound_fast/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T06:26:32Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "c5079cc247465190",
-   "title": "APT-C-35（肚脑虫）组织使用节日主题诱饵对巴基斯坦的攻击活动分析 - Analysis of APT-C-35 (Brain Worm) attacks in Pakistan using holiday-themed bait",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuwnw/aptc35肚脑虫组织使用节日主题诱饵对巴基斯坦的攻击活动分析_analysis_of/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T06:03:07Z",
-   "tags": [
-    "threat-hunting",
-    "threat-actors"
-   ]
-  },
-  {
-   "id": "3db2525aab1a4a9d",
-   "title": "Large Language Models for Cybersecurity: A Survey of Data, Training, Models, Agent Systems, Evaluation, and Applications",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuvv0/large_language_models_for_cybersecurity_a_survey/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T06:01:45Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "ae6a5a31560b0eb9",
-   "title": "Seep-Reverse-Lab: Multi-platform client reverse engineering for AI agents; authorization flow auditing (CWE-602); automated security workbench.",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuv0n/seepreverselab_multiplatform_client_reverse/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T06:00:40Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "3d4fc346be883df6",
-   "title": "Beyond ARTEX: 45 Autonomous Attack Frameworks, Their Search Targets, and Discovery Methods",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuuaz/beyond_artex_45_autonomous_attack_frameworks/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T05:59:43Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "5ab4bdc87838ab18",
-   "title": "[2610.02869] AgentTrap: Stateful Feedback Deception against Autonomous Penetration Testing Agents",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvutsv/261002869_agenttrap_stateful_feedback_deception/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T05:58:55Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "48f2284f50d5f6ed",
-   "title": "Still in the Meeting: BlueNoroff Six Months On",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuicw/still_in_the_meeting_bluenoroff_six_months_on/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T05:40:42Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "c93c9bc5b5e3d103",
-   "title": "Justice Department Announces Actions to Disrupt North Korea’s Massive Theft of Cryptocurrency",
-   "link": "https://www.reddit.com/r/blueteamsec/comments/1xvuhsi/justice_department_announces_actions_to_disrupt/",
-   "source": "Reddit r/blueteamsec",
-   "type": "community",
-   "summary": "submitted by /u/digicat [link] [comments]",
-   "published": "2026-11-14T05:39:50Z",
-   "tags": [
-    "threat-hunting"
-   ]
-  },
-  {
-   "id": "914eba08ce82050c",
-   "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
-   "source": "CrowdStrike Blog",
-   "type": "vendor-research",
-   "summary": "",
-   "published": "2026-11-14T02:39:38Z",
-   "tags": [
-    "general"
-   ]
-  },
-  {
-   "id": "799f0cf77e42dbd3",
-   "title": "Helping Developers Writing Code Analyzer Queries",
-   "link": "https://www.reddit.com/r/netsec/comments/1xvqwd5/helping_developers_writing_code_analyzer_queries/",
-   "source": "Reddit r/netsec",
-   "type": "community",
-   "summary": "submitted by /u/Agile_Pangolin_7021 [link] [comments]",
-   "published": "2026-11-14T02:27:30Z",
-   "tags": [
-    "general"
    ]
   }
  ],
